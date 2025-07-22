@@ -1,0 +1,73 @@
+{
+    "providers": [
+        {
+            "delivery_condition": {
+                "purchasing_time_limit": null,
+                "settings": [],
+                "periodicity": null
+            },
+            "id": "46a360cc-55e0-4402-8397-203bdd01c6c7",
+            "name": "BANAGRUMES",
+            "contact_name": "Generic",
+            "contact_number": "0101010101",
+            "fax": "0",
+            "email_address": "generic@fullsoon.co",
+            "credit_email_address": "generic@fullsoon.co",
+            "address": "Work, 36 Rue Raspail, 92300 Levallois-Perret, France",
+            "country": "France",
+            "state": "Île-de-France",
+            "city": "Levallois-Perret",
+            "zip_code": "92300",
+            "siren_number": null,
+            "siret_number": null,
+            "category": null,
+            "entity_number": "0",
+            "min_order_value": 0,
+            "min_order_quantity": 0,
+            "restaurant_id": "7ea303f0-5fbf-42c3-bf11-b4790283832f",
+            "ingredient_categories": [
+                "fruitsAndVegetables",
+                "packaging",
+                "frozen",
+                "others"
+            ]
+        },
+        {
+            "delivery_condition": {
+                "purchasing_time_limit": null,
+                "settings": [],
+                "periodicity": null
+            },
+            "id": "b8e78e8c-1092-44bd-8322-20c4a1e42e5e",
+            "name": "FRANPRIX",
+            "contact_name": "Funda Pinarci",
+            "contact_number": "0767151171",
+            "fax": null,
+            "email_address": "info@ulas.fr",
+            "credit_email_address": null,
+            "address": "3-5 Rue Chauvart, 95500 Gonesse, France",
+            "country": "France",
+            "state": "Île-de-France",
+            "city": "Gonesse",
+            "zip_code": "95500",
+            "siren_number": null,
+            "siret_number": null,
+            "category": null,
+            "entity_number": null,
+            "min_order_value": null,
+            "min_order_quantity": null,
+            "restaurant_id": "7ea303f0-5fbf-42c3-bf11-b4790283832f",
+            "ingredient_categories": [
+                "drinks",
+                "frozen",
+                "grosseries",
+                "packaging",
+                "meatFish",
+                "otherFreshProducts",
+                "others",
+                "breadsAndBakery",
+                "sauces"
+            ]
+        }
+    ]
+  }

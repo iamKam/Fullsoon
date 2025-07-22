@@ -1,0 +1,94 @@
+.dashboard {
+  height: calc(100vh - 160px);
+  .first-card {
+    height: 48%;
+  }
+  .mt-25 {
+    margin-top: 25px;
+  }
+  .second-card {
+    height: 48.5%;
+  }
+
+  /*   @media screen and (max-height: "785px") {
+    .top-flop {
+      .top-flop-item {
+        &:nth-last-child(2) {
+          display: none !important;
+        }
+      }
+    }
+  }
+ */
+  /* @media screen and (max-height: "830px") {
+    .top-flop {
+      .top-flop-item {
+        &:nth-last-child(1) {
+          display: none !important;
+        }
+      }
+    }
+  } */
+  @media screen and (min-width: "1600px") and (max-height: "830px") {
+    height: calc(100vh - 190px);
+    .first-card {
+      height: 47%;
+    }
+  }
+  @media screen and (min-width: "1921px") and (max-height: "970px") {
+    .top-flop {
+      .top-flop-item {
+        &:nth-last-child(1) {
+          display: none !important;
+        }
+      }
+    }
+  }
+  @media screen and (min-width: "1921px") and (max-height: "821px") {
+    .top-flop {
+      .top-flop-item {
+        &:nth-last-child(2) {
+          display: none !important;
+        }
+      }
+    }
+  }
+  @media screen and (max-width: "1599px") and (min-height: "831px") {
+    height: calc(100vh - 165px) !important;
+    .first-card {
+      height: 49.5% !important;
+    }
+    .mt-25 {
+      margin-top: 35px;
+    }
+    .second-card {
+      height: 48% !important;
+    }
+  }
+  @media screen and (min-height: "831px") {
+    height: calc(100vh - 185px);
+    .first-card {
+      height: 48%;
+    }
+    // .mt-25 {
+    //   // margin-top: 60px;
+    // }
+    .second-card {
+      height: 48.5%;
+    }
+  }
+}
+
+@media screen and (max-height: 850px) {
+  .dashboard {
+    height: calc(100vh - 150px);
+  }
+}
+
+.top-flop {
+  .text-muted-msg {
+    font-size: 13px;
+    top: 25px;
+    position: relative;
+  }
+}

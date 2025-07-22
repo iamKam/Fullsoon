@@ -1,0 +1,172 @@
+@import "../../assets/scss/variables";
+
+@media screen and (max-height: 850px) {
+  .service-container {
+    display: unset !important;
+  }
+}
+
+.service-container {
+  .after-divider-container {
+    height: calc(100% - 60px);
+  }
+  .divider {
+    border-bottom: 1px solid #e0e0e0;
+    margin-bottom: 20px;
+    .navbtns {
+      width: 300px;
+      li {
+        border-bottom: none;
+      }
+    }
+  }
+  .rightcontent {
+    .card {
+      height: 100%;
+      background: $fullsoon;
+      border-radius: 10px;
+      .card-body {
+        .fltr-heading {
+          display: flex;
+          justify-content: space-between;
+          margin-bottom: 13px;
+          label {
+            font-weight: bold;
+            font-size: 14px;
+            line-height: 19px;
+            display: flex;
+            align-items: center;
+          }
+          button {
+            background: transparent;
+            border: 0;
+            border-bottom: 1px solid #fff;
+            padding: 0px 3px;
+            font-weight: bold;
+            font-size: 12px;
+            line-height: 16px;
+            display: flex;
+            align-items: center;
+            color: #f3f4fb;
+          }
+        }
+
+        .datepicker-wrapper {
+          span {
+            font-weight: bold;
+            font-size: 14px;
+            line-height: 19px;
+            display: flex;
+            align-items: center;
+            color: #f3f4fb;
+          }
+          .datepicker-wrapper-img {
+            display: flex;
+            justify-content: flex-end;
+          }
+          img {
+            cursor: pointer;
+          }
+          .date-picker {
+            background: transparent;
+            border: 0;
+            color: #fff;
+            font-weight: bold;
+            width: 100%;
+            outline: none;
+          }
+        }
+
+        .react-datepicker-wrapper {
+          width: 60%;
+        }
+        .hr-separator {
+          height: 0.5px;
+          margin: 0.5rem 0;
+          color: #f3f4fb;
+        }
+        label {
+          cursor: pointer;
+          &:hover {
+            color: #fff !important;
+          }
+        }
+        color: #fff;
+        h1 {
+          font-weight: bold;
+          font-size: 21px;
+          line-height: 29px;
+        }
+        .action-btns {
+          bottom: 20px;
+          display: flex;
+          position: absolute;
+          left: 50%;
+          transform: translate(-50%, 0);
+          button {
+            background: #f1f3f4;
+            border-radius: 5px;
+            width: 221px;
+            height: 40px;
+            width: 102px;
+            height: 40px;
+            border: 0;
+            font-size: 16px;
+            font-weight: bold;
+            &.close-btn {
+              color: #8b8f94;
+            }
+            &.apply-btn {
+              color: #6353ea;
+            }
+          }
+        }
+        .hide-filter {
+          display: flex;
+          justify-content: end;
+          font-weight: bold;
+          font-size: 14px;
+          line-height: 19px;
+          margin-top: 5px;
+          text-decoration: underline;
+          cursor: pointer;
+          img{
+            margin-left: 5px;
+          }
+        }
+      }
+      .checkbox {
+        font-size: 14px;
+        line-height: 19px;
+        display: flex;
+        align-items: center;
+        input {
+          display: none; /* Hide the default checkbox */
+        }
+        span {
+          height: 15px;
+          width: 15px;
+          display: inline-block;
+          position: relative;
+          border: 1px solid #ffffff;
+          box-sizing: border-box;
+          border-radius: 2px;
+        }
+        [type="checkbox"]:checked + span:before {
+          content: "\2714";
+          position: absolute;
+          top: -2px;
+          left: 1.5px;
+          font-size: 14px;
+        }
+      }
+    }
+  }
+
+  .first-card {
+    height: 48%;
+  }
+  .second-card {
+    height: 48.5%;
+  }
+}

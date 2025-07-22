@@ -1,0 +1,393 @@
+{
+  "ingredient_stock": [
+    {
+      "id": "c25af44b-f195-41c7-975f-ca92b5845d9b",
+      "name": "tanders",
+      "category": "eggs",
+      "unit": "item",
+      "cost_excl_tax": 30,
+      "image_path": null,
+      "restaurant_id": "8699487f-190e-4730-bab4-88730bd7a7da",
+      "stock": {
+        "unit_stock": 20,
+        "theoretical_stock": 20,
+        "expiry": "good"
+      },
+      "stock_prediction": null,
+      "providers": [
+        {
+          "id": "071bd0f3-74f4-4541-9ae3-78b190a5683f",
+          "name": "Provider 1",
+          "contact_name": null,
+          "contact_number": null,
+          "email_address": "mail@mail.com",
+          "address": "Uşak, Uşak Merkez/Uşak, Türkiye",
+          "delivery_frequency": {
+            "delivery_days": [
+              "monday",
+              "tuesday"
+            ],
+            "periodicity": null
+          },
+          "provider_ingredient_id": "7f377c87-462e-4d61-80b9-c9bc1412cc8a",
+          "provider_reference_name": "Tanders provider 1",
+          "provider_reference_number": "1233",
+          "conditioning_name": "box",
+          "conditioning_unit_1": "kg",
+          "conditioning_quantity_1": 10,
+          "recipe_unit_1": "item",
+          "conditioning_unit_2": "kg",
+          "conditioning_quantity_2": 20,
+          "recipe_unit_2": "item",
+          "recipe_unit_quantity": 100,
+          "storage_unit": "recipe",
+          "price_excl_tax": 200,
+          "tax": 5,
+          "min_stock": 22,
+          "max_stock": 33,
+          "is_default": false
+        },
+        {
+          "id": "853e0769-f4b8-4d95-ab90-c61aad396511",
+          "name": "Provider 2",
+          "contact_name": null,
+          "contact_number": null,
+          "email_address": "mail2@mail.com",
+          "address": "Lot 1231, Jln Kg Punggai, Sungai Rengit, 81600 Pengerang, Johor, Malaysia",
+          "delivery_frequency": {
+            "delivery_days": [
+              "wednesday",
+              "thursday"
+            ],
+            "periodicity": null
+          },
+          "provider_ingredient_id": "6b4acd0f-219a-46a2-ae84-7fa02edd2e1a",
+          "provider_reference_name": "Tanders provider 2",
+          "provider_reference_number": "5444",
+          "conditioning_name_1": "packets",
+          "conditioning_unit_1": "unit",
+          "conditioning_quantity_1": 15,
+          "conditioning_name_2": "packets",
+          "conditioning_unit_2": "unit",
+          "conditioning_quantity_2": 25,
+          "recipe_unit": "item",
+          "recipe_unit_quantity": 20,
+          "storage_unit": "recipe",
+          "price_excl_tax": 30,
+          "tax": 2.1,
+          "min_stock": 44,
+          "max_stock": 66,
+          "is_default": true
+        }
+      ]
+    },
+    {
+      "id": "022fbc41-f74f-49d8-a471-f66d9ac027ea",
+      "name": "ingredient 3",
+      "category": "drinks",
+      "unit": "kg",
+      "cost_excl_tax": 23,
+      "image_path": null,
+      "restaurant_id": "8699487f-190e-4730-bab4-88730bd7a7da",
+      "stock": null,
+      "stock_prediction": null,
+      "providers": [
+        {
+          "id": "071bd0f3-74f4-4541-9ae3-78b190a5683f",
+          "name": "Provider 1",
+          "contact_name": null,
+          "contact_number": null,
+          "email_address": "mail@mail.com",
+          "address": "Uşak, Uşak Merkez/Uşak, Türkiye",
+          "delivery_frequency": {
+            "delivery_days": [
+              "monday",
+              "tuesday"
+            ],
+            "periodicity": null
+          },
+          "provider_ingredient_id": "d7b90058-8b4c-4da6-99d8-0adf348ac08d",
+          "provider_reference_name": "fake Tanders",
+          "provider_reference_number": "122",
+          "conditioning_name_1": "box",
+          "conditioning_unit_1": "kg",
+          "conditioning_quantity_1": 12,
+          "conditioning_name_2": "box",
+          "conditioning_unit_2": "kg",
+          "conditioning_quantity_2": 22,
+          "recipe_unit": "kg",
+          "recipe_unit_quantity": 23,
+          "storage_unit": "conditioning",
+          "price_excl_tax": 23,
+          "tax": 3,
+          "min_stock": 23,
+          "max_stock": 33,
+          "is_default": true
+        }
+      ]
+    },
+    {
+      "id": "15b9ae15-20f4-4e51-9d0e-28683d0c16f9",
+      "name": "demo ingredient",
+      "category": "eggs",
+      "unit": "item",
+      "cost_excl_tax": 30,
+      "image_path": null,
+      "restaurant_id": "8699487f-190e-4730-bab4-88730bd7a7da",
+      "stock": null,
+      "stock_prediction": null,
+      "providers": [
+        {
+          "id": "853e0769-f4b8-4d95-ab90-c61aad396511",
+          "name": "Provider 2",
+          "contact_name": null,
+          "contact_number": null,
+          "email_address": "mail2@mail.com",
+          "address": "Lot 1231, Jln Kg Punggai, Sungai Rengit, 81600 Pengerang, Johor, Malaysia",
+          "delivery_frequency": {
+            "delivery_days": [
+              "wednesday",
+              "thursday"
+            ],
+            "periodicity": null
+          },
+          "provider_ingredient_id": "6b4acd0f-219a-46a2-ae84-7fa02edd2e1a",
+          "provider_reference_name": "Tanders provider 2",
+          "provider_reference_number": "5444",
+          "conditioning_name_1": "packets",
+          "conditioning_unit_1": "unit",
+          "conditioning_quantity_1": 15,
+          "conditioning_name_2": "packets",
+          "conditioning_unit_2": "unit",
+          "conditioning_quantity_2": 45,
+          "recipe_unit": "item",
+          "recipe_unit_quantity": 20,
+          "storage_unit": "recipe",
+          "price_excl_tax": 30,
+          "tax": 2.1,
+          "min_stock": 44,
+          "max_stock": 66,
+          "is_default": true
+        }
+      ]
+    },
+    {
+      "id": "20e3e8fc-8eae-4b3c-98d8-7bb09370ac33",
+      "name": "test",
+      "category": "eggs",
+      "unit": "kg",
+      "cost_excl_tax": 22,
+      "image_path": null,
+      "restaurant_id": "8699487f-190e-4730-bab4-88730bd7a7da",
+      "stock": null,
+      "stock_prediction": null,
+      "providers": [
+        {
+          "id": "853e0769-f4b8-4d95-ab90-c61aad396511",
+          "name": "Provider 2",
+          "contact_name": null,
+          "contact_number": null,
+          "email_address": "mail2@mail.com",
+          "address": "Lot 1231, Jln Kg Punggai, Sungai Rengit, 81600 Pengerang, Johor, Malaysia",
+          "delivery_frequency": {
+            "delivery_days": [
+              "wednesday",
+              "thursday"
+            ],
+            "periodicity": null
+          },
+          "provider_ingredient_id": "3b215710-8848-4eb3-bd2b-09240d40a40f",
+          "provider_reference_name": "provider p2",
+          "provider_reference_number": "1222",
+          "conditioning_name_1": "packets",
+          "conditioning_unit_1": "unit",
+          "conditioning_quantity_1": 23,
+          "conditioning_name_2": "packets",
+          "conditioning_unit_2": "unit",
+          "conditioning_quantity_2": 23,
+          "recipe_unit": "kg",
+          "recipe_unit_quantity": 33,
+          "storage_unit": "recipe",
+          "price_excl_tax": 22,
+          "tax": 2,
+          "min_stock": 22,
+          "max_stock": 33,
+          "is_default": true
+        }
+      ]
+    },
+    {
+      "id": "595db5fb-cbb9-4bf6-8d72-30162e4fd5a5",
+      "name": "asd",
+      "category": "eggs",
+      "unit": "kg",
+      "cost_excl_tax": 33,
+      "image_path": null,
+      "restaurant_id": "8699487f-190e-4730-bab4-88730bd7a7da",
+      "stock": null,
+      "stock_prediction": null,
+      "providers": [
+        {
+          "id": "036f7f52-2a0b-4371-92ea-30d75158dd46",
+          "name": "Provider 3",
+          "contact_name": null,
+          "contact_number": null,
+          "email_address": "mail3@mail.com",
+          "address": "Lahore-Islamabad Motorway, Block E Sabzazar Housing Scheme Phase 1 & 2 Sabzazar, Lahore, Punjab, Pakistan",
+          "delivery_frequency": {
+            "delivery_days": [
+              "friday",
+              "saturday"
+            ],
+            "periodicity": null
+          },
+          "provider_ingredient_id": "8680d76c-850b-415b-aa38-f49fd3e3db2d",
+          "provider_reference_name": "",
+          "provider_reference_number": "2",
+          "conditioning_name_1": "box",
+          "conditioning_unit_1": "kg",
+          "conditioning_quantity_1": 12,
+          "conditioning_name_2": "box",
+          "conditioning_unit_2": "kg",
+          "conditioning_quantity_2": 32,
+          "recipe_unit": "kg",
+          "recipe_unit_quantity": 23,
+          "storage_unit": "recipe",
+          "price_excl_tax": 33,
+          "tax": 2.64,
+          "min_stock": 33,
+          "max_stock": 44,
+          "is_default": true
+        }
+      ]
+    },
+    {
+      "id": "5e52d8d8-fd2d-479e-829b-68fd2397d17c",
+      "name": "ingredient 1",
+      "category": "eggs",
+      "unit": "kg",
+      "cost_excl_tax": 22,
+      "image_path": null,
+      "restaurant_id": "8699487f-190e-4730-bab4-88730bd7a7da",
+      "stock": null,
+      "stock_prediction": null,
+      "providers": [
+        {
+          "id": "071bd0f3-74f4-4541-9ae3-78b190a5683f",
+          "name": "Provider 1",
+          "contact_name": null,
+          "contact_number": null,
+          "email_address": "mail@mail.com",
+          "address": "Uşak, Uşak Merkez/Uşak, Türkiye",
+          "delivery_frequency": {
+            "delivery_days": [
+              "monday",
+              "tuesday"
+            ],
+            "periodicity": null
+          },
+          "provider_ingredient_id": "d7b90058-8b4c-4da6-99d8-0adf348ac08d",
+          "provider_reference_name": "fake Tanders",
+          "provider_reference_number": "122",
+          "conditioning_name_1": "box",
+          "conditioning_unit_1": "kg",
+          "conditioning_quantity_1": 12,
+          "conditioning_name_2": "box",
+          "conditioning_unit_2": "kg",
+          "conditioning_quantity_2": 10,
+          "recipe_unit": "kg",
+          "recipe_unit_quantity": 23,
+          "storage_unit": "conditioning",
+          "price_excl_tax": 23,
+          "tax": 3,
+          "min_stock": 23,
+          "max_stock": 33,
+          "is_default": false
+        },
+        {
+          "id": "853e0769-f4b8-4d95-ab90-c61aad396511",
+          "name": "Provider 2",
+          "contact_name": null,
+          "contact_number": null,
+          "email_address": "mail2@mail.com",
+          "address": "Lot 1231, Jln Kg Punggai, Sungai Rengit, 81600 Pengerang, Johor, Malaysia",
+          "delivery_frequency": {
+            "delivery_days": [
+              "wednesday",
+              "thursday"
+            ],
+            "periodicity": null
+          },
+          "provider_ingredient_id": "3b215710-8848-4eb3-bd2b-09240d40a40f",
+          "provider_reference_name": "provider p2",
+          "provider_reference_number": "1222",
+          "conditioning_name_1": "packets",
+          "conditioning_unit_1": "unit",
+          "conditioning_quantity_1": 23,
+          "conditioning_name_2": "packets",
+          "conditioning_unit_2": "unit",
+          "conditioning_quantity_2": 33,
+          "recipe_unit": "kg",
+          "recipe_unit_quantity": 33,
+          "storage_unit": "recipe",
+          "price_excl_tax": 22,
+          "tax": 2,
+          "min_stock": 22,
+          "max_stock": 33,
+          "is_default": true
+        }
+      ]
+    },
+    {
+      "id": "914cb430-1b4f-4cd3-8d86-7856b41b7a20",
+      "name": "ingredient 2",
+      "category": "milkProduct",
+      "unit": "l",
+      "cost_excl_tax": 33,
+      "image_path": null,
+      "restaurant_id": "8699487f-190e-4730-bab4-88730bd7a7da",
+      "stock": null,
+      "stock_prediction": null,
+      "providers": [
+        {
+          "id": "036f7f52-2a0b-4371-92ea-30d75158dd46",
+          "name": "Provider 3",
+          "contact_name": null,
+          "contact_number": null,
+          "email_address": "mail3@mail.com",
+          "address": "Lahore-Islamabad Motorway, Block E Sabzazar Housing Scheme Phase 1 & 2 Sabzazar, Lahore, Punjab, Pakistan",
+          "delivery_frequency": {
+            "delivery_days": [
+              "friday",
+              "saturday"
+            ],
+            "periodicity": null
+          },
+          "provider_ingredient_id": "ce871ece-e4d0-4783-8c7f-beee6a501d5e",
+          "provider_reference_name": "provider p3",
+          "provider_reference_number": "3444",
+          "conditioning_name": "box",
+          "conditioning_unit_1": "unit",
+          "conditioning_quantity_1": 34,
+          "conditioning_name_2": "box",
+          "conditioning_unit_2": "unit",
+          "conditioning_quantity_2": 44,
+          "recipe_unit": "l",
+          "recipe_unit_quantity": 34,
+          "storage_unit": "recipe",
+          "price_excl_tax": 33,
+          "tax": 2,
+          "min_stock": 344,
+          "max_stock": 4556,
+          "is_default": true
+        }
+      ]
+    }
+  ],
+  "sort_by": "stock.unit_stock",
+  "order_by": "DESC",
+  "page": 1,
+  "limit": 25,
+  "total_pages": 1,
+  "total_results": 7
+}

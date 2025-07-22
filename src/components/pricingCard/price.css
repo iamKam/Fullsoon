@@ -1,0 +1,257 @@
+body{margin-top:20px;}
+.section-title {
+    position: relative;
+}
+input[type=checkbox][name=terms] {
+    padding: 0.5em;
+    -webkit-appearance: none;
+    height: 10px;
+    outline: 0.1em solid black;
+    outline-offset: 0.1em;
+}
+  
+input[type=checkbox][name=terms]:checked {
+    display: inline-block;
+    background-color: #6353ea;
+}
+
+.section-title h2 {
+    color: #1d2025;
+    position: relative;
+    margin: 0;
+    font-size: 24px;
+}
+@media (min-width: 768px) {
+    .section-title h2 {
+        font-size: 28px;
+    }
+}
+@media (min-width: 992px) {
+    .section-title h2 {
+        font-size: 34px;
+    }
+}
+.section-title.title-ex1 h2 {
+    padding-bottom: 20px;
+}
+@media (min-width: 768px) {
+    .section-title.title-ex1 h2 {
+        padding-bottom: 30px;
+    }
+}
+@media (min-width: 992px) {
+    .section-title.title-ex1 h2 {
+        padding-bottom: 40px;
+    }
+}
+.section-title.title-ex1 h2:before {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 12px;
+    width: 110px;
+    height: 1px;
+    background-color: #d6dbe2;
+}
+@media (min-width: 768px) {
+    .section-title.title-ex1 h2:before {
+        bottom: 17px;
+    }
+}
+@media (min-width: 992px) {
+    .section-title.title-ex1 h2:before {
+        bottom: 25px;
+    }
+}
+.section-title.title-ex1 h2:after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 12px;
+    width: 40px;
+    height: 1px;
+    background-color: #6353EA;
+}
+@media (min-width: 768px) {
+    .section-title.title-ex1 h2:after {
+        bottom: 17px;
+    }
+}
+@media (min-width: 992px) {
+    .section-title.title-ex1 h2:after {
+        bottom: 25px;
+    }
+}
+.section-title.title-ex1.text-center h2:before {
+    left: 50%;
+    transform: translateX(-50%);
+}
+.section-title.title-ex1.text-center h2:after {
+    left: 50%;
+    transform: translateX(-50%);
+}
+.section-title.title-ex1.text-right h2:before {
+    left: auto;
+    right: 0;
+}
+.section-title.title-ex1.text-right h2:after {
+    left: auto;
+    right: 0;
+}
+.section-title.title-ex1 p {
+    font-family: "Montserrat", sans-serif;
+    color: #8b8e93;
+    font-size: 14px;
+    font-weight: 300;
+}
+
+.pricing_container {
+    height: 585px;
+    display: flex;
+}
+
+.pricing_card {
+    width: 40% !important;
+    transition: all .8s ease-in-out;
+}
+
+.pricing_card:hover {
+    cursor: pointer;
+}
+
+.active-card {
+    border: 3px solid #392d9d !important;
+}
+
+.price-card:hover { 
+    transform: scale(1.06);
+}
+
+.card_heading {
+    font-family: "Nunito Sans";
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 32.74px;
+}
+
+
+.price-card {
+    background: #f5f5f6;
+    padding: 40px 35px;
+    position: relative;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.price-card .sperator {
+    height: 1px;
+    width: 100%;
+    background-color: #e6e6e6;
+}
+
+.price-card h2 {
+    font-size: 26px;
+    font-weight: 600;
+}
+.price-card .btn {
+    width: 100%;
+    border-radius: 10px;
+    padding: 0 25px;
+    border: 0;
+    color: #fff;
+    float: right;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 27.28px;
+}
+.price-card .btn.btn-primary {
+    border: 0 !important;
+}
+.price-card.featured {
+    background: #fff;
+    border: 1px solid #ebebeb;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+}
+.btn:hover .btn {
+    background: #392d9d;
+    border-color: #6353EA;
+}
+.active .btn {
+    background: #0cc652;
+    border-color: #0cc652;
+}
+p.price .price_value {
+    display: inline-block;
+    padding: 45px 15px 50px;
+    padding-right: 0;
+    font-size: 80px;
+    font-weight: 700;
+    color: #6353EA;
+    position: relative;
+}
+
+.tick {
+    color: #6353EA;
+    font-weight: 800;
+    margin-right: 10px;
+}
+
+.not_included .tick {
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.not_included {
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.pricing-offers {
+    padding: 16px 0;
+}
+.pricing-offers li {
+    padding: 0 0 16px;
+    line-height: 18px;
+    font-size: 16px;
+}
+.price_subTitle {
+    padding-top: 20px;
+    font-weight: 600;
+    font-family: "Nunito Sans";
+    font-size: 20px;
+}
+ul li {
+    list-style-type: none;
+}
+.btn.btn-mid {
+    height: 56px;
+    line-height: 40px;
+    padding: 0 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header_style{
+    position: relative;
+    flex-direction: column;
+    align-items:flex-start !important;
+} 
+
+.modal-content .terms-modal {
+    min-height: 900px;
+}
+
+.header_style .btn-close{
+    position: absolute;
+    top: 21px;
+    right: 21px;
+}
+
+.add-ingredient .modal-body .terms-body {
+    max-height: 53vh;
+}
+
+.override {
+    padding: 10px !important;
+     font-size: 22px !important; 
+     font-weight: bold !important;
+}

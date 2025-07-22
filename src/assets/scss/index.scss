@@ -1,0 +1,32 @@
+@import "~bootstrap/scss/bootstrap";
+// Our own variabls
+
+@import "variables.scss";
+
+// Fonts
+@import "fonts.scss"; 
+
+// Custom mixins
+@import "mixins/mixins.scss";
+
+// Form specific styles
+@import "forms/buttons.scss";
+
+// layout
+
+@import "layout.scss";
+
+// dashboard
+@import "dashboard.scss";
+
+// header
+@import "header.scss";
+
+// Site-specific
+@import "custom.scss";
+
+// Media queries
+@import "media.scss";
+
+// Mobile 
+@import "mobile.scss"

@@ -1,0 +1,41 @@
+{
+    "restaurant_id": "87c64606-b401-41f2-bc81-06b81b1161b6",
+    "start_date": "2025-01-19T23:00:00.000Z",
+    "end_date": "2025-01-20T22:59:00.000Z",
+    "operation": "total",
+    "is_hist_and_pred": false,
+    "top": [
+        {
+            "meal": "Pain au Chocolat Mini",
+            "revenue": 507.35,
+            "type": "VIENN - INDIVIDUELLE"
+        },
+        {
+            "meal": "Croissant Pur Beurre",
+            "revenue": 504.64,
+            "type": "VIENN - INDIVIDUELLE"
+        },
+        {
+            "meal": "Pain au Chocolat Noisettes",
+            "revenue": 102.35,
+            "type": "VIENN - SNACKING"
+        }
+    ],
+    "flop": [
+        {
+            "meal": "Sacs Papier Kraft",
+            "revenue": 0.9,
+            "type": "NEG - NON CONSOMMABLES"
+        },
+        {
+            "meal": "Thé Earl Grey",
+            "revenue": 1.14,
+            "type": "BOISSON CHAUDE"
+        },
+        {
+            "meal": "Café Double",
+            "revenue": 1.65,
+            "type": "BOISSON CHAUDE"
+        }
+    ]
+}

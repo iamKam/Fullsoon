@@ -1,0 +1,323 @@
+@import "../assets/scss/variables";
+
+.restaurantName .css-13cymwt-control,
+.restaurantName .css-t3ipsp-control {
+  // min-width: 250px;
+  border-style: none;
+  box-shadow: none;
+  background-color: #f8f9fd;
+}
+
+.restaurantName .css-1u9des2-indicatorSeparator {
+  background : none;
+}
+
+.restaurantName .css-1dimb5e-singleValue{
+  color: #222;
+  font-weight: 700;
+}
+
+.restaurantName .css-t3ipsp-control:hover {
+  border-color: white;
+}
+
+.restaurantName > div > div:nth-child(1){ 
+  min-width: 100px;
+}
+
+.restaurantName > div > div > div:nth-child(1){ 
+  overflow: visible;
+}
+
+.restaurantName > div:nth-of-type(2) {
+  min-width: 200px;
+}
+
+.css-1nmdiq5-menu {
+  z-index: 9999  !important;
+}
+
+$sidebar-bg-color: #fff !default;
+$breakpoint-xs: 480px !default;
+$breakpoint-sm: 576px !default;
+$breakpoint-md: 768px !default;
+$breakpoint-lg: 992px !default;
+$breakpoint-xl: 1200px !default;
+$breakpoint-xxl: 1600px !default;
+
+.toggleIcon {
+  position: absolute;
+  left: 192px;
+  z-index: 1050;
+  top: 36px;
+  width: 20px;
+  cursor: pointer;
+  &.collapsed {
+    left: 68px;
+    transform: rotate(180deg);
+  }
+}
+
+.pro-sidebar {
+  height: 100vh !important;
+  .pro-menu {
+    padding: 0 !important;
+    .pro-menu-item > .pro-inner-item {
+      padding: 0 !important;
+    }
+  }
+  .pro-sidebar-layout {
+    &::-webkit-scrollbar-track {
+      border-radius: 50px;
+      background-color: transparent;
+    }
+    &::-webkit-scrollbar {
+      width: 6px;
+      background-color: transparent;
+    }
+    &::-webkit-scrollbar-thumb {
+      border-radius: 50px;
+      background-color: #e0e0e0;
+    }
+  }
+}
+
+// @import "~react-pro-sidebar/dist/scss/styles.scss";
+
+
+.logoutMenuItem{
+  padding: 0px 13px;
+  height: 45px;
+}
+
+.logoutMenuItem.isCollapsed{
+  padding: 0px;
+  height: 45px;
+}
+
+@media (max-width: 374px) {
+  .cols-1 {
+    order: 2; 
+  }
+  .cols-2 {
+    order: 1;
+  }
+  .subHeading {
+    display: none;
+  }
+}
+
+// sidebar styling
+.wrappers .navbar-collapse {
+  padding: 0px !important;
+  a.ps-menu-button:hover {
+    background-color: transparent;
+    a.sidebar-link {
+      background: #6353ea;
+      color: #fff;
+    }
+  }
+}
+.ps-menuitem-root.isCollapsed {
+  .ps-menu-button {
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+  }
+}
+
+.ps-menuitem-root.isCollapsed.active {
+  .ps-menu-button {
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+  }
+}
+
+.css-15ny24t {
+  border: 0px !important;
+  width: 228px !important;
+  min-width: 228px !important;
+}
+.css-15ny24t.ps-collapsed {
+  min-width: 76px !important;
+  width: 76px !important;
+}
+
+.wrappers .collapsedOpen {
+  border-right-width: 0px;
+  .navbar-collapse {
+    a.ps-menu-button {
+      padding: 0px 13px;
+    }
+    .active.hover {
+      position: relative;
+      margin-bottom: 0px;
+      a.ps-menu-button {
+        padding-right: 0px;
+        a.sidebar-link {
+          border-top-right-radius: 0px;
+          border-bottom-right-radius: 0px;
+        }
+      }
+
+      .ps-menu-button{
+        position: unset;
+         &:after{
+           content: '';
+           position: absolute;
+           right: -7px;
+           left: 28px;
+           top: 0;
+           background: #6353ea;
+           display: inline-block;
+           width: 100%;
+           height: 100%;
+           z-index: -1;
+           @media (max-width: 800px)  {
+              right: 0px;
+              width: 87.5% !important;
+           }
+         }
+       }
+
+      &::before {
+        content: "";
+        position: absolute;
+        background-color: transparent;
+        top: 45px;
+        right: -7px;
+        height: 35px;
+        width: 35px;
+        border-top-right-radius: 18px;
+        box-shadow: 0 -20px 0 0 #6353ea;
+        @media (max-width: 800px)  {
+          right: 0px;
+        }
+      }
+
+      &::after {
+        content: "";
+        position: absolute;
+        background-color: transparent;
+        bottom: 100%;
+        right: -7px;
+        height: 35px;
+        width: 35px;
+        border-bottom-right-radius: 18px;
+        box-shadow: 0 20px 0 0 #6353ea;
+        @media (max-width: 800px)  {
+          right: 0px;
+        }
+      }
+    }
+
+    /* Additional hover styles */
+    .active:hover a.ps-menu-button {
+      padding-right: 0px;
+
+      a.sidebar-link {
+        border-top-right-radius: 0px;
+        border-bottom-right-radius: 0px;
+      }
+    }
+  }
+}
+
+.wrappers .collapsedClose {
+  border-right-width: 0px;
+  .navbar-collapse {
+    a.ps-menu-button {
+      padding: 0px 20px;
+    }
+    .active.hover {
+      position: relative;
+      margin-bottom: 0px;
+
+      a.ps-menu-button {
+        padding-right: 0px;
+
+        a.sidebar-link {
+          border-top-right-radius: 0px;
+          border-bottom-right-radius: 0px;
+        }
+      }
+
+      .ps-menu-button{
+       position: unset;
+        &:after{
+          content: '';
+          position: absolute;
+          right: -7px;
+          left: auto;
+          top: 0;
+          background: #6353ea;
+          display: inline-block;
+          width: 100%;
+          height: 100%;
+          z-index: -1;
+        }
+      }
+      &::before {
+        content: "";
+        position: absolute;
+        background-color: transparent;
+        top: 45px;
+        right: -7px;
+        height: 35px;
+        width: 18px;
+        border-top-right-radius: 18px;
+        box-shadow: 0 -20px 0 0 #6353ea;
+    
+      }
+
+      &::after {
+        content: "";
+        position: absolute;
+        background-color: transparent;
+        bottom: 100%;
+        right: -7px;
+        height: 35px;
+        width: 18px;
+        border-bottom-right-radius: 18px;
+        box-shadow: 0 20px 0 0 #6353ea;
+      }
+    }
+
+    /* Additional hover styles */
+    .active:hover a.ps-menu-button {
+      padding-right: 0px;
+
+      a.sidebar-link {
+        border-top-right-radius: 0px;
+        border-bottom-right-radius: 0px;
+      }
+    }
+  }
+}
+
+.submenu-item.active {
+  text-decoration: underline; /* or border-bottom, depending on your design */
+  color: #fff; /* Optional for active styling */
+}
+
+.mobile-sidebar {
+  @media (max-width: 800px) {
+    position: relative;
+    padding: 10px;
+    left: 0px;
+  }
+}
+
+.hover-submenu {
+  @media (max-width: 800px) {
+    background-color: rgb(99, 83, 234);
+    color: white;
+    min-width: 160px;
+    transition: 0.3s;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 226px;
+    height: 100%;
+    z-index: 999;
+  }
+}

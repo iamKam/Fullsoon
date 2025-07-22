@@ -1,0 +1,279 @@
+@import "../../assets/scss/variables";
+
+@media screen and (max-height: 850px) {
+  .meals-container {
+    display: unset !important;
+  }
+}
+
+.meals-container {
+  .after-divider-container {
+    height: calc(100% - 60px);
+  }
+  .divider {
+    border-bottom: 1px solid #e0e0e0;
+    margin-bottom: 20px;
+    .navbtns {
+      width: 300px;
+      li {
+        border-bottom: none;
+      }
+    }
+  }
+  .rightcontent {
+    .card {
+      height: 100%;
+      background: $fullsoon;
+      border-radius: 10px;
+      .card-body {
+        .fltr-heading {
+          display: flex;
+          justify-content: space-between;
+          margin-bottom: 13px;
+          label {
+            font-weight: bold;
+            font-size: 14px;
+            line-height: 19px;
+            display: flex;
+            align-items: center;
+          }
+          button {
+            background: transparent;
+            border: 0;
+            border-bottom: 1px solid #fff;
+            padding: 0px 3px;
+            font-weight: bold;
+            font-size: 12px;
+            line-height: 16px;
+            display: flex;
+            align-items: center;
+            color: #f3f4fb;
+          }
+        }
+
+        .datepicker-wrapper {
+          span {
+            font-weight: bold;
+            font-size: 14px;
+            line-height: 19px;
+            display: flex;
+            align-items: center;
+            color: #f3f4fb;
+          }
+          .datepicker-wrapper-img {
+            display: flex;
+            justify-content: flex-end;
+          }
+          img {
+            cursor: pointer;
+          }
+          .date-picker {
+            background: transparent;
+            border: 0;
+            color: #fff;
+            font-weight: bold;
+            width: 100%;
+            outline: none;
+          }
+        }
+
+        .react-datepicker-wrapper {
+          width: 60%;
+        }
+        .hr-separator {
+          height: 0.5px;
+          margin: 0.5rem 0;
+          color: #f3f4fb;
+        }
+        label {
+          cursor: pointer;
+          &:hover {
+            color: #fff !important;
+          }
+        }
+        color: #fff;
+        h1 {
+          font-weight: bold;
+          font-size: 21px !important;
+          line-height: 29px;
+        }
+        .action-btns {
+          bottom: 20px;
+          display: flex;
+          position: absolute;
+          left: 50%;
+          transform: translate(-50%, 0);
+          button {
+            background: #f1f3f4;
+            border-radius: 5px;
+            width: 221px;
+            height: 40px;
+            width: 102px;
+            height: 40px;
+            border: 0;
+            font-size: 16px;
+            font-weight: bold;
+            &.close-btn {
+              color: #8b8f94;
+            }
+            &.apply-btn {
+              color: #6353ea;
+            }
+          }
+        }
+        .hide-filter {
+          display: flex;
+          justify-content: end;
+          font-weight: bold;
+          font-size: 14px;
+          line-height: 19px;
+          margin-top: 5px;
+          text-decoration: underline;
+          cursor: pointer;
+          img {
+            margin-left: 5px;
+          }
+        }
+      }
+      .checkbox {
+        font-size: 14px;
+        line-height: 19px;
+        display: flex;
+        align-items: center;
+        input {
+          display: none; /* Hide the default checkbox */
+        }
+        span {
+          height: 15px;
+          width: 15px;
+          display: inline-block;
+          position: relative;
+          border: 1px solid #ffffff;
+          box-sizing: border-box;
+          border-radius: 2px;
+        }
+        [type="checkbox"]:checked + span:before {
+          content: "\2714";
+          position: absolute;
+          top: -2px;
+          left: 1.5px;
+          font-size: 14px;
+        }
+      }
+    }
+  }
+  .leftcontent {
+    .card {
+      .inherit-height {
+        height: 90%;
+      }
+    }
+    .selected-row {
+      td {
+        background: #6c75ea !important;
+        color: #fff !important;
+      }
+    }
+  }
+}
+
+.button-confirm {
+  border: 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 7px 10px;
+
+  width: 220.35px;
+  height: 40px;
+  left: 610px;
+  top: 759px;
+
+  /* PURPLE */
+
+  background: #6353ea;
+
+  font-family: "Nunito Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 16px;
+  display: flex;
+  align-items: center;
+
+  /* WHITE */
+
+  color: #ffffff;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+}
+
+.meal-list-modal .modal-body {
+  height: 485px !important;
+  overflow-y: hidden !important;
+}
+.checkbox-meals-list {
+  width: 150px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+
+  &:hover {
+    color: #000;
+  }
+}
+
+.infinite-scroll-component {
+  &::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+    border-radius: 40px;
+    background-color: #eeeeee;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    background: #c1c1c1;
+    width: 6px;
+    height: 6px;
+    border-radius: 40px;
+  }
+}
+
+.search-meal-input {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  background-color: hsl(0, 0%, 100%);
+  border-color: hsl(0, 0%, 80%);
+  border-radius: 4px;
+  border-style: solid;
+  border-width: 1px;
+  cursor: default;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-flex-wrap: wrap;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  justify-content: space-between;
+  min-height: 38px;
+  outline: 0 !important;
+  position: relative;
+  -webkit-transition: all 100ms;
+  transition: all 100ms;
+  box-sizing: border-box;
+  padding-left: 13px;
+}
+
+.meals-right-side {
+  height: calc(100% - 190px) !important;
+}

@@ -1,0 +1,9 @@
+{
+  "restaurant_id": "90fd2d14-9aab-4af8-a66f-385321169dba",
+  "start_date": "2023-03-26T22:00:00.000Z",
+  "end_date": "2023-03-27T21:59:00.000Z",
+  "total_guests": 82,
+  "gross_revenue": 1191.7,
+  "average_ticket": 14.02,
+  "average_minutes_spent": 0
+}

@@ -1,0 +1,40 @@
+//@import "node_modules/bootstrap/scss/bootstrap";
+@import "node_modules/bootstrap/scss/functions";
+@import "node_modules/bootstrap/scss/variables";
+@import "node_modules/bootstrap/scss/mixins";
+
+.signin-container,
+.signup-container,
+.forget-password-container {
+  @include media-breakpoint-down(lg) {
+    flex-direction: column;
+    .wrapper {
+      justify-content: center;
+      //margin-top: 2.5rem !important;
+      height: calc(100% - 40px);
+    }
+
+    .left-container {
+      height: 150px;
+
+      .back-text-container {
+        position: relative;
+        top: 20px;
+      }
+
+      .left-container-logo {
+        margin-right: 0 !important;
+      }
+
+      .back-text {
+        color: #fff !important;
+      }
+    }
+
+    .right-container {
+      padding-left: calc(var(--bs-gutter-x) * 1);
+      padding-right: calc(var(--bs-gutter-x) * 1);
+      margin-top: 2rem;
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "top": [
+    {
+        "meal": "G11 (2 Big)",
+        "sales": 25,
+        "type": "mainDishes"
+    },
+    {
+        "meal": "G6 (1 Chicken Burger + 1 Big)",
+        "sales": 23,
+        "type": "mainDishes"
+    },
+    {
+        "meal": "G3 (1 Big + 4 Nuggets ou cheese)",
+        "sales": 15,
+        "type": "mainDishes"
+    }
+],
+"flop": [
+    {
+        "meal": "Menu Wrap Spicy Bacon ",
+        "sales": 1,
+        "type": null
+    },
+    {
+        "meal": "Menu Royal ",
+        "sales": 1,
+        "type": "mainDishes"
+    },
+    {
+        "meal": "Tiramisu Oreo",
+        "sales": 1,
+        "type": null
+    }
+]
+}

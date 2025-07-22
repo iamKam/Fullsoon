@@ -1,0 +1,785 @@
+body,
+html {
+  font-family: "Nunito Sans", sans-serif;
+  font-size: 14px;
+  background: #f8f9fd;
+  position: relative;
+  color: #111;
+  height: 100%;
+
+  @include breakpoint(small) {
+    font-size: 13px;
+  }
+}
+
+.text-primary {
+  color: $brand-primary !important;
+}
+
+.cursor-pointer {
+  cursor: pointer !important;
+}
+
+.h-60 {
+  height: 60% !important;
+}
+
+h2 {
+  margin: 0;
+  font-size: 21px;
+  font-weight: bold;
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}
+
+p {
+  line-height: 24px;
+}
+
+a {
+  color: $primary;
+
+  &:hover {
+    text-decoration: none;
+    color: darken($primary, 15%);
+  }
+}
+
+label {
+  font-size: 1rem;
+
+  &:hover {
+    color: $brand-primary;
+  }
+}
+
+.text-dark {
+  color: #1b1b1b !important;
+}
+
+.overflow-hidden {
+  overflow: hidden;
+}
+
+.card {
+  .c-title {
+    padding: 15px;
+
+    h3 {
+      font-weight: 500;
+    }
+  }
+}
+
+.btn {
+  padding: 10px 24px;
+}
+
+.btn-white {
+  border-radius: 6px;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.btn-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: space-between;
+
+  img {
+    margin: 0 10px 0 0;
+  }
+}
+
+.text-muted {
+  color: $gray !important;
+}
+
+.btn:focus {
+  box-shadow: none !important;
+}
+
+.inherit-height {
+  height: inherit !important;
+}
+
+/*-------------------------------------------------------------------------------*/
+
+.forcast_left .custom-table .tablescroll .table td {
+  padding: 0.9rem 0.75rem;
+}
+
+.forcast_left .cardlist .media {
+  margin-bottom: 25px;
+}
+
+.cardlist {
+  position: relative;
+  height: 100%;
+}
+
+.righside1 .weathercard ul.list li {
+  padding: 15px 0;
+}
+
+.event_cont {
+  margin-top: 30px;
+}
+
+.total_cont {
+  margin-bottom: 25px;
+}
+
+.progressitem {
+  margin-top: 10px;
+}
+
+// stock page responsiveness
+@media screen and (max-width: 431px) {
+
+  // Stock home page
+  .dashboard .hidden-left {
+    display: none !important;
+  }
+
+  .dashboard .rightcontent {
+    width: 332px;
+  }
+  .dashboard .leftcontent-stock {
+    padding-right: 0px !important;
+
+    .card-header {
+      padding: 10px 4px 0;
+
+      .stock-transfer-btn {
+        height: auto !important;
+        font-size: 8px;
+        padding: 0px 11px;
+      }
+    }
+
+    .selected-prod-div div {
+      flex-direction: row !important;
+      align-items: center;
+
+      label:first-child {
+        margin-right: 3px;
+      }
+
+      label:last-child {
+        font-size: 9px;
+      }
+    }
+
+    .card-header h2 {
+      font-size: 11px;
+    }
+
+    .trash-icon {
+      margin-right: 5px !important;
+    }
+
+    .dropdown button {
+      font-size: 8px;
+    }
+
+    .card .card-body .table {
+      .me-3 {
+        margin-right: 4px !important;
+      }
+
+      input[type="checkbox"] {
+        width: 10px;
+        height: 10px;
+      }
+      thead tr {
+        font-size: 10px;
+
+        th:first-child {
+          width: 104px !important;
+        }
+
+        th:nth-child(2),
+        th:nth-child(3),
+        th:nth-child(4) {
+          display: none;
+        }
+
+        th:nth-child(5),
+        th:nth-child(6),
+        th:nth-child(7) {
+          white-space: normal !important;
+        }
+
+        th:nth-child(5) {
+          width: 40px !important;
+        }
+
+        th:nth-child(6) {
+          width: 83px !important;
+        }
+
+        th:last-child {
+          width: 82px !important;
+        }
+      }
+      tbody {
+        tr {
+          font-size: 10px;
+
+          td:nth-child(2),
+          td:nth-child(3),
+          td:nth-child(4) {
+            display: none;
+          }
+          td {
+            font-size: inherit !important;
+
+            .btn-container {
+              button {
+                width: 18px;
+              }
+              input[name="qty_to_buy"] {
+                width: 37px !important;
+              }
+            }
+          }
+        }
+      }
+    }
+    .place-order-btn {
+      height: auto;
+      font-size: 10px;
+      
+    }
+
+    .pagination {
+      font-size: 10px;
+    }
+  }
+
+  // Suggested orders
+  .suggested-orders-container {
+    .heading-text {
+      font-size: 28px;
+    }
+
+    .order-container {
+      padding: 20px 0px 0px 4px !important;
+    }
+
+    .suggested-table {
+      .table {
+        .me-3 {
+          margin-right: 5px !important;
+        }
+        input[type='checkbox'] {
+          width: 10px;
+          height: 10px;
+        }
+        thead {
+          tr {
+            font-size: 12px;
+
+            th:first-child {
+              width: 100px !important;
+            }
+          }
+        }
+       tbody {
+        .order-edit-btn {
+          font-size: 10px;
+        }
+        tr {
+          font-size: 10px !important;
+          td:first-child button[type='button'] {
+              min-width: 81px !important;
+              font-size: 10px;
+              padding: 5px 6px;
+          }
+          td:last-child {
+            .order-now-btn {
+              height: 49px;
+              text-wrap: initial;
+              width: 74px;
+              padding: 0px;
+            }
+          }
+          td {
+            align-items: center;
+            font-size: inherit !important;
+          }
+        }
+       }
+      }
+    }
+  }
+
+  .orders-provider-container {
+    .order-details {
+      margin-top: 141px;
+      padding: 20px 0px;
+    }
+
+    .order-container {
+      padding: 10px !important;
+    }
+
+    .place-order-btn {
+      height: auto;
+    }
+  }
+
+
+  .c-t-order-provider {
+    .table {
+      th:nth-child(5), th:nth-child(3) {
+        display: none;
+      }
+
+      thead tr th:nth-child(2) {
+        width: 130px !important;
+      }
+
+      thead tr th:nth-child(3) {
+        width: 76px !important;
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 1920px) {
+  .forecast-container .gcontainer {
+    height: 100;
+  }
+
+  .dashboard .leftcontent {
+    overflow: hidden;
+  }
+
+  .righside1 .weathercard ul.list li {
+    padding: 5px 0;
+  }
+
+  .event_cont {
+    margin-top: 10px;
+  }
+
+  .event_cont img {
+    width: 40px;
+  }
+
+  .event_cont .text-success {
+    font-size: 12px;
+    line-height: 1;
+  }
+
+  .cardlist .boxicon {
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+  }
+
+  .cardlist .boxicon img {
+    width: 20px;
+  }
+
+  .cardlist h2 {
+    font-size: 18px;
+  }
+
+  .cardlist p {
+    font-size: 14px;
+    line-height: 1;
+  }
+
+  .progresscard .progressitem p {
+    font-size: 13px;
+    line-height: 1.5;
+  }
+
+  .navbtns li a,
+  .navbtns li button {
+    padding: 10px 21px;
+  }
+
+  .forcast_left .cardlist .media {
+    margin-bottom: 8px;
+  }
+
+  .total_cont {
+    margin-bottom: 15px;
+  }
+
+  .progressitem {
+    margin-top: 10px;
+  }
+
+  .headerbtns .btn-icon {
+    padding: 6px 10px;
+  }
+
+  .btn-icon img {
+    width: 20px;
+  }
+}
+
+@media screen and (max-width: 1680px) {
+  .forecast-container .gcontainer {
+    height: 350px;
+  }
+
+  .forcast_left .custom-table .tablescroll .table td {
+    padding: 0.6rem 0.75rem;
+  }
+
+  .righside1 .weathercard ul.list li {
+    padding: 9px 0;
+  }
+}
+
+@media screen and (max-width: 1599px) {
+  .forecast-container .gcontainer {
+    height: 24vh;
+  }
+
+  h1,
+  .h1 {
+    font-size: 2rem !important;
+  }
+
+  .userheader p {
+    font-size: 14px;
+    margin-bottom: 0;
+  }
+
+  .logomain {
+    margin: 25px 0 75px 0;
+  }
+
+  .wrappers .leftmenu ul li .sidebar-link {
+    padding: 11px 17px;
+  }
+
+  .righside1 .weathercard ul.list li strong,
+  .righside1 .weathercard ul.list li span {
+    font-size: 14px;
+  }
+
+  .righside1 .weathercard ul.list li {
+    padding: 2px 0;
+  }
+
+  .total_cont {
+    margin-bottom: 6px;
+  }
+
+  .forcast_left .cardlist .media {
+    margin-bottom: 6px;
+  }
+
+  .event_cont {
+    margin-top: 10px;
+  }
+
+  .progressitem {
+    margin-top: 10px;
+  }
+
+  h2,
+  .h2 {
+    font-size: 16px;
+  }
+
+  .card .card-header {
+    padding: 10px 20px 0;
+  }
+
+  .card .card-body {
+    padding: 10px 10px;
+  }
+
+  .btn {
+    padding: 5px 15px;
+  }
+
+  .forcast_left .custom-table .tablescroll .table td {
+    padding: 0.2rem 0.75rem;
+    font-size: 12px;
+  }
+
+  .card {
+    margin-bottom: 12px;
+  }
+
+  .righside1 .weathercard {
+    margin-bottom: 12px;
+  }
+
+  .custom-table .tablescroll {
+    height: inherit;
+  }
+}
+
+@media screen and (max-width: 1440px) {
+  .forecast-container .gcontainer {
+    height: 300px;
+  }
+
+  .forcast_left .custom-table .tablescroll .table td {
+    padding: 0.5rem 0.75rem;
+  }
+
+  .forcast_left .cardlist .media {
+    margin-bottom: 15px;
+  }
+
+  .progressitem {
+    margin-top: 10px;
+  }
+
+  .total_cont {
+    margin-bottom: 15px;
+  }
+
+  .event_cont {
+    margin-top: 10px;
+  }
+
+  .event_cont img {
+    width: 45px;
+  }
+
+  .righside1 .weathercard ul.list li {
+    padding: 4px 0;
+  }
+
+  .logomain {
+    margin: 30px 0 55px 0;
+  }
+}
+
+@media only screen and (min-width: 1320px) and (max-width: 1400px) {
+  .forecast-container .gcontainer {
+    height: 200px;
+  }
+
+  h1,
+  .h1 {
+    font-size: 2rem !important;
+  }
+
+  .userheader p {
+    font-size: 14px;
+    margin-bottom: 0;
+  }
+
+  .headerbtns .btn-icon {
+    padding: 6px 10px;
+  }
+
+  .event_cont img {
+    width: 30px;
+  }
+
+  .event_cont .text-success {
+    font-size: 12px;
+    line-height: 1;
+  }
+
+  .btn-icon img {
+    width: 15px;
+  }
+
+  .dashboard .leftcontent {
+    overflow-x: hidden;
+  }
+
+  .cardlist .boxicon {
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+  }
+
+  .cardlist .boxicon img {
+    width: 18px;
+  }
+
+  .cardlist h2 {
+    font-size: 14px;
+  }
+
+  .cardlist p {
+    font-size: 13px;
+    line-height: 1;
+  }
+
+  .progresscard .progressitem p {
+    font-size: 13px;
+    line-height: 1.5;
+  }
+
+  .navbtns li a,
+  .navbtns li button {
+    padding: 10px 21px;
+  }
+
+  .righside1 .weathercard ul.list li strong,
+  .righside1 .weathercard ul.list li span {
+    font-size: 14px;
+  }
+
+  .righside1 .weathercard ul.list li {
+    padding: 2px 0;
+  }
+
+  .total_cont {
+    margin-bottom: 6px;
+  }
+
+  .forcast_left .cardlist .media {
+    margin-bottom: 6px;
+  }
+}
+
+.btn-icon img {
+  width: 20px;
+}
+
+@media screen and (max-width: 1280px), (max-height: 800px) {
+  h1,
+  .h1 {
+    font-size: 1.5rem !important;
+  }
+
+  .userheader p {
+    font-size: 14px;
+    margin-bottom: 0;
+  }
+
+  .headerbtns .btn-icon {
+    padding: 6px 10px;
+  }
+
+  .event_cont img {
+    width: 35px;
+  }
+
+  .event_cont .text-success {
+    font-size: 12px;
+    line-height: 1;
+  }
+
+  .btn-icon img {
+    width: 15px;
+  }
+
+  .cardlist .boxicon {
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    margin-right: 0;
+  }
+
+  .cardlist .boxicon img {
+    width: 18px;
+  }
+
+  .cardlist h2 {
+    font-size: 16px;
+  }
+
+  .cardlist p {
+    font-size: 13px;
+    line-height: 1;
+  }
+
+  .progresscard .progressitem p {
+    font-size: 13px;
+    line-height: 1.5;
+  }
+
+  .navbtns li a,
+  .navbtns li button {
+    padding: 10px 21px;
+  }
+
+  .custom-table .tablescroll .table td {
+    padding: 0.5rem 0.75rem !important;
+  }
+}
+
+@media screen and (max-height: 740px) {
+  .wrappers {
+    .leftmenu ul li .sidebar-link {
+      padding: 13px 17px;
+    }
+  }
+}
+
+.react-datepicker__header {
+  background-color: #fff;
+  border: 0;
+}
+
+.react-datepicker__day--selected {
+  background-color: $primary;
+
+  &:hover {
+    background-color: $primary;
+  }
+}
+
+.react-datepicker__day--in-range {
+  background-color: $primary;
+
+  &:hover {
+    background-color: $primary;
+  }
+}
+
+.react-datepicker__day-names {
+  font-weight: 700;
+  font-size: 11px;
+
+  .react-datepicker__day-name {
+    color: #242424 !important;
+
+    &:first-child {
+      color: #b33000 !important;
+    }
+  }
+}
+
+.react-datepicker__week {
+  .react-datepicker__day {
+    &.react-datepicker__day--keyboard-selected {
+      color: #fff !important;
+    }
+
+    &:first-child {
+      color: #b33000;
+    }
+  }
+
+  .react-datepicker__day--disabled {
+    &:first-child {
+      opacity: 0.59 !important;
+    }
+  }
+}
+
+.react-datepicker__current-month {
+  margin-bottom: 15px;
+}
+
+.card-spinner-container {
+  margin: auto;
+  top: 50%;
+  transform: translateY(-50%);
+  position: absolute;
+}

@@ -1,0 +1,234 @@
+{"sales": [
+  {
+      "id": "b53bc325-e967-4674-92aa-ee87f269a37d",
+      "reference":"12122212",
+      "name": "Fanta orange",
+      "order_number": "Mezzo Opéra",
+      "condition":"Carton",
+      "estimated_delivery_date": "02/08/2024",
+      "total_price": 75,
+      "is_delivered": true,
+      "restaurant2":40,
+      "restaurant3":20,
+      "restaurant4":30,
+      "restaurant5":50,
+      "restaurant6":10,
+      "restaurant_id": "90fd2d14-9aab-4af8-a66f-385321169dba",
+      "createdAt": "2023-09-07T15:52:10.000Z",
+      "stock": { "unit_stock": 9},
+      "provider": {
+          "id": "ae72c23e-7289-42ab-9359-8455068e3a66",
+          "name": "Labo Clichy",
+          "contact_name": "Labo Clichy",
+          "contact_number": "01 81 93 99 14",
+          "email_address": "Labo Clichy@fullsoon.co",
+          "address": "1 Rue Thomas Edison, 92230 Gennevilliers, France"
+      },
+      "purchase_items": [
+          {
+              "id": "16ddefc3-ad02-4a1e-831e-da5b54c1ed6c",
+              "ingredient_id": "ae580b27-1be5-46f9-84e3-da40e058a40c",
+              "provider_ingredient_id": "ae580b27-1be5-46f9-84e3-da40e058a40c",
+              "provider_reference_name": null,
+              "conditioning_name": null,
+              "product_quantity": 142,
+              "product_price": 0.09,
+              "is_delivered": true
+          }
+      ]
+  },
+  {
+    "id": "b53bc325-e967-4674-92aa-ee87f269a37d",
+    "reference":"12122212",
+    "name": "Menu enfant",
+    "order_number": "Mezzo Opéra",
+    "condition":"Carton",
+    "estimated_delivery_date": "02/08/2024",
+    "total_price": 75,
+    "is_delivered": true,
+    "restaurant2":40,
+    "restaurant3":35,
+    "restaurant4":35,
+    "restaurant5":20,
+    "restaurant6":20,
+    "restaurant_id": "90fd2d14-9aab-4af8-a66f-385321169dba",
+    "createdAt": "2023-09-07T15:52:10.000Z",
+    "stock": { "unit_stock": 9},
+    "provider": {
+        "id": "ae72c23e-7289-42ab-9359-8455068e3a66",
+        "name": "Labo Clichy",
+        "contact_name": "Labo Clichy",
+        "contact_number": "01 81 93 99 14",
+        "email_address": "Labo Clichy@fullsoon.co",
+        "address": "1 Rue Thomas Edison, 92230 Gennevilliers, France"
+    },
+    "purchase_items": [
+        {
+            "id": "16ddefc3-ad02-4a1e-831e-da5b54c1ed6c",
+            "ingredient_id": "ae580b27-1be5-46f9-84e3-da40e058a40c",
+            "provider_ingredient_id": "ae580b27-1be5-46f9-84e3-da40e058a40c",
+            "provider_reference_name": null,
+            "conditioning_name": null,
+            "product_quantity": 142,
+            "product_price": 0.09,
+            "is_delivered": true
+        }
+    ]
+},
+{
+  "id": "b53bc325-e967-4674-92aa-ee87f269a37d",
+  "reference":"12122212",
+  "name": "Coca cola Zero",
+  "order_number": "Mezzo Opéra",
+  "condition":"Carton",
+  "estimated_delivery_date": "02/08/2024",
+  "total_price": 75,
+  "is_delivered": true,
+  
+  "restaurant2":30,
+  "restaurant3":30,
+  "restaurant4":30,
+  "restaurant5":30,
+  "restaurant6":30,
+  "restaurant_id": "90fd2d14-9aab-4af8-a66f-385321169dba",
+  "createdAt": "2023-09-07T15:52:10.000Z",
+  "stock": { "unit_stock": 9},
+  "provider": {
+      "id": "ae72c23e-7289-42ab-9359-8455068e3a66",
+      "name": "Labo Clichy",
+      "contact_name": "Labo Clichy",
+      "contact_number": "01 81 93 99 14",
+      "email_address": "Labo Clichy@fullsoon.co",
+      "address": "1 Rue Thomas Edison, 92230 Gennevilliers, France"
+  },
+  "purchase_items": [
+      {
+          "id": "16ddefc3-ad02-4a1e-831e-da5b54c1ed6c",
+          "ingredient_id": "ae580b27-1be5-46f9-84e3-da40e058a40c",
+          "provider_ingredient_id": "ae580b27-1be5-46f9-84e3-da40e058a40c",
+          "provider_reference_name": null,
+          "conditioning_name": null,
+          "product_quantity": 142,
+          "product_price": 0.09,
+          "is_delivered": true
+      }
+  ]
+},
+{
+  "id": "b53bc325-e967-4674-92aa-ee87f269a37d",
+  "reference":"12122212",
+  "name": "Menu Wrap",
+  "order_number": "Mezzo Opéra",
+  "condition":"Carton",
+  "estimated_delivery_date": "02/08/2024",
+  "total_price": 75,
+  "is_delivered": true,
+  
+  "restaurant2":30,
+  "restaurant3":30,
+  "restaurant4":30,
+  "restaurant5":30,
+  "restaurant6":30,
+  "restaurant_id": "90fd2d14-9aab-4af8-a66f-385321169dba",
+  "createdAt": "2023-09-07T15:52:10.000Z",
+  "stock": { "unit_stock": 9},
+  "provider": {
+      "id": "ae72c23e-7289-42ab-9359-8455068e3a66",
+      "name": "Labo Clichy",
+      "contact_name": "Labo Clichy",
+      "contact_number": "01 81 93 99 14",
+      "email_address": "Labo Clichy@fullsoon.co",
+      "address": "1 Rue Thomas Edison, 92230 Gennevilliers, France"
+  },
+  "purchase_items": [
+      {
+          "id": "16ddefc3-ad02-4a1e-831e-da5b54c1ed6c",
+          "ingredient_id": "ae580b27-1be5-46f9-84e3-da40e058a40c",
+          "provider_ingredient_id": "ae580b27-1be5-46f9-84e3-da40e058a40c",
+          "provider_reference_name": null,
+          "conditioning_name": null,
+          "product_quantity": 142,
+          "product_price": 0.09,
+          "is_delivered": true
+      }
+  ]
+},
+{
+  "id": "b53bc325-e967-4674-92aa-ee87f269a37d",
+  "reference":"12122212",
+  "name": "Cheese Burger",
+  "order_number": "Mezzo Opéra",
+  "condition":"Carton",
+  "estimated_delivery_date": "02/08/2024",
+  "total_price": 75,
+  "is_delivered": true,
+  
+  "restaurant2":30,
+  "restaurant3":30,
+  "restaurant4":30,
+  "restaurant5":30,
+  "restaurant6":30,
+  "restaurant_id": "90fd2d14-9aab-4af8-a66f-385321169dba",
+  "createdAt": "2023-09-07T15:52:10.000Z",
+  "stock": { "unit_stock": 9},
+  "provider": {
+      "id": "ae72c23e-7289-42ab-9359-8455068e3a66",
+      "name": "Labo Clichy",
+      "contact_name": "Labo Clichy",
+      "contact_number": "01 81 93 99 14",
+      "email_address": "Labo Clichy@fullsoon.co",
+      "address": "1 Rue Thomas Edison, 92230 Gennevilliers, France"
+  },
+  "purchase_items": [
+      {
+          "id": "16ddefc3-ad02-4a1e-831e-da5b54c1ed6c",
+          "ingredient_id": "ae580b27-1be5-46f9-84e3-da40e058a40c",
+          "provider_ingredient_id": "ae580b27-1be5-46f9-84e3-da40e058a40c",
+          "provider_reference_name": null,
+          "conditioning_name": null,
+          "product_quantity": 142,
+          "product_price": 0.09,
+          "is_delivered": true
+      }
+  ]
+},
+{
+  "id": "b53bc325-e967-4674-92aa-ee87f269a37d",
+  "reference":"12122212",
+  "name": "Wings",
+  "order_number": "Mezzo Opéra",
+  "condition":"Carton",
+  "estimated_delivery_date": "02/08/2024",
+  "total_price": 75,
+  "is_delivered": true,
+  
+  "restaurant2":30,
+  "restaurant3":30,
+  "restaurant4":30,
+  "restaurant5":30,
+  "restaurant6":30,
+  "restaurant_id": "90fd2d14-9aab-4af8-a66f-385321169dba",
+  "createdAt": "2023-09-07T15:52:10.000Z",
+  "stock": { "unit_stock": 9},
+  "provider": {
+      "id": "ae72c23e-7289-42ab-9359-8455068e3a66",
+      "name": "Labo Clichy",
+      "contact_name": "Labo Clichy",
+      "contact_number": "01 81 93 99 14",
+      "email_address": "Labo Clichy@fullsoon.co",
+      "address": "1 Rue Thomas Edison, 92230 Gennevilliers, France"
+  },
+  "purchase_items": [
+      {
+          "id": "16ddefc3-ad02-4a1e-831e-da5b54c1ed6c",
+          "ingredient_id": "ae580b27-1be5-46f9-84e3-da40e058a40c",
+          "provider_ingredient_id": "ae580b27-1be5-46f9-84e3-da40e058a40c",
+          "provider_reference_name": null,
+          "conditioning_name": null,
+          "product_quantity": 142,
+          "product_price": 0.09,
+          "is_delivered": true
+      }
+  ]
+}
+]}

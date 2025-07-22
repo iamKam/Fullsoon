@@ -1,0 +1,1084 @@
+{"ingredients": [
+    {
+        "id": "9c377bbd-f58c-4563-90d2-716e9de1d0df",
+        "name": "FRITES MC CAIN EXPRESS 10 KG",
+        "brand": null,
+        "category": "vegetables",
+        "unit": "kg",
+        "cost_excl_tax": 13.6,
+        "image_path": null,
+        "restaurant_id": "90fd2d14-9aab-4af8-a66f-385321169dba",
+        "createdAt": "2022-08-19T16:31:35.000Z",
+        "updatedAt": "2022-08-19T16:31:35.000Z",
+        "deletedAt": null,
+        "details": [
+            {
+                "is_default": true,
+                "provider_ingredient": {
+                    "id": "8680d76c-850b-415b-aa38-f49fd3e3db2d",
+                    "provider_reference_name": "",
+                    "provider_reference_number": "2",
+                    "conditioning_name_1": "box",
+                    "conditioning_unit_1": "kg",
+                    "conditioning_quantity_1": 12,
+                    "conditioning_name_2": "box",
+                    "conditioning_unit_2": "kg",
+                    "conditioning_quantity_2": 12,
+                    "recipe_unit": "kg",
+                    "recipe_unit_quantity": 23,
+                    "storage_unit": "recipe",
+                    "price_excl_tax": 33,
+                    "tax": 2.64,
+                    "min_stock": 33,
+                    "max_stock": 44,
+                    "provider": {
+                        "id": "ae72c23e-7289-42ab-9359-8455068e3a66",
+                        "name": "Provider 3"
+                    }
+                }
+            }
+        ],
+        "allergens": []
+    },
+    {
+        "id": "aa1d573f-e1d0-4c08-a659-1ce8b3c9fc3e",
+        "name": "GALETTE DE POMME DE TERRE ROASTI MC CAIN",
+        "brand": null,
+        "category": "vegetables",
+        "unit": "item",
+        "cost_excl_tax": 4.99,
+        "image_path": null,
+        "restaurant_id": "90fd2d14-9aab-4af8-a66f-385321169dba",
+        "createdAt": "2022-08-19T16:30:32.000Z",
+        "updatedAt": "2022-09-01T15:22:38.000Z",
+        "deletedAt": null,
+        "details": [
+            {
+                "is_default": true,
+                "provider_ingredient": {
+                    "id": "8680d76c-850b-415b-aa38-f49fd3e3db2d",
+                    "provider_reference_name": "",
+                    "provider_reference_number": "2",
+                    "conditioning_name_1": "box",
+                    "conditioning_unit_1": "kg",
+                    "conditioning_quantity_1": 12,
+                    "conditioning_name_2": "box",
+                    "conditioning_unit_2": "kg",
+                    "conditioning_quantity_2": 18,
+                    "recipe_unit": "kg",
+                    "recipe_unit_quantity": 23,
+                    "storage_unit": "recipe",
+                    "price_excl_tax": 33,
+                    "tax": 2.64,
+                    "min_stock": 33,
+                    "max_stock": 44,
+                    "provider": {
+                        "id": "ae72c23e-7289-42ab-9359-8455068e3a66",
+                        "name": "Provider 3"
+                    }
+                }
+            }
+        ],
+        "allergens": []
+    },
+    {
+        "id": "435ba7d7-0b52-4ec6-b6b2-2477e41f1320",
+        "name": "TENDERS DE POULET BEIGNET (P'ti WRAP) 800 gr",
+        "brand": null,
+        "category": "meatAndFish",
+        "unit": "item",
+        "cost_excl_tax": 5.95,
+        "image_path": null,
+        "restaurant_id": "90fd2d14-9aab-4af8-a66f-385321169dba",
+        "createdAt": "2022-08-19T16:05:27.000Z",
+        "updatedAt": "2022-10-20T12:57:46.000Z",
+        "deletedAt": null,
+        "details": [
+            {
+                "is_default": true,
+                "provider_ingredient": {
+                    "id": "3b215710-8848-4eb3-bd2b-09240d40a40f",
+                    "provider_reference_name": "provider p2",
+                    "provider_reference_number": "1222",
+                    "conditioning_name_1": "packets",
+                    "conditioning_unit_1": "unit",
+                    "conditioning_quantity_1": 23,
+                    "conditioning_name_2": "box",
+                    "conditioning_unit_2": "kg",
+                    "conditioning_quantity_2": 18,
+                    "recipe_unit": "kg",
+                    "recipe_unit_quantity": 33,
+                    "storage_unit": "recipe",
+                    "price_excl_tax": 22,
+                    "tax": 2,
+                    "min_stock": 22,
+                    "max_stock": 33,
+                    "provider": {
+                        "id": "ae72c23e-7289-42ab-9359-8455068e3a66",
+                        "name": "Provider 2"
+                    }
+                }
+            }
+        ],
+        "allergens": []
+    },
+    {
+        "id": "542d4da4-450e-472e-b4fd-d9f7922da3b2",
+        "name": "TENDERS DE POULET HFC  AU KG",
+        "brand": null,
+        "category": "meatAndFish",
+        "unit": "item",
+        "cost_excl_tax": 8.52,
+        "image_path": null,
+        "restaurant_id": "90fd2d14-9aab-4af8-a66f-385321169dba",
+        "createdAt": "2022-08-19T16:03:37.000Z",
+        "updatedAt": "2022-10-20T13:01:29.000Z",
+        "deletedAt": null,
+        "details": [
+            {
+                "is_default": true,
+                "provider_ingredient": {
+                    "id": "6b4acd0f-219a-46a2-ae84-7fa02edd2e1a",
+                    "provider_reference_name": "Tanders provider 2",
+                    "provider_reference_number": "5444",
+                    "conditioning_name_1": "packets",
+                    "conditioning_unit_1": "unit",
+                    "conditioning_quantity_1": 15,
+                    "conditioning_name_2": "box",
+                    "conditioning_unit_2": "kg",
+                    "conditioning_quantity_2": 18,
+                    "recipe_unit": "item",
+                    "recipe_unit_quantity": 20,
+                    "storage_unit": "recipe",
+                    "price_excl_tax": 30,
+                    "tax": 2.1,
+                    "min_stock": 44,
+                    "max_stock": 66,
+                    "provider": {
+                        "id": "ae72c23e-7289-42ab-9359-8455068e3a66",
+                        "name": "Provider 2"
+                    }
+                }
+            }
+        ],
+        "allergens": []
+    },
+    {
+        "id": "306ec74d-60a4-4aae-aba2-e8c3ab7edac4",
+        "name": "NUGGETS 800 gr",
+        "brand": null,
+        "category": "meatAndFish",
+        "unit": "item",
+        "cost_excl_tax": 5.95,
+        "image_path": null,
+        "restaurant_id": "90fd2d14-9aab-4af8-a66f-385321169dba",
+        "createdAt": "2022-08-19T16:02:48.000Z",
+        "updatedAt": "2022-09-01T15:51:21.000Z",
+        "deletedAt": null,
+        "details": [
+            {
+                "is_default": false,
+                "provider_ingredient": {
+                    "id": "7f377c87-462e-4d61-80b9-c9bc1412cc8a",
+                    "provider_reference_name": "Tanders provider 1",
+                    "provider_reference_number": "1233",
+                    "conditioning_name_1": "box",
+                    "conditioning_unit_1": "kg",
+                    "conditioning_quantity_1": 10,
+                    "conditioning_name_2": "box",
+                    "conditioning_unit_2": "kg",
+                    "conditioning_quantity_2": 18,
+                    "recipe_unit": "item",
+                    "recipe_unit_quantity": 100,
+                    "storage_unit": "recipe",
+                    "price_excl_tax": 200,
+                    "tax": 5,
+                    "min_stock": 22,
+                    "max_stock": 33,
+                    "provider": {
+                        "id": "071bd0f3-74f4-4541-9ae3-78b190a5683f",
+                        "name": "Provider 1"
+                    }
+                }
+            },
+            {
+                "is_default": true,
+                "provider_ingredient": {
+                    "id": "6b4acd0f-219a-46a2-ae84-7fa02edd2e1a",
+                    "provider_reference_name": "Tanders provider 2",
+                    "provider_reference_number": "5444",
+                    "conditioning_name_1": "packets",
+                    "conditioning_unit_1": "unit",
+                    "conditioning_quantity_1": 15,
+                    "conditioning_name_2": "box",
+                    "conditioning_unit_2": "kg",
+                    "conditioning_quantity_2": 18,
+                    "recipe_unit": "item",
+                    "recipe_unit_quantity": 20,
+                    "storage_unit": "recipe",
+                    "price_excl_tax": 30,
+                    "tax": 2.1,
+                    "min_stock": 44,
+                    "max_stock": 66,
+                    "provider": {
+                        "id": "853e0769-f4b8-4d95-ab90-c61aad396511",
+                        "name": "Provider 2"
+                    }
+                }
+            }
+        ],
+        "allergens": []
+    },
+    {
+        "id": "687f7d47-d1fc-4e32-8312-91f1e9aead34",
+        "name": "STEAK BURGER BEIGNET POULET ( CHICKEN BURGER) 800 gr",
+        "brand": null,
+        "category": "meatAndFish",
+        "unit": "item",
+        "cost_excl_tax": 5.95,
+        "image_path": null,
+        "restaurant_id": "90fd2d14-9aab-4af8-a66f-385321169dba",
+        "createdAt": "2022-08-19T16:02:08.000Z",
+        "updatedAt": "2023-04-03T10:28:52.000Z",
+        "deletedAt": null,
+        "details": [
+            {
+                "is_default": true,
+                "provider_ingredient": {
+                    "id": "d7b90058-8b4c-4da6-99d8-0adf348ac08d",
+                    "provider_reference_name": "fake Tanders",
+                    "provider_reference_number": "122",
+                    "conditioning_name_1": "box",
+                    "conditioning_unit_1": "kg",
+                    "conditioning_quantity_1": 12,
+                    "conditioning_name_2": "box",
+                    "conditioning_unit_2": "kg",
+                    "conditioning_quantity_2": 18,
+                    "recipe_unit": "kg",
+                    "recipe_unit_quantity": 23,
+                    "storage_unit": "conditioning",
+                    "price_excl_tax": 23,
+                    "tax": 3,
+                    "min_stock": 23,
+                    "max_stock": 33,
+                    "provider": {
+                        "id": "071bd0f3-74f4-4541-9ae3-78b190a5683f",
+                        "name": "Provider 1"
+                    }
+                }
+            }
+        ],
+        "allergens": []
+    },
+    {
+        "id": "24f34eb5-62b6-495e-ab2e-8559ebbd65a0",
+        "name": "STEAK  120 gr 6 KG (INICIA)",
+        "brand": null,
+        "category": "meatAndFish",
+        "unit": "item",
+        "cost_excl_tax": 1.08,
+        "image_path": null,
+        "restaurant_id": "90fd2d14-9aab-4af8-a66f-385321169dba",
+        "createdAt": "2022-08-19T16:01:09.000Z",
+        "updatedAt": "2023-06-27T11:01:12.000Z",
+        "deletedAt": null,
+        "details": [
+            {
+                "is_default": true,
+                "provider_ingredient": {
+                    "id": "ce871ece-e4d0-4783-8c7f-beee6a501d5e",
+                    "provider_reference_name": "provider p3",
+                    "provider_reference_number": "3444",
+                    "conditioning_name_1": "box",
+                    "conditioning_unit_1": "unit",
+                    "conditioning_quantity_1": 34,
+                    "conditioning_name_2": "box",
+                    "conditioning_unit_2": "kg",
+                    "conditioning_quantity_2": 18,
+                    "recipe_unit": "l",
+                    "recipe_unit_quantity": 34,
+                    "storage_unit": "recipe",
+                    "price_excl_tax": 33,
+                    "tax": 2,
+                    "min_stock": 344,
+                    "max_stock": 4556,
+                    "provider": {
+                        "id": "036f7f52-2a0b-4371-92ea-30d75158dd46",
+                        "name": "Provider 3"
+                    }
+                }
+            }
+        ],
+        "allergens": []
+    },
+    {
+        "id": "db1eed11-9648-433b-9049-eae7d70c39d1",
+        "name": "STEAK 45 gr INICIA 6 KG",
+        "brand": null,
+        "category": "meatAndFish",
+        "unit": "item",
+        "cost_excl_tax": 0.37,
+        "image_path": null,
+        "restaurant_id": "90fd2d14-9aab-4af8-a66f-385321169dba",
+        "createdAt": "2022-08-19T15:58:59.000Z",
+        "updatedAt": "2023-05-02T13:24:04.000Z",
+        "deletedAt": null,
+        "details": [
+            {
+                "is_default": false,
+                "provider_ingredient": {
+                    "id": "d7b90058-8b4c-4da6-99d8-0adf348ac08d",
+                    "provider_reference_name": "fake Tanders",
+                    "provider_reference_number": "122",
+                    "conditioning_name_1": "box",
+                    "conditioning_unit_1": "kg",
+                    "conditioning_quantity_1": 12,
+                    "conditioning_name_2": "box",
+                    "conditioning_unit_2": "kg",
+                    "conditioning_quantity_2": 18,
+                    "recipe_unit": "kg",
+                    "recipe_unit_quantity": 23,
+                    "storage_unit": "conditioning",
+                    "price_excl_tax": 23,
+                    "tax": 3,
+                    "min_stock": 23,
+                    "max_stock": 33,
+                    "provider": {
+                        "id": "071bd0f3-74f4-4541-9ae3-78b190a5683f",
+                        "name": "Provider 1"
+                    }
+                }
+            },
+            {
+                "is_default": true,
+                "provider_ingredient": {
+                    "id": "3b215710-8848-4eb3-bd2b-09240d40a40f",
+                    "provider_reference_name": "provider p2",
+                    "provider_reference_number": "1222",
+                    "conditioning_name_1": "packets",
+                    "conditioning_unit_1": "unit",
+                    "conditioning_quantity_1": 23,
+                    "conditioning_name_2": "box",
+                    "conditioning_unit_2": "kg",
+                    "conditioning_quantity_2": 18,
+                    "recipe_unit": "kg",
+                    "recipe_unit_quantity": 33,
+                    "storage_unit": "recipe",
+                    "price_excl_tax": 22,
+                    "tax": 2,
+                    "min_stock": 22,
+                    "max_stock": 33,
+                    "provider": {
+                        "id": "853e0769-f4b8-4d95-ab90-c61aad396511",
+                        "name": "Provider 2"
+                    }
+                }
+            }
+        ],
+        "allergens": []
+    },
+    {
+        "id": "622bdd5a-6a2c-46d7-aa42-1616c33ba0fc",
+        "name": "STEAK 45 gr INICIA 1 KG",
+        "brand": null,
+        "category": "meatAndFish",
+        "unit": "item",
+        "cost_excl_tax": 0.37,
+        "image_path": null,
+        "restaurant_id": "90fd2d14-9aab-4af8-a66f-385321169dba",
+        "createdAt": "2022-08-19T15:58:12.000Z",
+        "updatedAt": "2022-08-26T14:42:52.000Z",
+        "deletedAt": null,
+        "details": [
+            {
+                "is_default": false,
+                "provider_ingredient": {
+                    "id": "d7b90058-8b4c-4da6-99d8-0adf348ac08d",
+                    "provider_reference_name": "fake Tanders",
+                    "provider_reference_number": "122",
+                    "conditioning_name_1": "box",
+                    "conditioning_unit_1": "kg",
+                    "conditioning_quantity_1": 12,
+                    "conditioning_name_2": "box",
+                    "conditioning_unit_2": "kg",
+                    "conditioning_quantity_2": 18,
+                    "recipe_unit": "kg",
+                    "recipe_unit_quantity": 23,
+                    "storage_unit": "conditioning",
+                    "price_excl_tax": 23,
+                    "tax": 3,
+                    "min_stock": 23,
+                    "max_stock": 33,
+                    "provider": {
+                        "id": "071bd0f3-74f4-4541-9ae3-78b190a5683f",
+                        "name": "Provider 1"
+                    }
+                }
+            },
+            {
+                "is_default": true,
+                "provider_ingredient": {
+                    "id": "3b215710-8848-4eb3-bd2b-09240d40a40f",
+                    "provider_reference_name": "provider p2",
+                    "provider_reference_number": "1222",
+                    "conditioning_name_1": "packets",
+                    "conditioning_unit_1": "unit",
+                    "conditioning_quantity_1": 23,
+                    "conditioning_name_2": "box",
+                    "conditioning_unit_2": "kg",
+                    "conditioning_quantity_2": 18,
+                    "recipe_unit": "kg",
+                    "recipe_unit_quantity": 33,
+                    "storage_unit": "recipe",
+                    "price_excl_tax": 22,
+                    "tax": 2,
+                    "min_stock": 22,
+                    "max_stock": 33,
+                    "provider": {
+                        "id": "853e0769-f4b8-4d95-ab90-c61aad396511",
+                        "name": "Provider 2"
+                    }
+                }
+            }
+        ],
+        "allergens": []
+    },
+    {
+        "id": "1e682537-fbf5-4ba6-8d12-585c0204c162",
+        "name": "PAIN TOAST JACQUET 24 TRANCHES",
+        "brand": null,
+        "category": "pulses",
+        "unit": "item",
+        "cost_excl_tax": 5.53,
+        "image_path": null,
+        "restaurant_id": "90fd2d14-9aab-4af8-a66f-385321169dba",
+        "createdAt": "2022-08-19T15:57:07.000Z",
+        "updatedAt": "2022-08-19T15:57:07.000Z",
+        "deletedAt": null,
+        "provider": {
+            "id": "ae72c23e-7289-42ab-9359-8455068e3a66",
+            "name": "Salamarket"
+        },
+        "allergens": []
+    },
+    {
+        "id": "4e2b808e-8092-46a4-86cf-df3456225d71",
+        "name": "PAIN 1008 BIG G LA DALLE 24 PCS",
+        "brand": null,
+        "category": "pulses",
+        "unit": "item",
+        "cost_excl_tax": 7.29,
+        "image_path": null,
+        "restaurant_id": "90fd2d14-9aab-4af8-a66f-385321169dba",
+        "createdAt": "2022-08-19T14:57:35.000Z",
+        "updatedAt": "2022-08-19T14:57:35.000Z",
+        "deletedAt": null,
+        "details": [
+            {
+                "is_default": true,
+                "provider_ingredient": {
+                    "id": "ce871ece-e4d0-4783-8c7f-beee6a501d5e",
+                    "provider_reference_name": "provider p3",
+                    "provider_reference_number": "3444",
+                    "conditioning_name_1": "box",
+                    "conditioning_unit_1": "unit",
+                    "conditioning_quantity_1": 34,
+                    "conditioning_name_2": "box",
+                    "conditioning_unit_2": "kg",
+                    "conditioning_quantity_2": 18,
+                    "recipe_unit": "l",
+                    "recipe_unit_quantity": 34,
+                    "storage_unit": "recipe",
+                    "price_excl_tax": 33,
+                    "tax": 2,
+                    "min_stock": 344,
+                    "max_stock": 4556,
+                    "provider": {
+                        "id": "036f7f52-2a0b-4371-92ea-30d75158dd46",
+                        "name": "Provider 3"
+                    }
+                }
+            }
+        ],
+        "allergens": []
+    },
+    {
+        "id": "0656833d-427c-4ed1-a02c-13ce7ae0d1a7",
+        "name": "PAIN  2127 30 PCS GLD",
+        "brand": null,
+        "category": "pulses",
+        "unit": "item",
+        "cost_excl_tax": 7.08,
+        "image_path": null,
+        "restaurant_id": "90fd2d14-9aab-4af8-a66f-385321169dba",
+        "createdAt": "2022-08-19T14:55:54.000Z",
+        "updatedAt": "2022-08-19T14:55:54.000Z",
+        "deletedAt": null,
+        "provider": {
+            "id": "ae72c23e-7289-42ab-9359-8455068e3a66",
+            "name": "Salamarket"
+        },
+        "allergens": []
+    },
+    {
+        "id": "14b478b4-d8d0-482d-9e8e-56eca4c7d112",
+        "name": "PAIN  2138 48 PCS GLD",
+        "brand": null,
+        "category": "pulses",
+        "unit": "item",
+        "cost_excl_tax": 6.46,
+        "image_path": null,
+        "restaurant_id": "90fd2d14-9aab-4af8-a66f-385321169dba",
+        "createdAt": "2022-08-19T14:52:46.000Z",
+        "updatedAt": "2022-08-19T14:52:46.000Z",
+        "deletedAt": null,
+        "details": [
+            {
+                "is_default": true,
+                "provider_ingredient": {
+                    "id": "d7b90058-8b4c-4da6-99d8-0adf348ac08d",
+                    "provider_reference_name": "fake Tanders",
+                    "provider_reference_number": "122",
+                    "conditioning_name_1": "box",
+                    "conditioning_unit_1": "kg",
+                    "conditioning_quantity_1": 12,
+                    "conditioning_name_2": "box",
+                    "conditioning_unit_2": "kg",
+                    "conditioning_quantity_2": 18,
+                    "recipe_unit": "kg",
+                    "recipe_unit_quantity": 23,
+                    "storage_unit": "conditioning",
+                    "price_excl_tax": 23,
+                    "tax": 3,
+                    "min_stock": 23,
+                    "max_stock": 33,
+                    "provider": {
+                        "id": "071bd0f3-74f4-4541-9ae3-78b190a5683f",
+                        "name": "Provider 1"
+                    }
+                }
+            }
+        ],
+        "allergens": []
+    },
+    {
+        "id": "2256cdd7-15d9-451d-9af5-3141664773ec",
+        "name": "PAIN 2141 48 PCS HARRIS",
+        "brand": null,
+        "category": "pulses",
+        "unit": "item",
+        "cost_excl_tax": 8.18,
+        "image_path": null,
+        "restaurant_id": "90fd2d14-9aab-4af8-a66f-385321169dba",
+        "createdAt": "2022-08-19T14:51:55.000Z",
+        "updatedAt": "2022-08-19T14:51:55.000Z",
+        "deletedAt": null,
+        "details": [
+            {
+                "is_default": false,
+                "provider_ingredient": {
+                    "id": "d7b90058-8b4c-4da6-99d8-0adf348ac08d",
+                    "provider_reference_name": "fake Tanders",
+                    "provider_reference_number": "122",
+                    "conditioning_name_1": "box",
+                    "conditioning_unit_1": "kg",
+                    "conditioning_quantity_1": 12,
+                    "conditioning_name_2": "box",
+                    "conditioning_unit_2": "kg",
+                    "conditioning_quantity_2": 18,
+                    "recipe_unit": "kg",
+                    "recipe_unit_quantity": 23,
+                    "storage_unit": "conditioning",
+                    "price_excl_tax": 23,
+                    "tax": 3,
+                    "min_stock": 23,
+                    "max_stock": 33,
+                    "provider": {
+                        "id": "071bd0f3-74f4-4541-9ae3-78b190a5683f",
+                        "name": "Provider 1"
+                    }
+                }
+            },
+            {
+                "is_default": true,
+                "provider_ingredient": {
+                    "id": "3b215710-8848-4eb3-bd2b-09240d40a40f",
+                    "provider_reference_name": "provider p2",
+                    "provider_reference_number": "1222",
+                    "conditioning_name_1": "packets",
+                    "conditioning_unit_1": "unit",
+                    "conditioning_quantity_1": 23,
+                    "conditioning_name_2": "box",
+                    "conditioning_unit_2": "kg",
+                    "conditioning_quantity_2": 18,
+                    "recipe_unit": "kg",
+                    "recipe_unit_quantity": 33,
+                    "storage_unit": "recipe",
+                    "price_excl_tax": 22,
+                    "tax": 2,
+                    "min_stock": 22,
+                    "max_stock": 33,
+                    "provider": {
+                        "id": "853e0769-f4b8-4d95-ab90-c61aad396511",
+                        "name": "Provider 2"
+                    }
+                }
+            }
+        ],
+        "allergens": []
+    },
+    {
+        "id": "82392d21-90f5-4dce-bbb6-f1717349f7a8",
+        "name": "PAIN 2141 48 PCS GLD",
+        "brand": null,
+        "category": "pulses",
+        "unit": "item",
+        "cost_excl_tax": 6.83,
+        "image_path": null,
+        "restaurant_id": "90fd2d14-9aab-4af8-a66f-385321169dba",
+        "createdAt": "2022-08-19T14:48:47.000Z",
+        "updatedAt": "2022-08-19T14:48:47.000Z",
+        "deletedAt": null,
+        "details": [
+            {
+                "is_default": true,
+                "provider_ingredient": {
+                    "id": "6b4acd0f-219a-46a2-ae84-7fa02edd2e1a",
+                    "provider_reference_name": "Tanders provider 2",
+                    "provider_reference_number": "5444",
+                    "conditioning_name_1": "packets",
+                    "conditioning_unit_1": "unit",
+                    "conditioning_quantity_1": 15,
+                    "conditioning_name_2": "box",
+                    "conditioning_unit_2": "kg",
+                    "conditioning_quantity_2": 18,
+                    "recipe_unit": "item",
+                    "recipe_unit_quantity": 20,
+                    "storage_unit": "recipe",
+                    "price_excl_tax": 30,
+                    "tax": 2.1,
+                    "min_stock": 44,
+                    "max_stock": 66,
+                    "provider": {
+                        "id": "853e0769-f4b8-4d95-ab90-c61aad396511",
+                        "name": "Provider 2"
+                    }
+                }
+            }
+        ],
+        "allergens": []
+    },
+    {
+        "id": "599d63d4-491a-4a85-a4c0-49d87a39a34f",
+        "name": "HUILE TOURNESOL L",
+        "brand": null,
+        "category": "fatsAndOils",
+        "unit": "l",
+        "cost_excl_tax": 3.7,
+        "image_path": null,
+        "restaurant_id": "90fd2d14-9aab-4af8-a66f-385321169dba",
+        "createdAt": "2022-08-19T14:37:04.000Z",
+        "updatedAt": "2022-08-19T14:37:04.000Z",
+        "deletedAt": null,
+        "details": [
+            {
+                "is_default": true,
+                "provider_ingredient": {
+                    "id": "3b215710-8848-4eb3-bd2b-09240d40a40f",
+                    "provider_reference_name": "provider p2",
+                    "provider_reference_number": "1222",
+                    "conditioning_name_1": "packets",
+                    "conditioning_unit_1": "unit",
+                    "conditioning_quantity_1": 23,
+                    "conditioning_name_2": "box",
+                    "conditioning_unit_2": "kg",
+                    "conditioning_quantity_2": 18,
+                    "recipe_unit": "kg",
+                    "recipe_unit_quantity": 33,
+                    "storage_unit": "recipe",
+                    "price_excl_tax": 22,
+                    "tax": 2,
+                    "min_stock": 22,
+                    "max_stock": 33,
+                    "provider": {
+                        "id": "853e0769-f4b8-4d95-ab90-c61aad396511",
+                        "name": "Provider 2"
+                    }
+                }
+            }
+        ],
+        "allergens": []
+    },
+    {
+        "id": "ae1470e7-f631-4774-8618-df125221d918",
+        "name": "BACON IKBAL DINDE FUMÉ  AU KG",
+        "brand": null,
+        "category": "meatAndFish",
+        "unit": "kg",
+        "cost_excl_tax": 18.9,
+        "image_path": null,
+        "restaurant_id": "90fd2d14-9aab-4af8-a66f-385321169dba",
+        "createdAt": "2022-08-19T14:34:42.000Z",
+        "updatedAt": "2023-06-27T11:01:53.000Z",
+        "deletedAt": null,
+        "details": [
+            {
+                "is_default": true,
+                "provider_ingredient": {
+                    "id": "8680d76c-850b-415b-aa38-f49fd3e3db2d",
+                    "provider_reference_name": "",
+                    "provider_reference_number": "2",
+                    "conditioning_name_1": "box",
+                    "conditioning_unit_1": "kg",
+                    "conditioning_quantity_1": 12,
+                    "conditioning_name_2": "box",
+                    "conditioning_unit_2": "kg",
+                    "conditioning_quantity_2": 18,
+                    "recipe_unit": "kg",
+                    "recipe_unit_quantity": 23,
+                    "storage_unit": "recipe",
+                    "price_excl_tax": 33,
+                    "tax": 2.64,
+                    "min_stock": 33,
+                    "max_stock": 44,
+                    "provider": {
+                        "id": "036f7f52-2a0b-4371-92ea-30d75158dd46",
+                        "name": "Provider 3"
+                    }
+                }
+            }
+        ],
+        "allergens": []
+    },
+    {
+        "id": "952b738b-1ee8-4f68-94a9-4417da7aaaec",
+        "name": "PAIN JACQUET BRASSERIE 4 PIECES",
+        "brand": null,
+        "category": "vegetables",
+        "unit": "item",
+        "cost_excl_tax": 2.25,
+        "image_path": null,
+        "restaurant_id": "90fd2d14-9aab-4af8-a66f-385321169dba",
+        "createdAt": "2022-08-19T14:30:48.000Z",
+        "updatedAt": "2022-08-19T14:30:48.000Z",
+        "deletedAt": null,
+        "provider": {
+            "id": "ae72c23e-7289-42ab-9359-8455068e3a66",
+            "name": "Salamarket"
+        },
+        "allergens": []
+    },
+    {
+        "id": "7f0cae74-aae1-4ed0-a87d-a5bba4f2988f",
+        "name": "CORNICHON KHUNE 2,45KG",
+        "brand": null,
+        "category": "vegetables",
+        "unit": "kg",
+        "cost_excl_tax": 7.1,
+        "image_path": null,
+        "restaurant_id": "90fd2d14-9aab-4af8-a66f-385321169dba",
+        "createdAt": "2022-08-19T14:29:52.000Z",
+        "updatedAt": "2022-08-19T14:29:52.000Z",
+        "deletedAt": null,
+        "details": [
+            {
+                "is_default": true,
+                "provider_ingredient": {
+                    "id": "3b215710-8848-4eb3-bd2b-09240d40a40f",
+                    "provider_reference_name": "provider p2",
+                    "provider_reference_number": "1222",
+                    "conditioning_name_1": "packets",
+                    "conditioning_unit_1": "unit",
+                    "conditioning_quantity_1": 23,
+                    "conditioning_name_2": "box",
+                    "conditioning_unit_2": "kg",
+                    "conditioning_quantity_2": 18,
+                    "recipe_unit": "kg",
+                    "recipe_unit_quantity": 33,
+                    "storage_unit": "recipe",
+                    "price_excl_tax": 22,
+                    "tax": 2,
+                    "min_stock": 22,
+                    "max_stock": 33,
+                    "provider": {
+                        "id": "853e0769-f4b8-4d95-ab90-c61aad396511",
+                        "name": "Provider 2"
+                    }
+                }
+            }
+        ],
+        "allergens": []
+    },
+    {
+        "id": "17385157-7cd4-455b-822a-fb4a102b89cb",
+        "name": "OIGNON BLANC AU KG",
+        "brand": null,
+        "category": "vegetables",
+        "unit": "kg",
+        "cost_excl_tax": 1.78,
+        "image_path": null,
+        "restaurant_id": "90fd2d14-9aab-4af8-a66f-385321169dba",
+        "createdAt": "2022-08-19T14:29:05.000Z",
+        "updatedAt": "2022-08-19T14:29:05.000Z",
+        "deletedAt": null,
+        "details": [
+            {
+                "is_default": false,
+                "provider_ingredient": {
+                    "id": "d7b90058-8b4c-4da6-99d8-0adf348ac08d",
+                    "provider_reference_name": "fake Tanders",
+                    "provider_reference_number": "122",
+                    "conditioning_name_1": "box",
+                    "conditioning_unit_1": "kg",
+                    "conditioning_quantity_1": 12,
+                    "conditioning_name_2": "box",
+                    "conditioning_unit_2": "kg",
+                    "conditioning_quantity_2": 18,
+                    "recipe_unit": "kg",
+                    "recipe_unit_quantity": 23,
+                    "storage_unit": "conditioning",
+                    "price_excl_tax": 23,
+                    "tax": 3,
+                    "min_stock": 23,
+                    "max_stock": 33,
+                    "provider": {
+                        "id": "071bd0f3-74f4-4541-9ae3-78b190a5683f",
+                        "name": "Provider 1"
+                    }
+                }
+            },
+            {
+                "is_default": true,
+                "provider_ingredient": {
+                    "id": "3b215710-8848-4eb3-bd2b-09240d40a40f",
+                    "provider_reference_name": "provider p2",
+                    "provider_reference_number": "1222",
+                    "conditioning_name_1": "packets",
+                    "conditioning_unit_1": "unit",
+                    "conditioning_quantity_1": 23,
+                    "conditioning_name_2": "box",
+                    "conditioning_unit_2": "kg",
+                    "conditioning_quantity_2": 18,
+                    "recipe_unit": "kg",
+                    "recipe_unit_quantity": 33,
+                    "storage_unit": "recipe",
+                    "price_excl_tax": 22,
+                    "tax": 2,
+                    "min_stock": 22,
+                    "max_stock": 33,
+                    "provider": {
+                        "id": "853e0769-f4b8-4d95-ab90-c61aad396511",
+                        "name": "Provider 2"
+                    }
+                }
+            }
+        ],
+        "allergens": []
+    },
+    {
+        "id": "d826339a-9c3f-4d00-abe7-76dde4bde9af",
+        "name": "TOMATE PLATEAU",
+        "brand": null,
+        "category": "vegetables",
+        "unit": "kg",
+        "cost_excl_tax": 5,
+        "image_path": null,
+        "restaurant_id": "90fd2d14-9aab-4af8-a66f-385321169dba",
+        "createdAt": "2022-08-19T14:26:53.000Z",
+        "updatedAt": "2022-08-19T14:26:53.000Z",
+        "deletedAt": null,
+        "details": [
+            {
+                "is_default": true,
+                "provider_ingredient": {
+                    "id": "ce871ece-e4d0-4783-8c7f-beee6a501d5e",
+                    "provider_reference_name": "provider p3",
+                    "provider_reference_number": "3444",
+                    "conditioning_name_1": "box",
+                    "conditioning_unit_1": "unit",
+                    "conditioning_quantity_1": 34,
+                    "conditioning_name_2": "box",
+                    "conditioning_unit_2": "kg",
+                    "conditioning_quantity_2": 18,
+                    "recipe_unit": "l",
+                    "recipe_unit_quantity": 34,
+                    "storage_unit": "recipe",
+                    "price_excl_tax": 33,
+                    "tax": 2,
+                    "min_stock": 344,
+                    "max_stock": 4556,
+                    "provider": {
+                        "id": "036f7f52-2a0b-4371-92ea-30d75158dd46",
+                        "name": "Provider 3"
+                    }
+                }
+            }
+        ],
+        "allergens": []
+    },
+    {
+        "id": "34f25723-099f-4fba-8ce5-7bb15d2ad211",
+        "name": "salade iceberg ",
+        "brand": null,
+        "category": "vegetables",
+        "unit": "item",
+        "cost_excl_tax": 16.5,
+        "image_path": null,
+        "restaurant_id": "90fd2d14-9aab-4af8-a66f-385321169dba",
+        "createdAt": "2022-08-19T14:24:58.000Z",
+        "updatedAt": "2022-10-20T13:04:55.000Z",
+        "deletedAt": null,
+        "details": [
+            {
+                "is_default": true,
+                "provider_ingredient": {
+                    "id": "8680d76c-850b-415b-aa38-f49fd3e3db2d",
+                    "provider_reference_name": "",
+                    "provider_reference_number": "2",
+                    "conditioning_name_1": "box",
+                    "conditioning_unit_1": "kg",
+                    "conditioning_quantity_1": 12,
+                    "conditioning_name_2": "box",
+                    "conditioning_unit_2": "kg",
+                    "conditioning_quantity_2": 18,
+                    "recipe_unit": "kg",
+                    "recipe_unit_quantity": 23,
+                    "storage_unit": "recipe",
+                    "price_excl_tax": 33,
+                    "tax": 2.64,
+                    "min_stock": 33,
+                    "max_stock": 44,
+                    "provider": {
+                        "id": "036f7f52-2a0b-4371-92ea-30d75158dd46",
+                        "name": "Provider 3"
+                    }
+                }
+            }
+        ],
+        "allergens": []
+    },
+    {
+        "id": "06c19c47-6749-4325-b3b5-20cfe5289af4",
+        "name": "EMMENTAL FONDU 88 TRANCHES",
+        "brand": null,
+        "category": "milkProduct",
+        "unit": "item",
+        "cost_excl_tax": 0.1,
+        "image_path": null,
+        "restaurant_id": "90fd2d14-9aab-4af8-a66f-385321169dba",
+        "createdAt": "2022-08-18T13:01:24.000Z",
+        "updatedAt": "2022-08-18T13:01:24.000Z",
+        "deletedAt": null,
+        "details": [
+            {
+                "is_default": true,
+                "provider_ingredient": {
+                    "id": "3b215710-8848-4eb3-bd2b-09240d40a40f",
+                    "provider_reference_name": "provider p2",
+                    "provider_reference_number": "1222",
+                    "conditioning_name_1": "packets",
+                    "conditioning_unit_1": "unit",
+                    "conditioning_quantity_1": 23,
+                    "conditioning_name_2": "box",
+                    "conditioning_unit_2": "kg",
+                    "conditioning_quantity_2": 18,
+                    "recipe_unit": "kg",
+                    "recipe_unit_quantity": 33,
+                    "storage_unit": "recipe",
+                    "price_excl_tax": 22,
+                    "tax": 2,
+                    "min_stock": 22,
+                    "max_stock": 33,
+                    "provider": {
+                        "id": "853e0769-f4b8-4d95-ab90-c61aad396511",
+                        "name": "Provider 2"
+                    }
+                }
+            }
+        ],
+        "allergens": []
+    },
+    {
+        "id": "ae580b27-1be5-46f9-84e3-da40e058a40c",
+        "name": "CHEDDAR HOCHLAND PACK 84 TRANCHES",
+        "brand": null,
+        "category": "milkProduct",
+        "unit": "item",
+        "cost_excl_tax": 0.09,
+        "image_path": null,
+        "restaurant_id": "90fd2d14-9aab-4af8-a66f-385321169dba",
+        "createdAt": "2022-08-18T12:59:39.000Z",
+        "updatedAt": "2022-08-18T12:59:39.000Z",
+        "deletedAt": null,
+        "details": [
+            {
+                "is_default": true,
+                "provider_ingredient": {
+                    "id": "6b4acd0f-219a-46a2-ae84-7fa02edd2e1a",
+                    "provider_reference_name": "Tanders provider 2",
+                    "provider_reference_number": "5444",
+                    "conditioning_name_1": "packets",
+                    "conditioning_unit_1": "unit",
+                    "conditioning_quantity_1": 15,
+                    "conditioning_name_2": "box",
+                    "conditioning_unit_2": "kg",
+                    "conditioning_quantity_2": 18,
+                    "recipe_unit": "item",
+                    "recipe_unit_quantity": 20,
+                    "storage_unit": "recipe",
+                    "price_excl_tax": 30,
+                    "tax": 2.1,
+                    "min_stock": 44,
+                    "max_stock": 66,
+                    "provider": {
+                        "id": "853e0769-f4b8-4d95-ab90-c61aad396511",
+                        "name": "Provider 2"
+                    }
+                }
+            }
+        ],
+        "allergens": []
+    },
+    {
+        "id": "4d6a1a06-c281-4628-a7ee-b9a53bfba258",
+        "name": "COCA COLA PACK 24",
+        "brand": null,
+        "category": "brasserie",
+        "unit": "item",
+        "cost_excl_tax": 11.76,
+        "image_path": null,
+        "restaurant_id": "90fd2d14-9aab-4af8-a66f-385321169dba",
+        "createdAt": "2022-08-18T12:33:02.000Z",
+        "updatedAt": "2023-06-27T10:14:30.000Z",
+        "deletedAt": null,
+        "details": [
+            {
+                "is_default": true,
+                "provider_ingredient": {
+                    "id": "6b4acd0f-219a-46a2-ae84-7fa02edd2e1a",
+                    "provider_reference_name": "Tanders provider 2",
+                    "provider_reference_number": "5444",
+                    "conditioning_name_1": "packets",
+                    "conditioning_unit_1": "unit",
+                    "conditioning_quantity_1": 15,
+                    "conditioning_name_2": "box",
+                    "conditioning_unit_2": "kg",
+                    "conditioning_quantity_2": 18,
+                    "recipe_unit": "item",
+                    "recipe_unit_quantity": 20,
+                    "storage_unit": "recipe",
+                    "price_excl_tax": 30,
+                    "tax": 2.1,
+                    "min_stock": 44,
+                    "max_stock": 66,
+                    "provider": {
+                        "id": "853e0769-f4b8-4d95-ab90-c61aad396511",
+                        "name": "Provider 2"
+                    }
+                }
+            }
+        ],
+        "allergens": []
+    }
+]
+}

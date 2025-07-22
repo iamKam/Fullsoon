@@ -1,0 +1,13 @@
+.occupancy-graph {
+    .highcharts-container {
+      svg {
+        width: 100% !important;
+        height: 90% !important;
+      }
+    }
+  }
+  .occupancy-graph {
+    .highcharts-container {
+      width: 100%;
+    }
+  }

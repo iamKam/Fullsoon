@@ -1,0 +1,187 @@
+{"purchase_orders": [
+  {
+      "id": "b53bc325-e967-4674-92aa-ee87f269a37d",
+      "reference":"12122212",
+      "name": "G12 (1 Big Bacon + 1 Premium Chicken)",
+      "order_number": "Mezzo Opéra",
+      "condition":"Carton",
+      "estimated_delivery_date": "02/08/2024",
+      "total_price": 75,
+      "delievry_status": "accept",
+      "restaurant_id": "90fd2d14-9aab-4af8-a66f-385321169dba",
+      "createdAt": "2023-09-07T15:52:10.000Z",
+      "stock": { "unit_stock": 9},
+      "provider": {
+          "id": "ae72c23e-7289-42ab-9359-8455068e3a66",
+          "name": "Labo Clichy",
+          "contact_name": "Labo Clichy",
+          "contact_number": "01 81 93 99 14",
+          "email_address": "Labo Clichy@fullsoon.co",
+          "address": "1 Rue Thomas Edison, 92230 Gennevilliers, France"
+      },
+      "purchase_items": [
+          {
+              "id": "16ddefc3-ad02-4a1e-831e-da5b54c1ed6c",
+              "ingredient_id": "ae580b27-1be5-46f9-84e3-da40e058a40c",
+              "provider_ingredient_id": "ae580b27-1be5-46f9-84e3-da40e058a40c",
+              "provider_reference_name": null,
+              "conditioning_name": null,
+              "product_quantity": 142,
+              "product_price": 0.09,
+              "is_delivered": true
+          }
+      ]
+  },
+  {
+      "id": "75c0efc8-3bc6-47f4-8591-bede37c1a981",
+      "reference":"121221112",
+      "name": "G3 (1 Big + 4 Nuggets ou cheese)",
+      "order_number": "Mezzo Chatelet",
+      "condition":"Carton",
+      "estimated_delivery_date": "02/08/2024",
+      "total_price":75,
+      "delievry_status": "refuse",
+      "restaurant_id": "90fd2d14-9aab-4af8-a66f-385321169dba",
+      "createdAt": "2023-07-10T14:49:20.000Z",
+      "stock": { "unit_stock": 12},
+      "provider": {
+          "id": "ae72c23e-7289-42ab-9359-8455068e3a66",
+          "name": "Labo Clichy",
+          "contact_name": "Labo Clichy",
+          "contact_number": "01 81 93 99 14",
+          "email_address": "Labo Clichy@fullsoon.co",
+          "address": "1 Rue Thomas Edison, 92230 Gennevilliers, France"
+      },
+      "purchase_items": [
+          {
+              "id": "8ab9dc1b-2a22-49c4-911d-03763462cbe7",
+              "ingredient_id": "4d6a1a06-c281-4628-a7ee-b9a53bfba258",
+              "provider_ingredient_id": "4d6a1a06-c281-4628-a7ee-b9a53bfba258",
+              "provider_reference_name": null,
+              "conditioning_name": null,
+              "product_quantity": 1,
+              "product_price": 11.76,
+              "is_delivered": true
+          },
+          {
+              "id": "e89447e1-4aa3-4b19-9121-de2134f596e7",
+              "ingredient_id": "34f25723-099f-4fba-8ce5-7bb15d2ad211",
+              "provider_ingredient_id": "34f25723-099f-4fba-8ce5-7bb15d2ad211",
+              "provider_reference_name": null,
+              "conditioning_name": null,
+              "product_quantity": 26,
+              "product_price": 16.5,
+              "is_delivered": true
+          }
+      ]
+  },
+  {
+      "id": "1989c80a-7b10-4453-8f50-7d54fb07f66a",
+      "reference":"1212210212",
+      "name": "Wrap Tenders",
+      "order_number": "Mezzo vavin",
+      "condition":"Carton",
+      "estimated_delivery_date": "02/08/2024",
+      "total_price": 75,
+      "delievry_status": "accept",
+      "restaurant_id": "90fd2d14-9aab-4af8-a66f-385321169dba",
+      "createdAt": "2023-06-01T13:39:28.000Z",
+      "stock": { "unit_stock": 24},
+      "provider": {
+          "id": "ae72c23e-7289-42ab-9359-8455068e3a66",
+          "name": "Labo Clichy",
+          "contact_name": "Labo Clichy",
+          "contact_number": "01 81 93 99 14",
+          "email_address": "Labo Clichy@fullsoon.co",
+          "address": "1 Rue Thomas Edison, 92230 Gennevilliers, France"
+      },
+      "purchase_items": [
+          {
+              "id": "2910f32e-c32c-47f7-bdf2-fed54ddb1681",
+              "ingredient_id": "34f25723-099f-4fba-8ce5-7bb15d2ad211",
+              "provider_ingredient_id": "34f25723-099f-4fba-8ce5-7bb15d2ad211",
+              "provider_reference_name": null,
+              "conditioning_name": null,
+              "product_quantity": 100,
+              "product_price": 16.5,
+              "is_delivered": true
+          }
+      ]
+  },
+  {
+      "id": "d3f069cd-71bf-425c-8649-39f07aaff17f",
+      "reference":"121921112",
+      "order_number": "Mezzo Odéon",
+      "name": "Cheese",
+      "condition":"Carton",
+      "estimated_delivery_date": "02/08/2024",
+      "total_price": 75,
+      "delievry_status": "accept",
+      "restaurant_id": "90fd2d14-9aab-4af8-a66f-385321169dba",
+      "createdAt": "2023-06-01T10:58:05.000Z",
+      "stock": { "unit_stock": 11},
+      "provider": {
+          "id": "ae72c23e-7289-42ab-9359-8455068e3a66",
+          "name": "Labo Clichy",
+          "contact_name": "Labo Clichy",
+          "contact_number": "01 81 93 99 14",
+          "email_address": "Labo Clichy@fullsoon.co",
+          "address": "1 Rue Thomas Edison, 92230 Gennevilliers, France"
+      },
+      "purchase_items": [
+          {
+              "id": "800877ba-17e6-4add-8ce4-09c0cc008e0c",
+              "ingredient_id": "d826339a-9c3f-4d00-abe7-76dde4bde9af",
+              "provider_ingredient_id": "d826339a-9c3f-4d00-abe7-76dde4bde9af",
+              "provider_reference_name": null,
+              "conditioning_name": null,
+              "product_quantity": 5,
+              "product_price": 5,
+              "is_delivered": true
+          }
+      ]
+  },
+  {
+      "id": "e0d7fd68-8522-4ca3-a66a-444ee3c975be",
+      "reference":"1211121112",
+      "condition":"Carton",
+      "name": "Menu premium chicken",
+      "order_number": "Mezzo St Michel",
+      "estimated_delivery_date": "02/08/2024",
+      "total_price": 75,
+      "delievry_status": "accept",
+      "restaurant_id": "90fd2d14-9aab-4af8-a66f-385321169dba",
+      "createdAt": "2023-06-01T10:57:05.000Z",
+      "stock": { "unit_stock": 14},
+      "provider": {
+          "id": "ae72c23e-7289-42ab-9359-8455068e3a66",
+          "name": "Labo Clichy",
+          "contact_name": "Labo Clichy",
+          "contact_number": "01 81 93 99 14",
+          "email_address": "Labo Clichy@fullsoon.co",
+          "address": "1 Rue Thomas Edison, 92230 Gennevilliers, France"
+      },
+      "purchase_items": [
+          {
+              "id": "7aec9024-826e-453e-9cf0-808d5dd80d6e",
+              "ingredient_id": "34f25723-099f-4fba-8ce5-7bb15d2ad211",
+              "provider_ingredient_id": "34f25723-099f-4fba-8ce5-7bb15d2ad211",
+              "provider_reference_name": null,
+              "conditioning_name": null,
+              "product_quantity": 1,
+              "product_price": 16.5,
+              "is_delivered": true
+          },
+          {
+              "id": "ef55e263-d4a3-494c-ad5a-54958ae735a7",
+              "ingredient_id": "82392d21-90f5-4dce-bbb6-f1717349f7a8",
+              "provider_ingredient_id": "82392d21-90f5-4dce-bbb6-f1717349f7a8",
+              "provider_reference_name": null,
+              "conditioning_name": null,
+              "product_quantity": 1,
+              "product_price": 6.83,
+              "is_delivered": true
+          }
+      ]
+  }
+]}

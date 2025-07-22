@@ -1,0 +1,295 @@
+.App {
+  /* text-align: center; */
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.app-loader {
+  position: absolute;
+  left: 50%;
+  top: 20px;
+  background-color: white;
+  padding: 15px;
+  padding-bottom: 12px;
+  border-radius: 10px;
+  box-shadow: rgba(149, 157, 165, 0.4) 0px 8px 24px;
+  z-index: 99999;
+}
+
+.app-loader-hide {
+  display: none;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.add-restaurants-modal-title {
+  font-style: normal;
+  font-weight: bold !important;
+  font-size: 21px !important;
+  line-height: 29px !important;
+  color: #000000 !important;
+}
+.add-restaurants-modal-header {
+  border-bottom: 0px solid #dee2e6 !important;
+}
+
+.add-restaurants-input-title {
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 16px;
+  color: #8b8f94;
+  margin-bottom: 5px;
+  margin-top: 10px !important;
+}
+
+.modal-sub-title{
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 22px;
+  color: #8B8F94;
+  padding-left: 1rem;
+}
+
+.pac-container {
+  z-index: 10001 !important;
+}
+
+.pac-target-input{
+  display: block;
+  width: 100%;
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  -webkit-appearance: none;
+  appearance: none;
+  border-radius: 0.25rem;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+.table-input-number {
+  width: 100px !important;
+  border-radius: 6px;
+  border: solid 1px lightgray !important;
+}
+
+.table-input-number::-webkit-inner-spin-button,
+.table-input-number::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+
+.custom-btn {   
+    width:24px;
+    height:28px;
+    background:transparent;
+    border-radius:4px;
+    padding: 6px;
+    border:1px solid #ddd;
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+    display: inline-flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.table-input-number:focus {
+  outline: none;
+}
+
+.change-arrow-icon {
+  height: 30px;
+}
+
+.text-green {
+  color: #4BB84B !important;
+}
+
+.text-orange {
+  color: #FFA500 !important;
+}
+
+@keyframes sleave-open {
+  from {
+    height: 0.3px;
+    padding: 0px 15px 0px 15px;
+  }
+  to {
+    height: 200px;
+    padding: 15px 15px 15px 15px;
+  }
+}
+
+@keyframes sleave-close {
+  from {
+    height: 200px;
+    padding: 15px 15px 15px 15px;
+  }
+  to {
+    height: 0.3px;
+    padding: 0px 15px 0px 15px;
+  }
+}
+
+@keyframes container-close {
+  from {
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+  to {
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+}
+
+@keyframes container-open {
+  from {
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+  to {
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+}
+
+.sleave-body-open {
+  height: max-content;
+  animation-name: sleave-open;
+  animation-duration: 0.3s;
+  padding: 15px 15px 15px 15px;
+}
+
+.sleave-body-close {
+  height: 0px;
+  animation-name: sleave-close;
+  animation-duration: 0.3s;
+  padding: 0px 15px 0px 15px;
+}
+
+.sleave-body {
+  overflow: hidden;
+}
+
+.sleave-container-open {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  animation-name: container-open;
+  animation-duration: 0.3s;
+}
+
+.sleave-container-close {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  animation-name: container-close;
+  animation-duration: 0.3s;
+}
+
+.sleave-container {
+  border: solid 1px lightgray !important;
+  border-radius: 10px;
+  background: #f8f9fd !important;
+
+  table {
+    background-color: transparent !important;
+    margin-bottom: 0px;
+    tbody tr td:first-child {
+      background-color: transparent !important;
+    }
+  }
+}
+
+.close-sleave-icon {
+  height: 40px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  cursor: pointer;
+}
+
+.stock-sleave-body {
+  display: flex;
+  column-gap: 15px;
+  height: 100%;
+
+  .prediction-container {
+    // box-shadow: 0px 4px 6px rgb(0 0 0 / 6%);
+    flex: 1;
+    border-radius: 10px;
+    background: white;
+    padding: 10px;
+    // padding-top: 15px;
+
+    h5 {
+      font-weight: bold;
+      margin-bottom: 0px;
+    }
+    .evolution-container {
+      height: 137px;
+      overflow: hidden;
+    }
+  }
+}
+
+.price-history-container {
+
+  h5 {
+    font-weight: bold;
+    font-size: medium;
+  }
+  .price-history-body {
+    height: 160px;
+  }
+}
+
+.datepicker-wrapper {
+  span {
+    width: 30%
+  }
+  .datepicker-wrapper-img {
+    width: 70%;
+  }
+}
+
+.css-9jq23d{
+  white-space: normal !important;
+}

@@ -1,0 +1,20 @@
+{
+"events":  [
+  {
+    "id": "1",
+    "name": "Football - Serie A - Lazio vs Udinese"
+  },
+  {
+    "id": "2",
+    "name": "Basketball - NBA - Oklahoma City Thunder vs Memphis Grizzlies"
+  },
+  {
+    "id": "4",
+    "name": "IceHockey - NHL - Anaheim Ducks vs York"
+  },
+  {
+    "id": "6",
+    "name": "Olympic Games Paris 2024"
+  }
+]
+}

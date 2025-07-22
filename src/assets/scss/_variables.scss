@@ -1,0 +1,38 @@
+//  Table of Contents:
+//
+//   1. Bootstrap font overrides
+//   2. Colors
+//   3. Space unit
+
+// 1. Bootstrap font overrides
+// ---------
+$font-family-sans-serif: "Nunito Sans", sans-serif !default;
+
+$fullsoon: #6353ea;
+$primary: $fullsoon;
+$lightgray: #f3f4fb;
+// 2. Colors
+// ---------
+$brand-primary: #6353ea !default; // #337ab7
+$brand-success: #14c25a !default;
+$brand-info: #248aa6 !default;
+$brand-warning: #ed6f26 !default;
+$brand-danger: #e73858 !default;
+
+$white: #fff;
+$gray: #8b8f94;
+$darkgray: #0c0b0b;
+$dark: #333333;
+$success: #14c25a;
+$purple: #6353ea;
+$alert: #e73858;
+$border-color: #e9eaec;
+$border-color--dark: #e9eaec;
+
+// 3. Space unit
+// ---------
+$base-space-unit: 1em !default;
+$base-radius-unit: 3px !default;
+
+$sidebar-width: 228px !default;
+$sidebar-collapsed-width: 100px !default;

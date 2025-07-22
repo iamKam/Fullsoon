@@ -1,0 +1,293 @@
+[
+    {
+        "name": "Turnover Excl. tax",
+        "2024-06-17": 1481.1599999999999,
+        "2024-06-18": 1100.46,
+        "2024-06-19": 1805,
+        "2024-06-20": 1900.27,
+        "2024-06-21": 1851.71,
+        "2024-06-22": 2100.9300000000002,
+        "2024-06-23": 1459.8100000000002
+    },
+    {
+        "name": "Forecast",
+        "2024-06-17": 1300.99,
+        "2024-06-18": 1104.10,
+        "2024-06-19": 1795.1199999999998,
+        "2024-06-20": 1922.27,
+        "2024-06-21": 1751.71,
+        "2024-06-22": 1918.9300000000002,
+        "2024-06-23": 1509.8100000000002
+    },
+    {
+        "name": "Accuracy",
+        "2024-06-17": 87.84,
+        "2024-06-18": 93.67,
+        "2024-06-19": 94.45,
+        "2024-06-20": 91.0,
+        "2024-06-21": 94.0,
+        "2024-06-22": 94.2,
+        "2024-06-23": 91.0
+    },
+    {
+        "name": "Foodcost",
+        "2024-06-17": 534,
+        "2024-06-18": 645,
+        "2024-06-19": 429,
+        "2024-06-20": 608,
+        "2024-06-21": 295,
+        "2024-06-22": 568,
+        "2024-06-23": 650
+    },
+    {
+        "name": "Weather",
+        "2024-06-17": [
+            {
+                "name": "morning",
+                "value": "16.6",
+                "icon": "cloudy"
+            },
+            {
+                "name": "noon",
+                "value": "20.4",
+                "icon": "cloudy"
+            },
+            {
+                "name": "night",
+                "value": "18.4",
+                "icon": "rain"
+            }
+        ],
+        "2024-06-18": [
+            {
+                "name": "morning",
+                "value": "17.0",
+                "icon": "rain"
+            },
+            {
+                "name": "noon",
+                "value": "20.8",
+                "icon": "rain"
+            },
+            {
+                "name": "night",
+                "value": "18.3",
+                "icon": "rain"
+            }
+        ],
+        "2024-06-19": [
+            {
+                "name": "morning",
+                "value": "16.3",
+                "icon": "cloudy"
+            },
+            {
+                "name": "noon",
+                "value": "19.0",
+                "icon": "cloudy"
+            },
+            {
+                "name": "night",
+                "value": "18.3",
+                "icon": "partly-cloudy-night"
+            }
+        ],
+        "2024-06-20": [
+            {
+                "name": "morning",
+                "value": "16.5",
+                "icon": "cloudy"
+            },
+            {
+                "name": "noon",
+                "value": "20.6",
+                "icon": "cloudy"
+            },
+            {
+                "name": "night",
+                "value": "18.3",
+                "icon": "rain"
+            }
+        ],
+        "2024-06-21": [
+            {
+                "name": "morning",
+                "value": "17.3",
+                "icon": "rain"
+            },
+            {
+                "name": "noon",
+                "value": "21.1",
+                "icon": "rain"
+            },
+            {
+                "name": "night",
+                "value": "18.6",
+                "icon": "cloudy"
+            }
+        ],
+        "2024-06-22": [
+            {
+                "name": "morning",
+                "value": "15.2",
+                "icon": "rain"
+            },
+            {
+                "name": "noon",
+                "value": "17.4",
+                "icon": "rain"
+            },
+            {
+                "name": "night",
+                "value": "16.3",
+                "icon": "clear-night"
+            }
+        ],
+        "2024-06-23": [
+            {
+                "name": "morning",
+                "value": "14.1",
+                "icon": "clear-day"
+            },
+            {
+                "name": "noon",
+                "value": "20.5",
+                "icon": "partly-cloudy-day"
+            },
+            {
+                "name": "night",
+                "value": "19.0",
+                "icon": "partly-cloudy-night"
+            }
+        ]
+    },
+    {
+        "name": "Occupancy",
+        "2024-06-17": 220,
+        "2024-06-18": 153,
+        "2024-06-19": 233,
+        "2024-06-20": 245,
+        "2024-06-21": 234,
+        "2024-06-22": 199,
+        "2024-06-23": 225
+    },
+    {
+        "name": "Average Group Revenue",
+        "2024-06-17": 1934.700473,
+        "2024-06-18": 1899.9264150000004,
+        "2024-06-19": 2142.4060969999996,
+        "2024-06-20": 1292.6798479999998,
+        "2024-06-21": 1396.6703200000002,
+        "2024-06-22": 1913.1242260000004,
+        "2024-06-23": 1210.2171959999998
+    },
+    {
+        "name": "Events",
+        "2024-06-17": [
+            {
+                "id": "20780fcb-52bf-4b32-8194-6a47f62cd1c9",
+                "name": "Euro 2024",
+                "image_path": "https://fullsoon-uploads.s3.eu-west-1.amazonaws.com/events/images/1718706030648.jpg",
+                "start_date": "2024-06-17"
+            },
+            {
+                "id": "20780fcb-52bf-4b32-8194-6a47f62cd1c9",
+                "name": "Football - LaLiga - Rayo Vallecano vs Athletic Bilbao",
+                "start_date": "2024-06-17"
+            },
+            {
+                "id": "20780fcb-52bf-4b32-8194-6a47f62cd1c9",
+                "name": "Football - LaLiga - Valencia vs Mallorca",
+                "start_date": "2024-06-17"
+            }
+        ],
+        "2024-06-18": [
+            {
+                "id": "20780fcb-52bf-4b32-8194-6a47f62cd1c9",
+                "name": "Euro 2024",
+                "image_path": "https://fullsoon-uploads.s3.eu-west-1.amazonaws.com/events/images/1718706030648.jpg",
+                "start_date": "2024-06-18"
+            },
+            {
+                "id": "20780fcb-52bf-4b32-8194-6a47f62cd1c9",
+                "name": "IceHockey - NHL - New York Rangers vs New York Islanders",
+                "start_date": "2024-06-18"
+            },
+            {
+                "id": "20780fcb-52bf-4b32-8194-6a47f62cd1c9",
+                "name": "Football - NBA - New York Knicks vs San Antonio Spurs",
+                "start_date": "2024-06-18"
+            }
+        ],
+        "2024-06-19": [
+            {
+                "id": "20780fcb-52bf-4b32-8194-6a47f62cd1c9",
+                "name": "Euro 2024",
+                "image_path": "https://fullsoon-uploads.s3.eu-west-1.amazonaws.com/events/images/1718706030648.jpg",
+                "start_date": "2024-06-19"
+            },
+            {
+                "id": "20780fcb-52bf-4b32-8194-6a47f62cd1c9",
+                "name": "IceHockey - OHL - Windsor Spitfires vs Sudbury Wolves",
+                "start_date": "2024-06-19"
+            },
+            {
+                "id": "20780fcb-52bf-4b32-8194-6a47f62cd1c9",
+                "name": "Football - Ligue 1 - Lyon vs Reims",
+                "start_date": "2024-06-19"
+            }
+        ],
+        "2024-06-20": [
+            {
+                "id": "20780fcb-52bf-4b32-8194-6a47f62cd1c9",
+                "name": "Euro 2024",
+                "image_path": "https://fullsoon-uploads.s3.eu-west-1.amazonaws.com/events/images/1718706030648.jpg",
+                "start_date": "2024-06-20"
+            },
+            {
+                "id": "20780fcb-52bf-4b32-8194-6a47f62cd1c9",
+                "name": "IceHockey - NHL - New York Rangers vs New York Islanders",
+                "start_date": "2024-06-20"
+            }
+        ],
+        "2024-06-21": [
+            {
+                "id": "20780fcb-52bf-4b32-8194-6a47f62cd1c9",
+                "name": "Euro 2024",
+                "image_path": "https://fullsoon-uploads.s3.eu-west-1.amazonaws.com/events/images/1718706030648.jpg",
+                "start_date": "2024-06-21"
+            },
+            {
+                "id": "20780fcb-52bf-4b32-8194-6a47f62cd1c9",
+                "name": "Football - NBA - Boston Celtics vs Sacramento Kings",
+                "start_date": "2024-06-21"
+            },
+            {
+                "id": "20780fcb-52bf-4b32-8194-6a47f62cd1c9",
+                "name": "IceHockey - NHL - Anaheim Ducks vs Ottawa Senators",
+                "start_date": "2024-06-21"
+            }
+        ],
+        "2024-06-22": [
+            {
+                "id": "20780fcb-52bf-4b32-8194-6a47f62cd1c9",
+                "name": "Euro 2024",
+                "image_path": "https://fullsoon-uploads.s3.eu-west-1.amazonaws.com/events/images/1718706030648.jpg",
+                "start_date": "2024-06-22"
+            }
+        ],
+        "2024-06-23": [
+            {
+                "id": "20780fcb-52bf-4b32-8194-6a47f62cd1c9",
+                "name": "Euro 2024",
+                "image_path": "https://fullsoon-uploads.s3.eu-west-1.amazonaws.com/events/images/1718706030648.jpg",
+                "start_date": "2024-06-14"
+            },
+            {
+                "id": "20780fcb-52bf-4b32-8194-6a47f62cd1c9",
+                "name": "Football - Ligue 1 - Montpellier vs Nantes",
+                "start_date": "2024-06-23"
+            }
+        ]
+    }
+]

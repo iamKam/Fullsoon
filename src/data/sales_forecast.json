@@ -1,0 +1,540 @@
+[
+  {
+    "name": "croissant",
+    "total_realised": {
+      "value": 1150,
+      "percentageChange": 28,
+      "difference": 180
+    },
+    "total_forecast": {
+      "value": 1163
+    },
+    "Châtelet": {
+      "value": 370,
+      "percentageChange": 30,
+      "difference": 140
+    },
+    "saint_michel": {
+      "value": 400,
+      "percentageChange": 10,
+      "difference": 50
+    },
+    "Odéon": {
+      "value": 380,
+      "percentageChange": 5,
+      "difference": 30
+    }
+  },
+  {
+    "name": "Sablé amandes rond *",
+    "total_realised": {
+      "value": 800,
+      "percentageChange": 25,
+      "difference": 150
+    },
+    "total_forecast": {
+      "value": 790
+    },
+    "Châtelet": {
+      "value": 280,
+      "percentageChange": 32,
+      "difference": 120
+    },
+    "saint_michel": {
+      "value": 260,
+      "percentageChange": 14,
+      "difference": 50
+    },
+    "Odéon": {
+      "value": 260,
+      "percentageChange": 7,
+      "difference": 40
+    }
+  },
+  {
+    "name": "Salade Lentilles / Cheddar",
+    "total_realised": {
+      "value": 1500,
+      "percentageChange": 22,
+      "difference": 250
+    },
+    "total_forecast": {
+      "value": 1513
+    },
+    "Châtelet": {
+      "value": 530,
+      "percentageChange": 28,
+      "difference": 180
+    },
+    "saint_michel": {
+      "value": 480,
+      "percentageChange": 14,
+      "difference": 60
+    },
+    "Odéon": {
+      "value": 490,
+      "percentageChange": 7,
+      "difference": 50
+    }
+  },
+  {
+    "name": "Confiture Abricot *",
+    "total_realised": {
+      "value": 1000,
+      "percentageChange": 24,
+      "difference": 170
+    },
+    "total_forecast": {
+      "value": 1012
+    },
+    "Châtelet": {
+      "value": 340,
+      "percentageChange": 30,
+      "difference": 120
+    },
+    "saint_michel": {
+      "value": 320,
+      "percentageChange": 15,
+      "difference": 60
+    },
+    "Odéon": {
+      "value": 340,
+      "percentageChange": 7,
+      "difference": 40
+    }
+  },
+  {
+    "name": "Hot Dog",
+    "total_realised": {
+      "value": 950,
+      "percentageChange": 18,
+      "difference": 140
+    },
+    "total_forecast": {
+      "value": 938
+    },
+    "Châtelet": {
+      "value": 310,
+      "percentageChange": 26,
+      "difference": 110
+    },
+    "saint_michel": {
+      "value": 300,
+      "percentageChange": 14,
+      "difference": 50
+    },
+    "Odéon": {
+      "value": 340,
+      "percentageChange": 10,
+      "difference": 40
+    }
+  },
+  {
+    "name": "Sandwich Jambon / Fromage",
+    "total_realised": {
+      "value": 950,
+      "percentageChange": 21,
+      "difference": 160
+    },
+    "total_forecast": {
+      "value": 967
+    },
+    "Châtelet": {
+      "value": 330,
+      "percentageChange": 28,
+      "difference": 130
+    },
+    "saint_michel": {
+      "value": 290,
+      "percentageChange": 16,
+      "difference": 70
+    },
+    "Odéon": {
+      "value": 330,
+      "percentageChange": 8,
+      "difference": 50
+    }
+  },
+  {
+    "name": "Macaron *",
+    "total_realised": {
+      "value": 950,
+      "percentageChange": 20,
+      "difference": 160
+    },
+    "total_forecast": {
+      "value": 965
+    },
+    "Châtelet": {
+      "value": 320,
+      "percentageChange": 28,
+      "difference": 120
+    },
+    "saint_michel": {
+      "value": 300,
+      "percentageChange": 15,
+      "difference": 60
+    },
+    "Odéon": {
+      "value": 330,
+      "percentageChange": 10,
+      "difference": 50
+    }
+  },
+  {
+    "name": "Sandwich Jambon / Crudités",
+    "total_realised": {
+      "value": 950,
+      "percentageChange": 22,
+      "difference": 170
+    },
+    "total_forecast": {
+      "value": 968
+    },
+    "Châtelet": {
+      "value": 310,
+      "percentageChange": 27,
+      "difference": 110
+    },
+    "saint_michel": {
+      "value": 290,
+      "percentageChange": 16,
+      "difference": 70
+    },
+    "Odéon": {
+      "value": 350,
+      "percentageChange": 9,
+      "difference": 60
+    }
+  },
+  {
+    "name": "Salade de Carottes Rapées",
+    "total_realised": {
+      "value": 950,
+      "percentageChange": 18,
+      "difference": 140
+    },
+    "total_forecast": {
+      "value": 960
+    },
+    "Châtelet": {
+      "value": 330,
+      "percentageChange": 29,
+      "difference": 130
+    },
+    "saint_michel": {
+      "value": 290,
+      "percentageChange": 12,
+      "difference": 50
+    },
+    "Odéon": {
+      "value": 330,
+      "percentageChange": 8,
+      "difference": 40
+    }
+  },
+  {
+    "name": "Grande Brioche Au Poids",
+    "total_realised": {
+      "value": 950,
+      "percentageChange": 19,
+      "difference": 150
+    },
+    "total_forecast": {
+      "value": 970
+    },
+    "Châtelet": {
+      "value": 320,
+      "percentageChange": 26,
+      "difference": 110
+    },
+    "saint_michel": {
+      "value": 310,
+      "percentageChange": 15,
+      "difference": 60
+    },
+    "Odéon": {
+      "value": 320,
+      "percentageChange": 10,
+      "difference": 50
+    }
+  },
+  {
+    "name": "Toasté Végétarien",
+    "total_realised": {
+      "value": 950,
+      "percentageChange": 23,
+      "difference": 165
+    },
+    "total_forecast": {
+      "value": 965
+    },
+    "Châtelet": {
+      "value": 310,
+      "percentageChange": 25,
+      "difference": 100
+    },
+    "saint_michel": {
+      "value": 320,
+      "percentageChange": 14,
+      "difference": 65
+    },
+    "Odéon": {
+      "value": 320,
+      "percentageChange": 11,
+      "difference": 55
+    }
+  },
+  {
+    "name": "Salade Formule",
+    "total_realised": {
+      "value": 950,
+      "percentageChange": 19,
+      "difference": 130
+    },
+    "total_forecast": {
+      "value": 965,
+      "difference": 140
+    },
+    "percentage_realised": 85.75,
+    "Châtelet": {
+      "value": 320,
+      "percentageChange": 27,
+      "difference": 110
+    },
+    "saint_michel": {
+      "value": 290,
+      "percentageChange": 14,
+      "difference": 60
+    },
+    "Odéon": {
+      "value": 340,
+      "percentageChange": 9,
+      "difference": 50
+    }
+  },
+  {
+    "name": "Canaille Cannelle *",
+    "total_realised": {
+      "value": 950,
+      "percentageChange": 17,
+      "difference": 140
+    },
+    "total_forecast": {
+      "value": 960,
+      "difference": 135
+    },
+    "percentage_realised": 85.9,
+    "Châtelet": {
+      "value": 310,
+      "percentageChange": 24,
+      "difference": 100
+    },
+    "saint_michel": {
+      "value": 300,
+      "percentageChange": 12,
+      "difference": 50
+    },
+    "Odéon": {
+      "value": 340,
+      "percentageChange": 8,
+      "difference": 45
+    }
+  },
+  {
+    "name": "Confiture 3 Fruits Rouges *",
+    "total_realised": {
+      "value": 960,
+      "percentageChange": 15,
+      "difference": 140
+    },
+    "total_forecast": {
+      "value": 980,
+      "difference": 140
+    },
+    "percentage_realised": 85.5,
+    "Châtelet": {
+      "value": 300,
+      "percentageChange": 20,
+      "difference": 100
+    },
+    "saint_michel": {
+      "value": 310,
+      "percentageChange": 13,
+      "difference": 60
+    },
+    "Odéon": {
+      "value": 350,
+      "percentageChange": 8,
+      "difference": 40
+    }
+  },
+  {
+    "name": "Petit dej Formule",
+    "total_realised": {
+      "value": 970,
+      "percentageChange": 18,
+      "difference": 150
+    },
+    "total_forecast": {
+      "value": 990,
+      "difference": 150
+    },
+    "percentage_realised": 85.75,
+    "Châtelet": {
+      "value": 310,
+      "percentageChange": 22,
+      "difference": 110
+    },
+    "saint_michel": {
+      "value": 320,
+      "percentageChange": 14,
+      "difference": 70
+    },
+    "Odéon": {
+      "value": 340,
+      "percentageChange": 9,
+      "difference": 50
+    }
+  },
+  {
+    "name": "Brioche Chocolat",
+    "total_realised": {
+      "value": 955,
+      "percentageChange": 16,
+      "difference": 135
+    },
+    "total_forecast": {
+      "value": 970,
+      "difference": 135
+    },
+    "percentage_realised": 86.1,
+    "Châtelet": {
+      "value": 305,
+      "percentageChange": 18,
+      "difference": 90
+    },
+    "saint_michel": {
+      "value": 315,
+      "percentageChange": 12,
+      "difference": 55
+    },
+    "Odéon": {
+      "value": 335,
+      "percentageChange": 7,
+      "difference": 45
+    }
+  },
+  {
+    "name": "Sablé tout chocolat *",
+    "total_realised": {
+      "value": 970,
+      "percentageChange": 14.85,
+      "difference": 160
+    },
+    "total_forecast": {
+      "value": 985,
+      "difference": 145
+    },
+    "percentage_realised": 88.02,
+    "Châtelet": {
+      "value": 315,
+      "percentageChange": 18,
+      "difference": 70
+    },
+    "saint_michel": {
+      "value": 325,
+      "percentageChange": 12,
+      "difference": 55
+    },
+    "Odéon": {
+      "value": 330,
+      "percentageChange": 10,
+      "difference": 50
+    }
+  },
+  {
+    "name": "Sandwich Rosette",
+    "total_realised": {
+      "value": 965,
+      "percentageChange": 14.2,
+      "difference": 155
+    },
+    "total_forecast": {
+      "value": 980,
+      "difference": 140
+    },
+    "percentage_realised": 87.5,
+    "Châtelet": {
+      "value": 310,
+      "percentageChange": 17,
+      "difference": 65
+    },
+    "saint_michel": {
+      "value": 320,
+      "percentageChange": 11,
+      "difference": 50
+    },
+    "Odéon": {
+      "value": 335,
+      "percentageChange": 9,
+      "difference": 45
+    }
+  },
+  {
+    "name": "Brioche Au Sucre",
+    "total_realised": {
+      "value": 960,
+      "percentageChange": 13.8,
+      "difference": 150
+    },
+    "total_forecast": {
+      "value": 975,
+      "difference": 135
+    },
+    "percentage_realised": 87.1,
+    "Châtelet": {
+      "value": 305,
+      "percentageChange": 16,
+      "difference": 60
+    },
+    "saint_michel": {
+      "value": 315,
+      "percentageChange": 10,
+      "difference": 45
+    },
+    "Odéon": {
+      "value": 340,
+      "percentageChange": 8,
+      "difference": 40
+    }
+  },
+  {
+    "name": "Croque-Monsieur",
+    "total_realised": {
+      "value": 975,
+      "percentageChange": 15.3,
+      "difference": 165
+    },
+    "total_forecast": {
+      "value": 990,
+      "difference": 150
+    },
+    "percentage_realised": 88.5,
+    "Châtelet": {
+      "value": 320,
+      "percentageChange": 19,
+      "difference": 75
+    },
+    "saint_michel": {
+      "value": 330,
+      "percentageChange": 13,
+      "difference": 60
+    },
+    "Odéon": {
+      "value": 325,
+      "percentageChange": 11,
+      "difference": 55
+    }
+  }
+]

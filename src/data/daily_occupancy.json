@@ -1,0 +1,4729 @@
+[
+  {
+    "date": "2023-07-01",
+    "occupancy": [
+      {
+        "interval": "00:00:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 6
+      },
+      {
+        "interval": "00:30:00",
+        "occupancy": 8,
+        "actual_occupancy": 8,
+        "predicted_occupancy": 2
+      },
+      {
+        "interval": "01:00:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 12
+      },
+      {
+        "interval": "01:30:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "02:00:00",
+        "occupancy": 1,
+        "actual_occupancy": 1,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "10:00:00",
+        "occupancy": 1,
+        "actual_occupancy": 1,
+        "predicted_occupancy": 2
+      },
+      {
+        "interval": "10:30:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "11:00:00",
+        "occupancy": 1,
+        "actual_occupancy": 1,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "11:30:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "12:00:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 13
+      },
+      {
+        "interval": "12:30:00",
+        "occupancy": 13,
+        "actual_occupancy": 13,
+        "predicted_occupancy": 8
+      },
+      {
+        "interval": "13:00:00",
+        "occupancy": 9,
+        "actual_occupancy": 9,
+        "predicted_occupancy": 10
+      },
+      {
+        "interval": "13:30:00",
+        "occupancy": 11,
+        "actual_occupancy": 11,
+        "predicted_occupancy": 15
+      },
+      {
+        "interval": "14:00:00",
+        "occupancy": 7,
+        "actual_occupancy": 7,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "14:30:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 14
+      },
+      {
+        "interval": "15:00:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 10
+      },
+      {
+        "interval": "15:30:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 9
+      },
+      {
+        "interval": "16:00:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 9
+      },
+      {
+        "interval": "16:30:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "17:00:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "17:30:00",
+        "occupancy": 1,
+        "actual_occupancy": 1,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "18:00:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "18:30:00",
+        "occupancy": 11,
+        "actual_occupancy": 11,
+        "predicted_occupancy": 4
+      },
+      {
+        "interval": "19:00:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 12
+      },
+      {
+        "interval": "19:30:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 3
+      },
+      {
+        "interval": "20:00:00",
+        "occupancy": 18,
+        "actual_occupancy": 18,
+        "predicted_occupancy": 17
+      },
+      {
+        "interval": "20:30:00",
+        "occupancy": 15,
+        "actual_occupancy": 15,
+        "predicted_occupancy": 17
+      },
+      {
+        "interval": "21:00:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 9
+      },
+      {
+        "interval": "21:30:00",
+        "occupancy": 12,
+        "actual_occupancy": 12,
+        "predicted_occupancy": 7
+      },
+      {
+        "interval": "22:00:00",
+        "occupancy": 16,
+        "actual_occupancy": 16,
+        "predicted_occupancy": 21
+      },
+      {
+        "interval": "22:30:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 10
+      },
+      {
+        "interval": "23:00:00",
+        "occupancy": 14,
+        "actual_occupancy": 14,
+        "predicted_occupancy": 8
+      },
+      {
+        "interval": "23:30:00",
+        "occupancy": 10,
+        "actual_occupancy": 10,
+        "predicted_occupancy": 3
+      }
+    ]
+  },
+  {
+    "date": "2023-07-02",
+    "occupancy": [
+      {
+        "interval": "00:00:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 4
+      },
+      {
+        "interval": "00:30:00",
+        "occupancy": 8,
+        "actual_occupancy": 8,
+        "predicted_occupancy": 15
+      },
+      {
+        "interval": "01:00:00",
+        "occupancy": 1,
+        "actual_occupancy": 1,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "01:30:00",
+        "occupancy": 1,
+        "actual_occupancy": 1,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "10:00:00",
+        "occupancy": 1,
+        "actual_occupancy": 1,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "11:00:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "11:30:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 13
+      },
+      {
+        "interval": "12:00:00",
+        "occupancy": 11,
+        "actual_occupancy": 11,
+        "predicted_occupancy": 17
+      },
+      {
+        "interval": "12:30:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "13:00:00",
+        "occupancy": 10,
+        "actual_occupancy": 10,
+        "predicted_occupancy": 8
+      },
+      {
+        "interval": "13:30:00",
+        "occupancy": 10,
+        "actual_occupancy": 10,
+        "predicted_occupancy": 16
+      },
+      {
+        "interval": "14:00:00",
+        "occupancy": 15,
+        "actual_occupancy": 15,
+        "predicted_occupancy": 10
+      },
+      {
+        "interval": "14:30:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 12
+      },
+      {
+        "interval": "15:00:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "15:30:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "16:00:00",
+        "occupancy": 8,
+        "actual_occupancy": 8,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "16:30:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "17:00:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 8
+      },
+      {
+        "interval": "17:30:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "18:00:00",
+        "occupancy": 1,
+        "actual_occupancy": 1,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "18:30:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 10
+      },
+      {
+        "interval": "19:00:00",
+        "occupancy": 12,
+        "actual_occupancy": 12,
+        "predicted_occupancy": 18
+      },
+      {
+        "interval": "19:30:00",
+        "occupancy": 9,
+        "actual_occupancy": 9,
+        "predicted_occupancy": 12
+      },
+      {
+        "interval": "20:00:00",
+        "occupancy": 14,
+        "actual_occupancy": 14,
+        "predicted_occupancy": 11
+      },
+      {
+        "interval": "20:30:00",
+        "occupancy": 11,
+        "actual_occupancy": 11,
+        "predicted_occupancy": 10
+      },
+      {
+        "interval": "21:00:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 2
+      },
+      {
+        "interval": "21:30:00",
+        "occupancy": 14,
+        "actual_occupancy": 14,
+        "predicted_occupancy": 7
+      },
+      {
+        "interval": "22:00:00",
+        "occupancy": 8,
+        "actual_occupancy": 8,
+        "predicted_occupancy": 3
+      },
+      {
+        "interval": "22:30:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "23:00:00",
+        "occupancy": 11,
+        "actual_occupancy": 11,
+        "predicted_occupancy": 9
+      },
+      {
+        "interval": "23:30:00",
+        "occupancy": 7,
+        "actual_occupancy": 7,
+        "predicted_occupancy": 4
+      }
+    ]
+  },
+  {
+    "date": "2023-07-03",
+    "occupancy": [
+      {
+        "interval": "00:00:00",
+        "occupancy": 8,
+        "actual_occupancy": 8,
+        "predicted_occupancy": 15
+      },
+      {
+        "interval": "00:30:00",
+        "occupancy": 11,
+        "actual_occupancy": 11,
+        "predicted_occupancy": 18
+      },
+      {
+        "interval": "01:00:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 5
+      },
+      {
+        "interval": "01:30:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 11
+      },
+      {
+        "interval": "14:00:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 6
+      },
+      {
+        "interval": "14:30:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 10
+      },
+      {
+        "interval": "15:00:00",
+        "occupancy": 8,
+        "actual_occupancy": 8,
+        "predicted_occupancy": 12
+      },
+      {
+        "interval": "15:30:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 1
+      },
+      {
+        "interval": "16:00:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 11
+      },
+      {
+        "interval": "16:30:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 8
+      },
+      {
+        "interval": "17:00:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 3
+      },
+      {
+        "interval": "17:30:00",
+        "occupancy": 10,
+        "actual_occupancy": 10,
+        "predicted_occupancy": 3
+      },
+      {
+        "interval": "18:00:00",
+        "occupancy": 11,
+        "actual_occupancy": 11,
+        "predicted_occupancy": 9
+      },
+      {
+        "interval": "18:30:00",
+        "occupancy": 13,
+        "actual_occupancy": 13,
+        "predicted_occupancy": 6
+      },
+      {
+        "interval": "19:00:00",
+        "occupancy": 13,
+        "actual_occupancy": 13,
+        "predicted_occupancy": 6
+      },
+      {
+        "interval": "19:30:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "20:00:00",
+        "occupancy": 16,
+        "actual_occupancy": 16,
+        "predicted_occupancy": 22
+      },
+      {
+        "interval": "20:30:00",
+        "occupancy": 19,
+        "actual_occupancy": 19,
+        "predicted_occupancy": 24
+      },
+      {
+        "interval": "21:00:00",
+        "occupancy": 12,
+        "actual_occupancy": 12,
+        "predicted_occupancy": 20
+      },
+      {
+        "interval": "21:30:00",
+        "occupancy": 10,
+        "actual_occupancy": 10,
+        "predicted_occupancy": 8
+      },
+      {
+        "interval": "22:00:00",
+        "occupancy": 11,
+        "actual_occupancy": 11,
+        "predicted_occupancy": 17
+      },
+      {
+        "interval": "22:30:00",
+        "occupancy": 4,
+        "actual_occupancy": 4,
+        "predicted_occupancy": 12
+      },
+      {
+        "interval": "23:00:00",
+        "occupancy": 8,
+        "actual_occupancy": 8,
+        "predicted_occupancy": 14
+      },
+      {
+        "interval": "23:30:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 8
+      }
+    ]
+  },
+  {
+    "date": "2023-07-04",
+    "occupancy": [
+      {
+        "interval": "00:00:00",
+        "occupancy": 12,
+        "actual_occupancy": 12,
+        "predicted_occupancy": 6
+      },
+      {
+        "interval": "00:30:00",
+        "occupancy": 10,
+        "actual_occupancy": 10,
+        "predicted_occupancy": 17
+      },
+      {
+        "interval": "01:00:00",
+        "occupancy": 9,
+        "actual_occupancy": 9,
+        "predicted_occupancy": 15
+      },
+      {
+        "interval": "01:30:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "02:00:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 4
+      },
+      {
+        "interval": "02:30:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 10
+      },
+      {
+        "interval": "03:00:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 7
+      },
+      {
+        "interval": "03:30:00",
+        "occupancy": 4,
+        "actual_occupancy": 4,
+        "predicted_occupancy": 5
+      },
+      {
+        "interval": "10:30:00",
+        "occupancy": 1,
+        "actual_occupancy": 1,
+        "predicted_occupancy": 6
+      },
+      {
+        "interval": "11:00:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "11:30:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 11
+      },
+      {
+        "interval": "12:00:00",
+        "occupancy": 4,
+        "actual_occupancy": 4,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "12:30:00",
+        "occupancy": 11,
+        "actual_occupancy": 11,
+        "predicted_occupancy": 17
+      },
+      {
+        "interval": "13:00:00",
+        "occupancy": 11,
+        "actual_occupancy": 11,
+        "predicted_occupancy": 18
+      },
+      {
+        "interval": "13:30:00",
+        "occupancy": 14,
+        "actual_occupancy": 14,
+        "predicted_occupancy": 17
+      },
+      {
+        "interval": "14:00:00",
+        "occupancy": 10,
+        "actual_occupancy": 10,
+        "predicted_occupancy": 13
+      },
+      {
+        "interval": "14:30:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 12
+      },
+      {
+        "interval": "15:00:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 12
+      },
+      {
+        "interval": "15:30:00",
+        "occupancy": 7,
+        "actual_occupancy": 7,
+        "predicted_occupancy": 13
+      },
+      {
+        "interval": "16:00:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "16:30:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "17:00:00",
+        "occupancy": 7,
+        "actual_occupancy": 7,
+        "predicted_occupancy": 6
+      },
+      {
+        "interval": "17:30:00",
+        "occupancy": 11,
+        "actual_occupancy": 11,
+        "predicted_occupancy": 19
+      },
+      {
+        "interval": "18:00:00",
+        "occupancy": 8,
+        "actual_occupancy": 8,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "18:30:00",
+        "occupancy": 13,
+        "actual_occupancy": 13,
+        "predicted_occupancy": 16
+      },
+      {
+        "interval": "19:00:00",
+        "occupancy": 20,
+        "actual_occupancy": 20,
+        "predicted_occupancy": 25
+      },
+      {
+        "interval": "19:30:00",
+        "occupancy": 23,
+        "actual_occupancy": 23,
+        "predicted_occupancy": 16
+      },
+      {
+        "interval": "20:00:00",
+        "occupancy": 17,
+        "actual_occupancy": 17,
+        "predicted_occupancy": 21
+      },
+      {
+        "interval": "20:30:00",
+        "occupancy": 11,
+        "actual_occupancy": 11,
+        "predicted_occupancy": 7
+      },
+      {
+        "interval": "21:00:00",
+        "occupancy": 7,
+        "actual_occupancy": 7,
+        "predicted_occupancy": 8
+      },
+      {
+        "interval": "21:30:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 2
+      },
+      {
+        "interval": "22:00:00",
+        "occupancy": 7,
+        "actual_occupancy": 7,
+        "predicted_occupancy": 11
+      },
+      {
+        "interval": "22:30:00",
+        "occupancy": 11,
+        "actual_occupancy": 11,
+        "predicted_occupancy": 3
+      },
+      {
+        "interval": "23:00:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "23:30:00",
+        "occupancy": 11,
+        "actual_occupancy": 11,
+        "predicted_occupancy": 13
+      }
+    ]
+  },
+  {
+    "date": "2023-07-05",
+    "occupancy": [
+      {
+        "interval": "00:00:00",
+        "occupancy": 9,
+        "actual_occupancy": 9,
+        "predicted_occupancy": 15
+      },
+      {
+        "interval": "00:30:00",
+        "occupancy": 9,
+        "actual_occupancy": 9,
+        "predicted_occupancy": 16
+      },
+      {
+        "interval": "01:00:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 14
+      },
+      {
+        "interval": "01:30:00",
+        "occupancy": 10,
+        "actual_occupancy": 10,
+        "predicted_occupancy": 14
+      },
+      {
+        "interval": "02:00:00",
+        "occupancy": 18,
+        "actual_occupancy": 18,
+        "predicted_occupancy": 25
+      },
+      {
+        "interval": "02:30:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 10
+      },
+      {
+        "interval": "03:00:00",
+        "occupancy": 12,
+        "actual_occupancy": 12,
+        "predicted_occupancy": 11
+      },
+      {
+        "interval": "03:30:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 7
+      },
+      {
+        "interval": "10:30:00",
+        "occupancy": 1,
+        "actual_occupancy": 1,
+        "predicted_occupancy": 7
+      },
+      {
+        "interval": "11:00:00",
+        "occupancy": 1,
+        "actual_occupancy": 1,
+        "predicted_occupancy": 6
+      },
+      {
+        "interval": "11:30:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 7
+      },
+      {
+        "interval": "12:00:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 4
+      },
+      {
+        "interval": "12:30:00",
+        "occupancy": 10,
+        "actual_occupancy": 10,
+        "predicted_occupancy": 13
+      },
+      {
+        "interval": "13:00:00",
+        "occupancy": 12,
+        "actual_occupancy": 12,
+        "predicted_occupancy": 6
+      },
+      {
+        "interval": "13:30:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 3
+      },
+      {
+        "interval": "14:00:00",
+        "occupancy": 8,
+        "actual_occupancy": 8,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "14:30:00",
+        "occupancy": 9,
+        "actual_occupancy": 9,
+        "predicted_occupancy": 1
+      },
+      {
+        "interval": "15:00:00",
+        "occupancy": 10,
+        "actual_occupancy": 10,
+        "predicted_occupancy": 16
+      },
+      {
+        "interval": "15:30:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 4
+      },
+      {
+        "interval": "16:00:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 8
+      },
+      {
+        "interval": "16:30:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "17:00:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "17:30:00",
+        "occupancy": 8,
+        "actual_occupancy": 8,
+        "predicted_occupancy": 11
+      },
+      {
+        "interval": "18:00:00",
+        "occupancy": 1,
+        "actual_occupancy": 1,
+        "predicted_occupancy": 8
+      },
+      {
+        "interval": "18:30:00",
+        "occupancy": 11,
+        "actual_occupancy": 11,
+        "predicted_occupancy": 19
+      },
+      {
+        "interval": "19:00:00",
+        "occupancy": 14,
+        "actual_occupancy": 14,
+        "predicted_occupancy": 21
+      },
+      {
+        "interval": "19:30:00",
+        "occupancy": 12,
+        "actual_occupancy": 12,
+        "predicted_occupancy": 8
+      },
+      {
+        "interval": "20:00:00",
+        "occupancy": 10,
+        "actual_occupancy": 10,
+        "predicted_occupancy": 9
+      },
+      {
+        "interval": "20:30:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 7
+      },
+      {
+        "interval": "21:00:00",
+        "occupancy": 12,
+        "actual_occupancy": 12,
+        "predicted_occupancy": 15
+      },
+      {
+        "interval": "21:30:00",
+        "occupancy": 12,
+        "actual_occupancy": 12,
+        "predicted_occupancy": 4
+      },
+      {
+        "interval": "22:00:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 10
+      },
+      {
+        "interval": "22:30:00",
+        "occupancy": 1,
+        "actual_occupancy": 1,
+        "predicted_occupancy": 3
+      },
+      {
+        "interval": "23:00:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "23:30:00",
+        "occupancy": 7,
+        "actual_occupancy": 7,
+        "predicted_occupancy": 12
+      }
+    ]
+  },
+  {
+    "date": "2023-07-06",
+    "occupancy": [
+      {
+        "interval": "00:00:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 13
+      },
+      {
+        "interval": "00:30:00",
+        "occupancy": 8,
+        "actual_occupancy": 8,
+        "predicted_occupancy": 9
+      },
+      {
+        "interval": "01:00:00",
+        "occupancy": 4,
+        "actual_occupancy": 4,
+        "predicted_occupancy": 6
+      },
+      {
+        "interval": "01:30:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 10
+      },
+      {
+        "interval": "10:30:00",
+        "occupancy": 1,
+        "actual_occupancy": 1,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "11:30:00",
+        "occupancy": 9,
+        "actual_occupancy": 9,
+        "predicted_occupancy": 12
+      },
+      {
+        "interval": "12:00:00",
+        "occupancy": 8,
+        "actual_occupancy": 8,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "12:30:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 3
+      },
+      {
+        "interval": "13:00:00",
+        "occupancy": 16,
+        "actual_occupancy": 16,
+        "predicted_occupancy": 21
+      },
+      {
+        "interval": "13:30:00",
+        "occupancy": 8,
+        "actual_occupancy": 8,
+        "predicted_occupancy": 14
+      },
+      {
+        "interval": "14:00:00",
+        "occupancy": 8,
+        "actual_occupancy": 8,
+        "predicted_occupancy": 3
+      },
+      {
+        "interval": "14:30:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 9
+      },
+      {
+        "interval": "15:00:00",
+        "occupancy": 7,
+        "actual_occupancy": 7,
+        "predicted_occupancy": 14
+      },
+      {
+        "interval": "15:30:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 4
+      },
+      {
+        "interval": "16:00:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 2
+      },
+      {
+        "interval": "16:30:00",
+        "occupancy": 7,
+        "actual_occupancy": 7,
+        "predicted_occupancy": 11
+      },
+      {
+        "interval": "17:00:00",
+        "occupancy": 4,
+        "actual_occupancy": 4,
+        "predicted_occupancy": 2
+      },
+      {
+        "interval": "17:30:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 10
+      },
+      {
+        "interval": "18:00:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 9
+      },
+      {
+        "interval": "18:30:00",
+        "occupancy": 12,
+        "actual_occupancy": 12,
+        "predicted_occupancy": 13
+      },
+      {
+        "interval": "19:00:00",
+        "occupancy": 4,
+        "actual_occupancy": 4,
+        "predicted_occupancy": 6
+      },
+      {
+        "interval": "19:30:00",
+        "occupancy": 10,
+        "actual_occupancy": 10,
+        "predicted_occupancy": 12
+      },
+      {
+        "interval": "20:00:00",
+        "occupancy": 10,
+        "actual_occupancy": 10,
+        "predicted_occupancy": 11
+      },
+      {
+        "interval": "20:30:00",
+        "occupancy": 10,
+        "actual_occupancy": 10,
+        "predicted_occupancy": 6
+      },
+      {
+        "interval": "21:00:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "21:30:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 2
+      },
+      {
+        "interval": "22:00:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 14
+      },
+      {
+        "interval": "22:30:00",
+        "occupancy": 4,
+        "actual_occupancy": 4,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "23:00:00",
+        "occupancy": 8,
+        "actual_occupancy": 8,
+        "predicted_occupancy": 16
+      },
+      {
+        "interval": "23:30:00",
+        "occupancy": 9,
+        "actual_occupancy": 9,
+        "predicted_occupancy": 3
+      }
+    ]
+  },
+  {
+    "date": "2023-07-07",
+    "occupancy": [
+      {
+        "interval": "00:00:00",
+        "occupancy": 14,
+        "actual_occupancy": 14,
+        "predicted_occupancy": 10
+      },
+      {
+        "interval": "00:30:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 10
+      },
+      {
+        "interval": "01:00:00",
+        "occupancy": 9,
+        "actual_occupancy": 9,
+        "predicted_occupancy": 16
+      },
+      {
+        "interval": "01:30:00",
+        "occupancy": 1,
+        "actual_occupancy": 1,
+        "predicted_occupancy": 5
+      },
+      {
+        "interval": "11:00:00",
+        "occupancy": 4,
+        "actual_occupancy": 4,
+        "predicted_occupancy": 8
+      },
+      {
+        "interval": "11:30:00",
+        "occupancy": 13,
+        "actual_occupancy": 13,
+        "predicted_occupancy": 6
+      },
+      {
+        "interval": "12:00:00",
+        "occupancy": 26,
+        "actual_occupancy": 26,
+        "predicted_occupancy": 18
+      },
+      {
+        "interval": "12:30:00",
+        "occupancy": 11,
+        "actual_occupancy": 11,
+        "predicted_occupancy": 15
+      },
+      {
+        "interval": "13:00:00",
+        "occupancy": 16,
+        "actual_occupancy": 16,
+        "predicted_occupancy": 21
+      },
+      {
+        "interval": "13:30:00",
+        "occupancy": 10,
+        "actual_occupancy": 10,
+        "predicted_occupancy": 14
+      },
+      {
+        "interval": "14:00:00",
+        "occupancy": 10,
+        "actual_occupancy": 10,
+        "predicted_occupancy": 18
+      },
+      {
+        "interval": "14:30:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 8
+      },
+      {
+        "interval": "15:00:00",
+        "occupancy": 9,
+        "actual_occupancy": 9,
+        "predicted_occupancy": 2
+      },
+      {
+        "interval": "15:30:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 3
+      },
+      {
+        "interval": "16:00:00",
+        "occupancy": 7,
+        "actual_occupancy": 7,
+        "predicted_occupancy": 1
+      },
+      {
+        "interval": "16:30:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "17:00:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 1
+      },
+      {
+        "interval": "17:30:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "18:00:00",
+        "occupancy": 8,
+        "actual_occupancy": 8,
+        "predicted_occupancy": 3
+      },
+      {
+        "interval": "18:30:00",
+        "occupancy": 9,
+        "actual_occupancy": 9,
+        "predicted_occupancy": 16
+      },
+      {
+        "interval": "19:00:00",
+        "occupancy": 17,
+        "actual_occupancy": 17,
+        "predicted_occupancy": 9
+      },
+      {
+        "interval": "19:30:00",
+        "occupancy": 9,
+        "actual_occupancy": 9,
+        "predicted_occupancy": 12
+      },
+      {
+        "interval": "20:00:00",
+        "occupancy": 15,
+        "actual_occupancy": 15,
+        "predicted_occupancy": 14
+      },
+      {
+        "interval": "20:30:00",
+        "occupancy": 7,
+        "actual_occupancy": 7,
+        "predicted_occupancy": 6
+      },
+      {
+        "interval": "21:00:00",
+        "occupancy": 9,
+        "actual_occupancy": 9,
+        "predicted_occupancy": 5
+      },
+      {
+        "interval": "21:30:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 1
+      },
+      {
+        "interval": "22:00:00",
+        "occupancy": 7,
+        "actual_occupancy": 7,
+        "predicted_occupancy": 15
+      },
+      {
+        "interval": "22:30:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 5
+      },
+      {
+        "interval": "23:00:00",
+        "occupancy": 4,
+        "actual_occupancy": 4,
+        "predicted_occupancy": 9
+      },
+      {
+        "interval": "23:30:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 7
+      }
+    ]
+  },
+  {
+    "date": "2023-07-08",
+    "occupancy": [
+      {
+        "interval": "00:00:00",
+        "occupancy": 8,
+        "actual_occupancy": 8,
+        "predicted_occupancy": 15
+      },
+      {
+        "interval": "00:30:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 11
+      },
+      {
+        "interval": "01:00:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 9
+      },
+      {
+        "interval": "01:30:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 5
+      },
+      {
+        "interval": "11:00:00",
+        "occupancy": 1,
+        "actual_occupancy": 1,
+        "predicted_occupancy": 8
+      },
+      {
+        "interval": "11:30:00",
+        "occupancy": 7,
+        "actual_occupancy": 7,
+        "predicted_occupancy": 12
+      },
+      {
+        "interval": "12:00:00",
+        "occupancy": 7,
+        "actual_occupancy": 7,
+        "predicted_occupancy": 11
+      },
+      {
+        "interval": "12:30:00",
+        "occupancy": 15,
+        "actual_occupancy": 15,
+        "predicted_occupancy": 21
+      },
+      {
+        "interval": "13:00:00",
+        "occupancy": 10,
+        "actual_occupancy": 10,
+        "predicted_occupancy": 17
+      },
+      {
+        "interval": "13:30:00",
+        "occupancy": 12,
+        "actual_occupancy": 12,
+        "predicted_occupancy": 10
+      },
+      {
+        "interval": "14:00:00",
+        "occupancy": 7,
+        "actual_occupancy": 7,
+        "predicted_occupancy": 12
+      },
+      {
+        "interval": "14:30:00",
+        "occupancy": 7,
+        "actual_occupancy": 7,
+        "predicted_occupancy": 8
+      },
+      {
+        "interval": "15:00:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 1
+      },
+      {
+        "interval": "15:30:00",
+        "occupancy": 4,
+        "actual_occupancy": 4,
+        "predicted_occupancy": 7
+      },
+      {
+        "interval": "16:00:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 10
+      },
+      {
+        "interval": "16:30:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "17:00:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 10
+      },
+      {
+        "interval": "18:00:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 14
+      },
+      {
+        "interval": "18:30:00",
+        "occupancy": 9,
+        "actual_occupancy": 9,
+        "predicted_occupancy": 8
+      },
+      {
+        "interval": "19:00:00",
+        "occupancy": 4,
+        "actual_occupancy": 4,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "19:30:00",
+        "occupancy": 9,
+        "actual_occupancy": 9,
+        "predicted_occupancy": 3
+      },
+      {
+        "interval": "20:00:00",
+        "occupancy": 7,
+        "actual_occupancy": 7,
+        "predicted_occupancy": 5
+      },
+      {
+        "interval": "20:30:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 8
+      },
+      {
+        "interval": "21:00:00",
+        "occupancy": 8,
+        "actual_occupancy": 8,
+        "predicted_occupancy": 1
+      },
+      {
+        "interval": "21:30:00",
+        "occupancy": 11,
+        "actual_occupancy": 11,
+        "predicted_occupancy": 7
+      },
+      {
+        "interval": "22:00:00",
+        "occupancy": 4,
+        "actual_occupancy": 4,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "22:30:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 2
+      },
+      {
+        "interval": "23:00:00",
+        "occupancy": 12,
+        "actual_occupancy": 12,
+        "predicted_occupancy": 9
+      },
+      {
+        "interval": "23:30:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 0
+      }
+    ]
+  },
+  {
+    "date": "2023-07-09",
+    "occupancy": [
+      {
+        "interval": "00:00:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "00:30:00",
+        "occupancy": 9,
+        "actual_occupancy": 9,
+        "predicted_occupancy": 6
+      },
+      {
+        "interval": "01:00:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 2
+      },
+      {
+        "interval": "01:30:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 7
+      },
+      {
+        "interval": "10:00:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 6
+      },
+      {
+        "interval": "10:30:00",
+        "occupancy": 4,
+        "actual_occupancy": 4,
+        "predicted_occupancy": 2
+      },
+      {
+        "interval": "11:00:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "11:30:00",
+        "occupancy": 12,
+        "actual_occupancy": 12,
+        "predicted_occupancy": 13
+      },
+      {
+        "interval": "12:00:00",
+        "occupancy": 10,
+        "actual_occupancy": 10,
+        "predicted_occupancy": 11
+      },
+      {
+        "interval": "12:30:00",
+        "occupancy": 8,
+        "actual_occupancy": 8,
+        "predicted_occupancy": 10
+      },
+      {
+        "interval": "13:00:00",
+        "occupancy": 12,
+        "actual_occupancy": 12,
+        "predicted_occupancy": 10
+      },
+      {
+        "interval": "13:30:00",
+        "occupancy": 11,
+        "actual_occupancy": 11,
+        "predicted_occupancy": 6
+      },
+      {
+        "interval": "14:00:00",
+        "occupancy": 4,
+        "actual_occupancy": 4,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "14:30:00",
+        "occupancy": 11,
+        "actual_occupancy": 11,
+        "predicted_occupancy": 17
+      },
+      {
+        "interval": "15:00:00",
+        "occupancy": 10,
+        "actual_occupancy": 10,
+        "predicted_occupancy": 18
+      },
+      {
+        "interval": "15:30:00",
+        "occupancy": 7,
+        "actual_occupancy": 7,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "16:00:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 4
+      },
+      {
+        "interval": "16:30:00",
+        "occupancy": 9,
+        "actual_occupancy": 9,
+        "predicted_occupancy": 10
+      },
+      {
+        "interval": "17:00:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "17:30:00",
+        "occupancy": 7,
+        "actual_occupancy": 7,
+        "predicted_occupancy": 3
+      },
+      {
+        "interval": "18:00:00",
+        "occupancy": 4,
+        "actual_occupancy": 4,
+        "predicted_occupancy": 10
+      },
+      {
+        "interval": "18:30:00",
+        "occupancy": 9,
+        "actual_occupancy": 9,
+        "predicted_occupancy": 10
+      },
+      {
+        "interval": "19:00:00",
+        "occupancy": 7,
+        "actual_occupancy": 7,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "19:30:00",
+        "occupancy": 13,
+        "actual_occupancy": 13,
+        "predicted_occupancy": 18
+      },
+      {
+        "interval": "20:00:00",
+        "occupancy": 8,
+        "actual_occupancy": 8,
+        "predicted_occupancy": 13
+      },
+      {
+        "interval": "20:30:00",
+        "occupancy": 8,
+        "actual_occupancy": 8,
+        "predicted_occupancy": 9
+      },
+      {
+        "interval": "21:00:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "21:30:00",
+        "occupancy": 11,
+        "actual_occupancy": 11,
+        "predicted_occupancy": 5
+      },
+      {
+        "interval": "22:00:00",
+        "occupancy": 7,
+        "actual_occupancy": 7,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "22:30:00",
+        "occupancy": 1,
+        "actual_occupancy": 1,
+        "predicted_occupancy": 2
+      },
+      {
+        "interval": "23:00:00",
+        "occupancy": 11,
+        "actual_occupancy": 11,
+        "predicted_occupancy": 4
+      },
+      {
+        "interval": "23:30:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 4
+      }
+    ]
+  },
+  {
+    "date": "2023-07-10",
+    "occupancy": [
+      {
+        "interval": "00:00:00",
+        "occupancy": 4,
+        "actual_occupancy": 4,
+        "predicted_occupancy": 11
+      },
+      {
+        "interval": "14:00:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 10
+      },
+      {
+        "interval": "14:30:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "15:00:00",
+        "occupancy": 7,
+        "actual_occupancy": 7,
+        "predicted_occupancy": 15
+      },
+      {
+        "interval": "15:30:00",
+        "occupancy": 4,
+        "actual_occupancy": 4,
+        "predicted_occupancy": 9
+      },
+      {
+        "interval": "16:00:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 12
+      },
+      {
+        "interval": "16:30:00",
+        "occupancy": 8,
+        "actual_occupancy": 8,
+        "predicted_occupancy": 5
+      },
+      {
+        "interval": "17:00:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 5
+      },
+      {
+        "interval": "17:30:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 1
+      },
+      {
+        "interval": "18:00:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 1
+      },
+      {
+        "interval": "18:30:00",
+        "occupancy": 11,
+        "actual_occupancy": 11,
+        "predicted_occupancy": 9
+      },
+      {
+        "interval": "19:00:00",
+        "occupancy": 11,
+        "actual_occupancy": 11,
+        "predicted_occupancy": 5
+      },
+      {
+        "interval": "19:30:00",
+        "occupancy": 8,
+        "actual_occupancy": 8,
+        "predicted_occupancy": 14
+      },
+      {
+        "interval": "20:00:00",
+        "occupancy": 23,
+        "actual_occupancy": 23,
+        "predicted_occupancy": 22
+      },
+      {
+        "interval": "20:30:00",
+        "occupancy": 13,
+        "actual_occupancy": 13,
+        "predicted_occupancy": 6
+      },
+      {
+        "interval": "21:00:00",
+        "occupancy": 4,
+        "actual_occupancy": 4,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "21:30:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 4
+      },
+      {
+        "interval": "22:00:00",
+        "occupancy": 7,
+        "actual_occupancy": 7,
+        "predicted_occupancy": 13
+      },
+      {
+        "interval": "22:30:00",
+        "occupancy": 13,
+        "actual_occupancy": 13,
+        "predicted_occupancy": 5
+      },
+      {
+        "interval": "23:00:00",
+        "occupancy": 9,
+        "actual_occupancy": 9,
+        "predicted_occupancy": 6
+      },
+      {
+        "interval": "23:30:00",
+        "occupancy": 13,
+        "actual_occupancy": 13,
+        "predicted_occupancy": 18
+      }
+    ]
+  },
+  {
+    "date": "2023-07-11",
+    "occupancy": [
+      {
+        "interval": "00:00:00",
+        "occupancy": 14,
+        "actual_occupancy": 14,
+        "predicted_occupancy": 21
+      },
+      {
+        "interval": "00:30:00",
+        "occupancy": 10,
+        "actual_occupancy": 10,
+        "predicted_occupancy": 4
+      },
+      {
+        "interval": "01:00:00",
+        "occupancy": 7,
+        "actual_occupancy": 7,
+        "predicted_occupancy": 9
+      },
+      {
+        "interval": "01:30:00",
+        "occupancy": 11,
+        "actual_occupancy": 11,
+        "predicted_occupancy": 10
+      },
+      {
+        "interval": "02:00:00",
+        "occupancy": 10,
+        "actual_occupancy": 10,
+        "predicted_occupancy": 18
+      },
+      {
+        "interval": "02:30:00",
+        "occupancy": 4,
+        "actual_occupancy": 4,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "03:00:00",
+        "occupancy": 8,
+        "actual_occupancy": 8,
+        "predicted_occupancy": 11
+      },
+      {
+        "interval": "03:30:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 11
+      },
+      {
+        "interval": "10:30:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "11:00:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 2
+      },
+      {
+        "interval": "11:30:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 11
+      },
+      {
+        "interval": "12:00:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "12:30:00",
+        "occupancy": 14,
+        "actual_occupancy": 14,
+        "predicted_occupancy": 21
+      },
+      {
+        "interval": "13:00:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 8
+      },
+      {
+        "interval": "13:30:00",
+        "occupancy": 12,
+        "actual_occupancy": 12,
+        "predicted_occupancy": 4
+      },
+      {
+        "interval": "14:00:00",
+        "occupancy": 13,
+        "actual_occupancy": 13,
+        "predicted_occupancy": 12
+      },
+      {
+        "interval": "14:30:00",
+        "occupancy": 9,
+        "actual_occupancy": 9,
+        "predicted_occupancy": 3
+      },
+      {
+        "interval": "15:00:00",
+        "occupancy": 7,
+        "actual_occupancy": 7,
+        "predicted_occupancy": 1
+      },
+      {
+        "interval": "15:30:00",
+        "occupancy": 11,
+        "actual_occupancy": 11,
+        "predicted_occupancy": 6
+      },
+      {
+        "interval": "16:00:00",
+        "occupancy": 15,
+        "actual_occupancy": 15,
+        "predicted_occupancy": 12
+      },
+      {
+        "interval": "16:30:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "17:00:00",
+        "occupancy": 8,
+        "actual_occupancy": 8,
+        "predicted_occupancy": 9
+      },
+      {
+        "interval": "17:30:00",
+        "occupancy": 1,
+        "actual_occupancy": 1,
+        "predicted_occupancy": 5
+      },
+      {
+        "interval": "18:00:00",
+        "occupancy": 7,
+        "actual_occupancy": 7,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "18:30:00",
+        "occupancy": 4,
+        "actual_occupancy": 4,
+        "predicted_occupancy": 7
+      },
+      {
+        "interval": "19:00:00",
+        "occupancy": 9,
+        "actual_occupancy": 9,
+        "predicted_occupancy": 2
+      },
+      {
+        "interval": "19:30:00",
+        "occupancy": 25,
+        "actual_occupancy": 25,
+        "predicted_occupancy": 22
+      },
+      {
+        "interval": "20:00:00",
+        "occupancy": 25,
+        "actual_occupancy": 25,
+        "predicted_occupancy": 18
+      },
+      {
+        "interval": "20:30:00",
+        "occupancy": 10,
+        "actual_occupancy": 10,
+        "predicted_occupancy": 17
+      },
+      {
+        "interval": "21:00:00",
+        "occupancy": 29,
+        "actual_occupancy": 29,
+        "predicted_occupancy": 30
+      },
+      {
+        "interval": "21:30:00",
+        "occupancy": 16,
+        "actual_occupancy": 16,
+        "predicted_occupancy": 24
+      },
+      {
+        "interval": "22:00:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 1
+      },
+      {
+        "interval": "22:30:00",
+        "occupancy": 9,
+        "actual_occupancy": 9,
+        "predicted_occupancy": 17
+      },
+      {
+        "interval": "23:00:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 10
+      },
+      {
+        "interval": "23:30:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 4
+      }
+    ]
+  },
+  {
+    "date": "2023-07-12",
+    "occupancy": [
+      {
+        "interval": "00:00:00",
+        "occupancy": 7,
+        "actual_occupancy": 7,
+        "predicted_occupancy": 9
+      },
+      {
+        "interval": "00:30:00",
+        "occupancy": 8,
+        "actual_occupancy": 8,
+        "predicted_occupancy": 15
+      },
+      {
+        "interval": "01:00:00",
+        "occupancy": 13,
+        "actual_occupancy": 13,
+        "predicted_occupancy": 18
+      },
+      {
+        "interval": "01:30:00",
+        "occupancy": 12,
+        "actual_occupancy": 12,
+        "predicted_occupancy": 17
+      },
+      {
+        "interval": "02:00:00",
+        "occupancy": 15,
+        "actual_occupancy": 15,
+        "predicted_occupancy": 14
+      },
+      {
+        "interval": "02:30:00",
+        "occupancy": 11,
+        "actual_occupancy": 11,
+        "predicted_occupancy": 6
+      },
+      {
+        "interval": "03:00:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 5
+      },
+      {
+        "interval": "03:30:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "10:30:00",
+        "occupancy": 1,
+        "actual_occupancy": 1,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "11:00:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 5
+      },
+      {
+        "interval": "11:30:00",
+        "occupancy": 4,
+        "actual_occupancy": 4,
+        "predicted_occupancy": 12
+      },
+      {
+        "interval": "12:00:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 14
+      },
+      {
+        "interval": "12:30:00",
+        "occupancy": 4,
+        "actual_occupancy": 4,
+        "predicted_occupancy": 2
+      },
+      {
+        "interval": "13:00:00",
+        "occupancy": 14,
+        "actual_occupancy": 14,
+        "predicted_occupancy": 17
+      },
+      {
+        "interval": "13:30:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 9
+      },
+      {
+        "interval": "14:00:00",
+        "occupancy": 11,
+        "actual_occupancy": 11,
+        "predicted_occupancy": 9
+      },
+      {
+        "interval": "14:30:00",
+        "occupancy": 10,
+        "actual_occupancy": 10,
+        "predicted_occupancy": 5
+      },
+      {
+        "interval": "15:00:00",
+        "occupancy": 19,
+        "actual_occupancy": 19,
+        "predicted_occupancy": 27
+      },
+      {
+        "interval": "15:30:00",
+        "occupancy": 4,
+        "actual_occupancy": 4,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "16:00:00",
+        "occupancy": 9,
+        "actual_occupancy": 9,
+        "predicted_occupancy": 13
+      },
+      {
+        "interval": "16:30:00",
+        "occupancy": 10,
+        "actual_occupancy": 10,
+        "predicted_occupancy": 3
+      },
+      {
+        "interval": "17:00:00",
+        "occupancy": 10,
+        "actual_occupancy": 10,
+        "predicted_occupancy": 16
+      },
+      {
+        "interval": "17:30:00",
+        "occupancy": 7,
+        "actual_occupancy": 7,
+        "predicted_occupancy": 15
+      },
+      {
+        "interval": "18:00:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 12
+      },
+      {
+        "interval": "18:30:00",
+        "occupancy": 22,
+        "actual_occupancy": 22,
+        "predicted_occupancy": 16
+      },
+      {
+        "interval": "19:00:00",
+        "occupancy": 7,
+        "actual_occupancy": 7,
+        "predicted_occupancy": 8
+      },
+      {
+        "interval": "19:30:00",
+        "occupancy": 9,
+        "actual_occupancy": 9,
+        "predicted_occupancy": 4
+      },
+      {
+        "interval": "20:00:00",
+        "occupancy": 14,
+        "actual_occupancy": 14,
+        "predicted_occupancy": 22
+      },
+      {
+        "interval": "20:30:00",
+        "occupancy": 19,
+        "actual_occupancy": 19,
+        "predicted_occupancy": 26
+      },
+      {
+        "interval": "21:00:00",
+        "occupancy": 11,
+        "actual_occupancy": 11,
+        "predicted_occupancy": 4
+      },
+      {
+        "interval": "21:30:00",
+        "occupancy": 9,
+        "actual_occupancy": 9,
+        "predicted_occupancy": 2
+      },
+      {
+        "interval": "22:00:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "22:30:00",
+        "occupancy": 7,
+        "actual_occupancy": 7,
+        "predicted_occupancy": 12
+      },
+      {
+        "interval": "23:00:00",
+        "occupancy": 9,
+        "actual_occupancy": 9,
+        "predicted_occupancy": 11
+      },
+      {
+        "interval": "23:30:00",
+        "occupancy": 12,
+        "actual_occupancy": 12,
+        "predicted_occupancy": 15
+      }
+    ]
+  },
+  {
+    "date": "2023-07-13",
+    "occupancy": [
+      {
+        "interval": "00:00:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "00:30:00",
+        "occupancy": 12,
+        "actual_occupancy": 12,
+        "predicted_occupancy": 7
+      },
+      {
+        "interval": "01:00:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 4
+      },
+      {
+        "interval": "01:30:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "10:00:00",
+        "occupancy": 1,
+        "actual_occupancy": 1,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "11:00:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 12
+      },
+      {
+        "interval": "11:30:00",
+        "occupancy": 8,
+        "actual_occupancy": 8,
+        "predicted_occupancy": 13
+      },
+      {
+        "interval": "12:00:00",
+        "occupancy": 9,
+        "actual_occupancy": 9,
+        "predicted_occupancy": 4
+      },
+      {
+        "interval": "12:30:00",
+        "occupancy": 13,
+        "actual_occupancy": 13,
+        "predicted_occupancy": 19
+      },
+      {
+        "interval": "13:00:00",
+        "occupancy": 11,
+        "actual_occupancy": 11,
+        "predicted_occupancy": 15
+      },
+      {
+        "interval": "13:30:00",
+        "occupancy": 8,
+        "actual_occupancy": 8,
+        "predicted_occupancy": 16
+      },
+      {
+        "interval": "14:00:00",
+        "occupancy": 8,
+        "actual_occupancy": 8,
+        "predicted_occupancy": 13
+      },
+      {
+        "interval": "14:30:00",
+        "occupancy": 7,
+        "actual_occupancy": 7,
+        "predicted_occupancy": 2
+      },
+      {
+        "interval": "15:00:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "15:30:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 10
+      },
+      {
+        "interval": "16:00:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 1
+      },
+      {
+        "interval": "16:30:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 10
+      },
+      {
+        "interval": "17:00:00",
+        "occupancy": 8,
+        "actual_occupancy": 8,
+        "predicted_occupancy": 5
+      },
+      {
+        "interval": "17:30:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "18:00:00",
+        "occupancy": 10,
+        "actual_occupancy": 10,
+        "predicted_occupancy": 3
+      },
+      {
+        "interval": "18:30:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "19:00:00",
+        "occupancy": 7,
+        "actual_occupancy": 7,
+        "predicted_occupancy": 6
+      },
+      {
+        "interval": "19:30:00",
+        "occupancy": 14,
+        "actual_occupancy": 14,
+        "predicted_occupancy": 11
+      },
+      {
+        "interval": "20:00:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 9
+      },
+      {
+        "interval": "20:30:00",
+        "occupancy": 14,
+        "actual_occupancy": 14,
+        "predicted_occupancy": 16
+      },
+      {
+        "interval": "21:00:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 10
+      },
+      {
+        "interval": "21:30:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 9
+      },
+      {
+        "interval": "22:00:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "22:30:00",
+        "occupancy": 7,
+        "actual_occupancy": 7,
+        "predicted_occupancy": 12
+      },
+      {
+        "interval": "23:00:00",
+        "occupancy": 7,
+        "actual_occupancy": 7,
+        "predicted_occupancy": 14
+      },
+      {
+        "interval": "23:30:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 4
+      }
+    ]
+  },
+  {
+    "date": "2023-07-14",
+    "occupancy": [
+      {
+        "interval": "00:00:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 10
+      },
+      {
+        "interval": "00:30:00",
+        "occupancy": 9,
+        "actual_occupancy": 9,
+        "predicted_occupancy": 12
+      },
+      {
+        "interval": "01:00:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "01:30:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 8
+      },
+      {
+        "interval": "10:30:00",
+        "occupancy": 1,
+        "actual_occupancy": 1,
+        "predicted_occupancy": 5
+      },
+      {
+        "interval": "11:00:00",
+        "occupancy": 8,
+        "actual_occupancy": 8,
+        "predicted_occupancy": 2
+      },
+      {
+        "interval": "11:30:00",
+        "occupancy": 7,
+        "actual_occupancy": 7,
+        "predicted_occupancy": 14
+      },
+      {
+        "interval": "12:00:00",
+        "occupancy": 7,
+        "actual_occupancy": 7,
+        "predicted_occupancy": 8
+      },
+      {
+        "interval": "12:30:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 9
+      },
+      {
+        "interval": "13:00:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "13:30:00",
+        "occupancy": 15,
+        "actual_occupancy": 15,
+        "predicted_occupancy": 8
+      },
+      {
+        "interval": "14:00:00",
+        "occupancy": 9,
+        "actual_occupancy": 9,
+        "predicted_occupancy": 16
+      },
+      {
+        "interval": "14:30:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 6
+      },
+      {
+        "interval": "15:00:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 8
+      },
+      {
+        "interval": "15:30:00",
+        "occupancy": 4,
+        "actual_occupancy": 4,
+        "predicted_occupancy": 11
+      },
+      {
+        "interval": "16:00:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "16:30:00",
+        "occupancy": 8,
+        "actual_occupancy": 8,
+        "predicted_occupancy": 15
+      },
+      {
+        "interval": "17:00:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 8
+      },
+      {
+        "interval": "18:00:00",
+        "occupancy": 7,
+        "actual_occupancy": 7,
+        "predicted_occupancy": 4
+      },
+      {
+        "interval": "18:30:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "19:00:00",
+        "occupancy": 4,
+        "actual_occupancy": 4,
+        "predicted_occupancy": 2
+      },
+      {
+        "interval": "19:30:00",
+        "occupancy": 8,
+        "actual_occupancy": 8,
+        "predicted_occupancy": 13
+      },
+      {
+        "interval": "20:00:00",
+        "occupancy": 15,
+        "actual_occupancy": 15,
+        "predicted_occupancy": 7
+      },
+      {
+        "interval": "20:30:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 12
+      },
+      {
+        "interval": "21:00:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "21:30:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 10
+      },
+      {
+        "interval": "22:00:00",
+        "occupancy": 8,
+        "actual_occupancy": 8,
+        "predicted_occupancy": 14
+      },
+      {
+        "interval": "22:30:00",
+        "occupancy": 4,
+        "actual_occupancy": 4,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "23:00:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 5
+      },
+      {
+        "interval": "23:30:00",
+        "occupancy": 7,
+        "actual_occupancy": 7,
+        "predicted_occupancy": 4
+      }
+    ]
+  },
+  {
+    "date": "2023-07-15",
+    "occupancy": [
+      {
+        "interval": "00:00:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 8
+      },
+      {
+        "interval": "00:30:00",
+        "occupancy": 10,
+        "actual_occupancy": 10,
+        "predicted_occupancy": 16
+      },
+      {
+        "interval": "01:00:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 14
+      },
+      {
+        "interval": "01:30:00",
+        "occupancy": 4,
+        "actual_occupancy": 4,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "10:30:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "11:30:00",
+        "occupancy": 15,
+        "actual_occupancy": 15,
+        "predicted_occupancy": 20
+      },
+      {
+        "interval": "12:00:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 12
+      },
+      {
+        "interval": "12:30:00",
+        "occupancy": 14,
+        "actual_occupancy": 14,
+        "predicted_occupancy": 17
+      },
+      {
+        "interval": "13:00:00",
+        "occupancy": 13,
+        "actual_occupancy": 13,
+        "predicted_occupancy": 21
+      },
+      {
+        "interval": "13:30:00",
+        "occupancy": 8,
+        "actual_occupancy": 8,
+        "predicted_occupancy": 11
+      },
+      {
+        "interval": "14:00:00",
+        "occupancy": 8,
+        "actual_occupancy": 8,
+        "predicted_occupancy": 10
+      },
+      {
+        "interval": "14:30:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 3
+      },
+      {
+        "interval": "15:00:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 9
+      },
+      {
+        "interval": "15:30:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 2
+      },
+      {
+        "interval": "16:00:00",
+        "occupancy": 7,
+        "actual_occupancy": 7,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "16:30:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "17:00:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 6
+      },
+      {
+        "interval": "17:30:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 12
+      },
+      {
+        "interval": "18:00:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 6
+      },
+      {
+        "interval": "18:30:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 6
+      },
+      {
+        "interval": "19:00:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 3
+      },
+      {
+        "interval": "19:30:00",
+        "occupancy": 15,
+        "actual_occupancy": 15,
+        "predicted_occupancy": 17
+      },
+      {
+        "interval": "20:00:00",
+        "occupancy": 11,
+        "actual_occupancy": 11,
+        "predicted_occupancy": 4
+      },
+      {
+        "interval": "20:30:00",
+        "occupancy": 10,
+        "actual_occupancy": 10,
+        "predicted_occupancy": 3
+      },
+      {
+        "interval": "21:00:00",
+        "occupancy": 9,
+        "actual_occupancy": 9,
+        "predicted_occupancy": 5
+      },
+      {
+        "interval": "21:30:00",
+        "occupancy": 4,
+        "actual_occupancy": 4,
+        "predicted_occupancy": 5
+      },
+      {
+        "interval": "22:00:00",
+        "occupancy": 7,
+        "actual_occupancy": 7,
+        "predicted_occupancy": 14
+      },
+      {
+        "interval": "22:30:00",
+        "occupancy": 11,
+        "actual_occupancy": 11,
+        "predicted_occupancy": 19
+      },
+      {
+        "interval": "23:00:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 5
+      },
+      {
+        "interval": "23:30:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 0
+      }
+    ]
+  },
+  {
+    "date": "2023-07-16",
+    "occupancy": [
+      {
+        "interval": "00:00:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 10
+      },
+      {
+        "interval": "00:30:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "01:00:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "01:30:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "11:00:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "11:30:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 6
+      },
+      {
+        "interval": "12:00:00",
+        "occupancy": 4,
+        "actual_occupancy": 4,
+        "predicted_occupancy": 6
+      },
+      {
+        "interval": "12:30:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 14
+      },
+      {
+        "interval": "13:00:00",
+        "occupancy": 8,
+        "actual_occupancy": 8,
+        "predicted_occupancy": 13
+      },
+      {
+        "interval": "13:30:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "14:00:00",
+        "occupancy": 4,
+        "actual_occupancy": 4,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "14:30:00",
+        "occupancy": 4,
+        "actual_occupancy": 4,
+        "predicted_occupancy": 11
+      },
+      {
+        "interval": "15:00:00",
+        "occupancy": 4,
+        "actual_occupancy": 4,
+        "predicted_occupancy": 12
+      },
+      {
+        "interval": "15:30:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 1
+      },
+      {
+        "interval": "16:00:00",
+        "occupancy": 4,
+        "actual_occupancy": 4,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "16:30:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 1
+      },
+      {
+        "interval": "17:00:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 2
+      },
+      {
+        "interval": "17:30:00",
+        "occupancy": 1,
+        "actual_occupancy": 1,
+        "predicted_occupancy": 3
+      },
+      {
+        "interval": "18:00:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 9
+      },
+      {
+        "interval": "18:30:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 9
+      },
+      {
+        "interval": "19:00:00",
+        "occupancy": 11,
+        "actual_occupancy": 11,
+        "predicted_occupancy": 14
+      },
+      {
+        "interval": "19:30:00",
+        "occupancy": 9,
+        "actual_occupancy": 9,
+        "predicted_occupancy": 1
+      },
+      {
+        "interval": "20:00:00",
+        "occupancy": 21,
+        "actual_occupancy": 21,
+        "predicted_occupancy": 24
+      },
+      {
+        "interval": "20:30:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 1
+      },
+      {
+        "interval": "21:00:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 8
+      },
+      {
+        "interval": "21:30:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "22:00:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 5
+      },
+      {
+        "interval": "22:30:00",
+        "occupancy": 8,
+        "actual_occupancy": 8,
+        "predicted_occupancy": 10
+      },
+      {
+        "interval": "23:00:00",
+        "occupancy": 7,
+        "actual_occupancy": 7,
+        "predicted_occupancy": 10
+      },
+      {
+        "interval": "23:30:00",
+        "occupancy": 8,
+        "actual_occupancy": 8,
+        "predicted_occupancy": 10
+      }
+    ]
+  },
+  {
+    "date": "2023-07-17",
+    "occupancy": [
+      {
+        "interval": "00:00:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 9
+      },
+      {
+        "interval": "00:30:00",
+        "occupancy": 17,
+        "actual_occupancy": 17,
+        "predicted_occupancy": 16
+      },
+      {
+        "interval": "01:00:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 6
+      },
+      {
+        "interval": "01:30:00",
+        "occupancy": 7,
+        "actual_occupancy": 7,
+        "predicted_occupancy": 8
+      },
+      {
+        "interval": "15:00:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "15:30:00",
+        "occupancy": 7,
+        "actual_occupancy": 7,
+        "predicted_occupancy": 6
+      },
+      {
+        "interval": "16:00:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "16:30:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 4
+      },
+      {
+        "interval": "17:30:00",
+        "occupancy": 4,
+        "actual_occupancy": 4,
+        "predicted_occupancy": 6
+      },
+      {
+        "interval": "18:00:00",
+        "occupancy": 4,
+        "actual_occupancy": 4,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "18:30:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 8
+      },
+      {
+        "interval": "19:00:00",
+        "occupancy": 22,
+        "actual_occupancy": 22,
+        "predicted_occupancy": 30
+      },
+      {
+        "interval": "19:30:00",
+        "occupancy": 7,
+        "actual_occupancy": 7,
+        "predicted_occupancy": 15
+      },
+      {
+        "interval": "20:00:00",
+        "occupancy": 23,
+        "actual_occupancy": 23,
+        "predicted_occupancy": 30
+      },
+      {
+        "interval": "20:30:00",
+        "occupancy": 11,
+        "actual_occupancy": 11,
+        "predicted_occupancy": 18
+      },
+      {
+        "interval": "21:00:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 1
+      },
+      {
+        "interval": "21:30:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "22:00:00",
+        "occupancy": 11,
+        "actual_occupancy": 11,
+        "predicted_occupancy": 9
+      },
+      {
+        "interval": "22:30:00",
+        "occupancy": 10,
+        "actual_occupancy": 10,
+        "predicted_occupancy": 15
+      },
+      {
+        "interval": "23:00:00",
+        "occupancy": 10,
+        "actual_occupancy": 10,
+        "predicted_occupancy": 6
+      },
+      {
+        "interval": "23:30:00",
+        "occupancy": 7,
+        "actual_occupancy": 7,
+        "predicted_occupancy": 3
+      }
+    ]
+  },
+  {
+    "date": "2023-07-18",
+    "occupancy": [
+      {
+        "interval": "00:00:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 3
+      },
+      {
+        "interval": "00:30:00",
+        "occupancy": 4,
+        "actual_occupancy": 4,
+        "predicted_occupancy": 10
+      },
+      {
+        "interval": "01:00:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "01:30:00",
+        "occupancy": 7,
+        "actual_occupancy": 7,
+        "predicted_occupancy": 10
+      },
+      {
+        "interval": "02:00:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 9
+      },
+      {
+        "interval": "02:30:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "03:00:00",
+        "occupancy": 1,
+        "actual_occupancy": 1,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "11:00:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "11:30:00",
+        "occupancy": 4,
+        "actual_occupancy": 4,
+        "predicted_occupancy": 12
+      },
+      {
+        "interval": "12:00:00",
+        "occupancy": 14,
+        "actual_occupancy": 14,
+        "predicted_occupancy": 21
+      },
+      {
+        "interval": "12:30:00",
+        "occupancy": 10,
+        "actual_occupancy": 10,
+        "predicted_occupancy": 12
+      },
+      {
+        "interval": "13:00:00",
+        "occupancy": 8,
+        "actual_occupancy": 8,
+        "predicted_occupancy": 9
+      },
+      {
+        "interval": "13:30:00",
+        "occupancy": 8,
+        "actual_occupancy": 8,
+        "predicted_occupancy": 15
+      },
+      {
+        "interval": "14:00:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 1
+      },
+      {
+        "interval": "14:30:00",
+        "occupancy": 8,
+        "actual_occupancy": 8,
+        "predicted_occupancy": 13
+      },
+      {
+        "interval": "15:00:00",
+        "occupancy": 13,
+        "actual_occupancy": 13,
+        "predicted_occupancy": 6
+      },
+      {
+        "interval": "15:30:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 4
+      },
+      {
+        "interval": "16:00:00",
+        "occupancy": 7,
+        "actual_occupancy": 7,
+        "predicted_occupancy": 2
+      },
+      {
+        "interval": "16:30:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 12
+      },
+      {
+        "interval": "17:00:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 3
+      },
+      {
+        "interval": "17:30:00",
+        "occupancy": 8,
+        "actual_occupancy": 8,
+        "predicted_occupancy": 9
+      },
+      {
+        "interval": "18:00:00",
+        "occupancy": 4,
+        "actual_occupancy": 4,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "18:30:00",
+        "occupancy": 7,
+        "actual_occupancy": 7,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "19:00:00",
+        "occupancy": 9,
+        "actual_occupancy": 9,
+        "predicted_occupancy": 17
+      },
+      {
+        "interval": "19:30:00",
+        "occupancy": 25,
+        "actual_occupancy": 25,
+        "predicted_occupancy": 22
+      },
+      {
+        "interval": "20:00:00",
+        "occupancy": 10,
+        "actual_occupancy": 10,
+        "predicted_occupancy": 8
+      },
+      {
+        "interval": "20:30:00",
+        "occupancy": 13,
+        "actual_occupancy": 13,
+        "predicted_occupancy": 17
+      },
+      {
+        "interval": "21:00:00",
+        "occupancy": 10,
+        "actual_occupancy": 10,
+        "predicted_occupancy": 12
+      },
+      {
+        "interval": "21:30:00",
+        "occupancy": 17,
+        "actual_occupancy": 17,
+        "predicted_occupancy": 24
+      },
+      {
+        "interval": "22:00:00",
+        "occupancy": 9,
+        "actual_occupancy": 9,
+        "predicted_occupancy": 3
+      },
+      {
+        "interval": "22:30:00",
+        "occupancy": 11,
+        "actual_occupancy": 11,
+        "predicted_occupancy": 14
+      },
+      {
+        "interval": "23:00:00",
+        "occupancy": 19,
+        "actual_occupancy": 19,
+        "predicted_occupancy": 11
+      },
+      {
+        "interval": "23:30:00",
+        "occupancy": 9,
+        "actual_occupancy": 9,
+        "predicted_occupancy": 2
+      }
+    ]
+  },
+  {
+    "date": "2023-07-19",
+    "occupancy": [
+      {
+        "interval": "00:00:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 4
+      },
+      {
+        "interval": "00:30:00",
+        "occupancy": 21,
+        "actual_occupancy": 21,
+        "predicted_occupancy": 28
+      },
+      {
+        "interval": "01:00:00",
+        "occupancy": 10,
+        "actual_occupancy": 10,
+        "predicted_occupancy": 7
+      },
+      {
+        "interval": "01:30:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 2
+      },
+      {
+        "interval": "02:00:00",
+        "occupancy": 10,
+        "actual_occupancy": 10,
+        "predicted_occupancy": 8
+      },
+      {
+        "interval": "02:30:00",
+        "occupancy": 9,
+        "actual_occupancy": 9,
+        "predicted_occupancy": 12
+      },
+      {
+        "interval": "03:00:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "03:30:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 1
+      },
+      {
+        "interval": "11:30:00",
+        "occupancy": 4,
+        "actual_occupancy": 4,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "12:00:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 6
+      },
+      {
+        "interval": "12:30:00",
+        "occupancy": 4,
+        "actual_occupancy": 4,
+        "predicted_occupancy": 8
+      },
+      {
+        "interval": "13:30:00",
+        "occupancy": 1,
+        "actual_occupancy": 1,
+        "predicted_occupancy": 0
+      }
+    ]
+  },
+  {
+    "date": "2023-07-20",
+    "occupancy": [
+      {
+        "interval": "00:00:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 2
+      },
+      {
+        "interval": "00:30:00",
+        "occupancy": 1,
+        "actual_occupancy": 1,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "01:30:00",
+        "occupancy": 1,
+        "actual_occupancy": 1,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "11:30:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 2
+      },
+      {
+        "interval": "12:00:00",
+        "occupancy": 1,
+        "actual_occupancy": 1,
+        "predicted_occupancy": 9
+      },
+      {
+        "interval": "12:30:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "13:00:00",
+        "occupancy": 10,
+        "actual_occupancy": 10,
+        "predicted_occupancy": 8
+      },
+      {
+        "interval": "13:30:00",
+        "occupancy": 4,
+        "actual_occupancy": 4,
+        "predicted_occupancy": 5
+      },
+      {
+        "interval": "14:00:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 13
+      },
+      {
+        "interval": "14:30:00",
+        "occupancy": 8,
+        "actual_occupancy": 8,
+        "predicted_occupancy": 3
+      },
+      {
+        "interval": "15:00:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 5
+      },
+      {
+        "interval": "15:30:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 7
+      },
+      {
+        "interval": "16:30:00",
+        "occupancy": 1,
+        "actual_occupancy": 1,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "17:00:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 13
+      },
+      {
+        "interval": "17:30:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 3
+      },
+      {
+        "interval": "18:00:00",
+        "occupancy": 4,
+        "actual_occupancy": 4,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "18:30:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 8
+      },
+      {
+        "interval": "19:00:00",
+        "occupancy": 4,
+        "actual_occupancy": 4,
+        "predicted_occupancy": 11
+      },
+      {
+        "interval": "19:30:00",
+        "occupancy": 4,
+        "actual_occupancy": 4,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "20:00:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 11
+      },
+      {
+        "interval": "20:30:00",
+        "occupancy": 11,
+        "actual_occupancy": 11,
+        "predicted_occupancy": 16
+      },
+      {
+        "interval": "21:00:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 11
+      },
+      {
+        "interval": "21:30:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 10
+      },
+      {
+        "interval": "22:00:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 4
+      },
+      {
+        "interval": "22:30:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 2
+      },
+      {
+        "interval": "23:00:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 1
+      },
+      {
+        "interval": "23:30:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 0
+      }
+    ]
+  },
+  {
+    "date": "2023-07-21",
+    "occupancy": [
+      {
+        "interval": "00:00:00",
+        "occupancy": 1,
+        "actual_occupancy": 1,
+        "predicted_occupancy": 6
+      },
+      {
+        "interval": "00:30:00",
+        "occupancy": 4,
+        "actual_occupancy": 4,
+        "predicted_occupancy": 8
+      },
+      {
+        "interval": "01:00:00",
+        "occupancy": 1,
+        "actual_occupancy": 1,
+        "predicted_occupancy": 4
+      },
+      {
+        "interval": "11:00:00",
+        "occupancy": 4,
+        "actual_occupancy": 4,
+        "predicted_occupancy": 12
+      },
+      {
+        "interval": "11:30:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "12:00:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "12:30:00",
+        "occupancy": 10,
+        "actual_occupancy": 10,
+        "predicted_occupancy": 7
+      },
+      {
+        "interval": "13:00:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 8
+      },
+      {
+        "interval": "13:30:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 10
+      },
+      {
+        "interval": "14:00:00",
+        "occupancy": 11,
+        "actual_occupancy": 11,
+        "predicted_occupancy": 3
+      },
+      {
+        "interval": "14:30:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 10
+      },
+      {
+        "interval": "15:00:00",
+        "occupancy": 7,
+        "actual_occupancy": 7,
+        "predicted_occupancy": 2
+      },
+      {
+        "interval": "15:30:00",
+        "occupancy": 4,
+        "actual_occupancy": 4,
+        "predicted_occupancy": 2
+      },
+      {
+        "interval": "16:30:00",
+        "occupancy": 1,
+        "actual_occupancy": 1,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "17:00:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "17:30:00",
+        "occupancy": 1,
+        "actual_occupancy": 1,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "18:00:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 8
+      },
+      {
+        "interval": "18:30:00",
+        "occupancy": 10,
+        "actual_occupancy": 10,
+        "predicted_occupancy": 16
+      },
+      {
+        "interval": "19:00:00",
+        "occupancy": 10,
+        "actual_occupancy": 10,
+        "predicted_occupancy": 9
+      },
+      {
+        "interval": "19:30:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 9
+      },
+      {
+        "interval": "20:00:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 2
+      },
+      {
+        "interval": "20:30:00",
+        "occupancy": 8,
+        "actual_occupancy": 8,
+        "predicted_occupancy": 14
+      },
+      {
+        "interval": "21:00:00",
+        "occupancy": 8,
+        "actual_occupancy": 8,
+        "predicted_occupancy": 15
+      },
+      {
+        "interval": "21:30:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 9
+      },
+      {
+        "interval": "22:00:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 1
+      },
+      {
+        "interval": "22:30:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 12
+      },
+      {
+        "interval": "23:00:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 1
+      },
+      {
+        "interval": "23:30:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 7
+      }
+    ]
+  },
+  {
+    "date": "2023-07-22",
+    "occupancy": [
+      {
+        "interval": "00:00:00",
+        "occupancy": 9,
+        "actual_occupancy": 9,
+        "predicted_occupancy": 10
+      },
+      {
+        "interval": "00:30:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "01:00:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "01:30:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 10
+      },
+      {
+        "interval": "11:30:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "12:00:00",
+        "occupancy": 9,
+        "actual_occupancy": 9,
+        "predicted_occupancy": 10
+      },
+      {
+        "interval": "12:30:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 11
+      },
+      {
+        "interval": "13:00:00",
+        "occupancy": 12,
+        "actual_occupancy": 12,
+        "predicted_occupancy": 10
+      },
+      {
+        "interval": "13:30:00",
+        "occupancy": 8,
+        "actual_occupancy": 8,
+        "predicted_occupancy": 5
+      },
+      {
+        "interval": "14:00:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "14:30:00",
+        "occupancy": 9,
+        "actual_occupancy": 9,
+        "predicted_occupancy": 4
+      },
+      {
+        "interval": "15:00:00",
+        "occupancy": 7,
+        "actual_occupancy": 7,
+        "predicted_occupancy": 15
+      },
+      {
+        "interval": "15:30:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 8
+      },
+      {
+        "interval": "16:00:00",
+        "occupancy": 1,
+        "actual_occupancy": 1,
+        "predicted_occupancy": 8
+      },
+      {
+        "interval": "17:00:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "17:30:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 2
+      },
+      {
+        "interval": "18:00:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 11
+      },
+      {
+        "interval": "18:30:00",
+        "occupancy": 1,
+        "actual_occupancy": 1,
+        "predicted_occupancy": 5
+      },
+      {
+        "interval": "19:00:00",
+        "occupancy": 1,
+        "actual_occupancy": 1,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "19:30:00",
+        "occupancy": 16,
+        "actual_occupancy": 16,
+        "predicted_occupancy": 13
+      },
+      {
+        "interval": "20:00:00",
+        "occupancy": 12,
+        "actual_occupancy": 12,
+        "predicted_occupancy": 4
+      },
+      {
+        "interval": "20:30:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "21:00:00",
+        "occupancy": 10,
+        "actual_occupancy": 10,
+        "predicted_occupancy": 4
+      },
+      {
+        "interval": "21:30:00",
+        "occupancy": 4,
+        "actual_occupancy": 4,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "22:00:00",
+        "occupancy": 13,
+        "actual_occupancy": 13,
+        "predicted_occupancy": 14
+      },
+      {
+        "interval": "22:30:00",
+        "occupancy": 7,
+        "actual_occupancy": 7,
+        "predicted_occupancy": 15
+      },
+      {
+        "interval": "23:00:00",
+        "occupancy": 11,
+        "actual_occupancy": 11,
+        "predicted_occupancy": 16
+      },
+      {
+        "interval": "23:30:00",
+        "occupancy": 15,
+        "actual_occupancy": 15,
+        "predicted_occupancy": 21
+      }
+    ]
+  },
+  {
+    "date": "2023-07-23",
+    "occupancy": [
+      {
+        "interval": "00:00:00",
+        "occupancy": 7,
+        "actual_occupancy": 7,
+        "predicted_occupancy": 14
+      },
+      {
+        "interval": "00:30:00",
+        "occupancy": 11,
+        "actual_occupancy": 11,
+        "predicted_occupancy": 6
+      },
+      {
+        "interval": "01:00:00",
+        "occupancy": 12,
+        "actual_occupancy": 12,
+        "predicted_occupancy": 5
+      },
+      {
+        "interval": "01:30:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 9
+      },
+      {
+        "interval": "18:30:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 5
+      },
+      {
+        "interval": "19:00:00",
+        "occupancy": 4,
+        "actual_occupancy": 4,
+        "predicted_occupancy": 9
+      },
+      {
+        "interval": "19:30:00",
+        "occupancy": 7,
+        "actual_occupancy": 7,
+        "predicted_occupancy": 11
+      },
+      {
+        "interval": "20:00:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 6
+      },
+      {
+        "interval": "20:30:00",
+        "occupancy": 8,
+        "actual_occupancy": 8,
+        "predicted_occupancy": 6
+      },
+      {
+        "interval": "21:00:00",
+        "occupancy": 1,
+        "actual_occupancy": 1,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "21:30:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "22:00:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "22:30:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "23:00:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 3
+      },
+      {
+        "interval": "23:30:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 2
+      }
+    ]
+  },
+  {
+    "date": "2023-07-24",
+    "occupancy": [
+      {
+        "interval": "00:00:00",
+        "occupancy": 4,
+        "actual_occupancy": 4,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "00:30:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 5
+      },
+      {
+        "interval": "01:00:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 3
+      },
+      {
+        "interval": "01:30:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 5
+      },
+      {
+        "interval": "18:00:00",
+        "occupancy": 1,
+        "actual_occupancy": 1,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "18:30:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 4
+      },
+      {
+        "interval": "19:00:00",
+        "occupancy": 4,
+        "actual_occupancy": 4,
+        "predicted_occupancy": 1
+      },
+      {
+        "interval": "19:30:00",
+        "occupancy": 1,
+        "actual_occupancy": 1,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "20:00:00",
+        "occupancy": 10,
+        "actual_occupancy": 10,
+        "predicted_occupancy": 17
+      },
+      {
+        "interval": "20:30:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "21:00:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "21:30:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "22:00:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "22:30:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 13
+      },
+      {
+        "interval": "23:00:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 10
+      },
+      {
+        "interval": "23:30:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 8
+      }
+    ]
+  },
+  {
+    "date": "2023-07-25",
+    "occupancy": [
+      {
+        "interval": "00:00:00",
+        "occupancy": 7,
+        "actual_occupancy": 7,
+        "predicted_occupancy": 2
+      },
+      {
+        "interval": "00:30:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "01:00:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "01:30:00",
+        "occupancy": 1,
+        "actual_occupancy": 1,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "18:00:00",
+        "occupancy": 1,
+        "actual_occupancy": 1,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "18:30:00",
+        "occupancy": 7,
+        "actual_occupancy": 7,
+        "predicted_occupancy": 13
+      },
+      {
+        "interval": "19:00:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 10
+      },
+      {
+        "interval": "19:30:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "20:00:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 1
+      },
+      {
+        "interval": "20:30:00",
+        "occupancy": 1,
+        "actual_occupancy": 1,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "21:00:00",
+        "occupancy": 4,
+        "actual_occupancy": 4,
+        "predicted_occupancy": 8
+      },
+      {
+        "interval": "21:30:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 3
+      },
+      {
+        "interval": "22:30:00",
+        "occupancy": 4,
+        "actual_occupancy": 4,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "23:00:00",
+        "occupancy": 9,
+        "actual_occupancy": 9,
+        "predicted_occupancy": 13
+      },
+      {
+        "interval": "23:30:00",
+        "occupancy": 4,
+        "actual_occupancy": 4,
+        "predicted_occupancy": 8
+      }
+    ]
+  },
+  {
+    "date": "2023-07-26",
+    "occupancy": [
+      {
+        "interval": "00:00:00",
+        "occupancy": 8,
+        "actual_occupancy": 8,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "01:00:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 7
+      },
+      {
+        "interval": "01:30:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 6
+      },
+      {
+        "interval": "19:00:00",
+        "occupancy": 1,
+        "actual_occupancy": 1,
+        "predicted_occupancy": 9
+      },
+      {
+        "interval": "19:30:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "20:00:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 11
+      },
+      {
+        "interval": "20:30:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 7
+      },
+      {
+        "interval": "21:00:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 8
+      },
+      {
+        "interval": "22:00:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 3
+      },
+      {
+        "interval": "22:30:00",
+        "occupancy": 1,
+        "actual_occupancy": 1,
+        "predicted_occupancy": 2
+      },
+      {
+        "interval": "23:00:00",
+        "occupancy": 4,
+        "actual_occupancy": 4,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "23:30:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 0
+      }
+    ]
+  },
+  {
+    "date": "2023-07-27",
+    "occupancy": [
+      {
+        "interval": "00:00:00",
+        "occupancy": 7,
+        "actual_occupancy": 7,
+        "predicted_occupancy": 10
+      },
+      {
+        "interval": "00:30:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 3
+      },
+      {
+        "interval": "01:00:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 4
+      },
+      {
+        "interval": "01:30:00",
+        "occupancy": 1,
+        "actual_occupancy": 1,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "19:00:00",
+        "occupancy": 1,
+        "actual_occupancy": 1,
+        "predicted_occupancy": 3
+      },
+      {
+        "interval": "20:00:00",
+        "occupancy": 12,
+        "actual_occupancy": 12,
+        "predicted_occupancy": 11
+      },
+      {
+        "interval": "21:00:00",
+        "occupancy": 1,
+        "actual_occupancy": 1,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "21:30:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 4
+      },
+      {
+        "interval": "23:00:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 11
+      }
+    ]
+  },
+  {
+    "date": "2023-07-28",
+    "occupancy": [
+      {
+        "interval": "00:00:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 8
+      },
+      {
+        "interval": "00:30:00",
+        "occupancy": 1,
+        "actual_occupancy": 1,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "01:00:00",
+        "occupancy": 1,
+        "actual_occupancy": 1,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "01:30:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 13
+      },
+      {
+        "interval": "19:00:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 12
+      },
+      {
+        "interval": "19:30:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 13
+      },
+      {
+        "interval": "20:00:00",
+        "occupancy": 13,
+        "actual_occupancy": 13,
+        "predicted_occupancy": 15
+      },
+      {
+        "interval": "20:30:00",
+        "occupancy": 7,
+        "actual_occupancy": 7,
+        "predicted_occupancy": 14
+      },
+      {
+        "interval": "21:00:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 11
+      },
+      {
+        "interval": "21:30:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "22:00:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 1
+      },
+      {
+        "interval": "22:30:00",
+        "occupancy": 1,
+        "actual_occupancy": 1,
+        "predicted_occupancy": 2
+      },
+      {
+        "interval": "23:00:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 11
+      },
+      {
+        "interval": "23:30:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 8
+      }
+    ]
+  },
+  {
+    "date": "2023-07-29",
+    "occupancy": [
+      {
+        "interval": "00:00:00",
+        "occupancy": 7,
+        "actual_occupancy": 7,
+        "predicted_occupancy": 6
+      },
+      {
+        "interval": "00:30:00",
+        "occupancy": 13,
+        "actual_occupancy": 13,
+        "predicted_occupancy": 10
+      },
+      {
+        "interval": "01:00:00",
+        "occupancy": 7,
+        "actual_occupancy": 7,
+        "predicted_occupancy": 13
+      },
+      {
+        "interval": "01:30:00",
+        "occupancy": 4,
+        "actual_occupancy": 4,
+        "predicted_occupancy": 11
+      },
+      {
+        "interval": "19:00:00",
+        "occupancy": 4,
+        "actual_occupancy": 4,
+        "predicted_occupancy": 1
+      },
+      {
+        "interval": "19:30:00",
+        "occupancy": 7,
+        "actual_occupancy": 7,
+        "predicted_occupancy": 1
+      },
+      {
+        "interval": "20:00:00",
+        "occupancy": 13,
+        "actual_occupancy": 13,
+        "predicted_occupancy": 8
+      },
+      {
+        "interval": "20:30:00",
+        "occupancy": 11,
+        "actual_occupancy": 11,
+        "predicted_occupancy": 16
+      },
+      {
+        "interval": "21:30:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "22:00:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 8
+      },
+      {
+        "interval": "22:30:00",
+        "occupancy": 5,
+        "actual_occupancy": 5,
+        "predicted_occupancy": 12
+      },
+      {
+        "interval": "23:00:00",
+        "occupancy": 1,
+        "actual_occupancy": 1,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "23:30:00",
+        "occupancy": 4,
+        "actual_occupancy": 4,
+        "predicted_occupancy": 0
+      }
+    ]
+  },
+  {
+    "date": "2023-07-30",
+    "occupancy": [
+      {
+        "interval": "00:00:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 4
+      },
+      {
+        "interval": "00:30:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 10
+      },
+      {
+        "interval": "01:00:00",
+        "occupancy": 1,
+        "actual_occupancy": 1,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "01:30:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 14
+      },
+      {
+        "interval": "19:00:00",
+        "occupancy": 1,
+        "actual_occupancy": 1,
+        "predicted_occupancy": 6
+      },
+      {
+        "interval": "20:00:00",
+        "occupancy": 7,
+        "actual_occupancy": 7,
+        "predicted_occupancy": 13
+      },
+      {
+        "interval": "20:30:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "21:00:00",
+        "occupancy": 4,
+        "actual_occupancy": 4,
+        "predicted_occupancy": 3
+      },
+      {
+        "interval": "21:30:00",
+        "occupancy": 4,
+        "actual_occupancy": 4,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "22:00:00",
+        "occupancy": 1,
+        "actual_occupancy": 1,
+        "predicted_occupancy": 4
+      },
+      {
+        "interval": "22:30:00",
+        "occupancy": 4,
+        "actual_occupancy": 4,
+        "predicted_occupancy": 3
+      },
+      {
+        "interval": "23:00:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 7
+      },
+      {
+        "interval": "23:30:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 5
+      }
+    ]
+  },
+  {
+    "date": "2023-07-31",
+    "occupancy": [
+      {
+        "interval": "00:00:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "00:30:00",
+        "occupancy": 1,
+        "actual_occupancy": 1,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "01:00:00",
+        "occupancy": 4,
+        "actual_occupancy": 4,
+        "predicted_occupancy": 11
+      },
+      {
+        "interval": "01:30:00",
+        "occupancy": 7,
+        "actual_occupancy": 7,
+        "predicted_occupancy": 11
+      },
+      {
+        "interval": "18:30:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 11
+      },
+      {
+        "interval": "19:00:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 1
+      },
+      {
+        "interval": "19:30:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 11
+      },
+      {
+        "interval": "20:00:00",
+        "occupancy": 18,
+        "actual_occupancy": 18,
+        "predicted_occupancy": 17
+      },
+      {
+        "interval": "20:30:00",
+        "occupancy": 11,
+        "actual_occupancy": 11,
+        "predicted_occupancy": 4
+      },
+      {
+        "interval": "21:00:00",
+        "occupancy": 4,
+        "actual_occupancy": 4,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "21:30:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 0
+      },
+      {
+        "interval": "22:00:00",
+        "occupancy": 1,
+        "actual_occupancy": 1,
+        "predicted_occupancy": 5
+      },
+      {
+        "interval": "22:30:00",
+        "occupancy": 6,
+        "actual_occupancy": 6,
+        "predicted_occupancy": 8
+      },
+      {
+        "interval": "23:00:00",
+        "occupancy": 2,
+        "actual_occupancy": 2,
+        "predicted_occupancy": 5
+      },
+      {
+        "interval": "23:30:00",
+        "occupancy": 3,
+        "actual_occupancy": 3,
+        "predicted_occupancy": 0
+      }
+    ]
+  }
+]

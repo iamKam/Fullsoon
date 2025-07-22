@@ -1,0 +1,128 @@
+.forget-password-container {
+  min-height: 100vh !important;
+  margin-right: 0 !important;
+  margin-left: 0 !important;
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+  background-color: white;
+  font-family: Nunito Sans;
+
+  .left-container {
+    background-color: #6353ea;
+
+    .align-middle {
+      align-self: center;
+    }
+
+    .left-container-logo {
+      align-self: center;
+      margin-left: 20px;
+    }
+
+    .logo-text {
+      font-style: normal;
+      font-weight: 800;
+      font-size: 18px;
+      line-height: 22px;
+      display: flex;
+      align-items: center;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      color: white;
+      margin-left: 8px;
+    }
+  }
+
+  .right-container {
+    .back-text {
+      font-style: normal;
+      font-weight: bold;
+      font-size: 14px;
+      line-height: 19px;
+      display: flex;
+      align-items: center;
+      color: #8b8f94;
+    }
+
+    .forget-password-title {
+      font-style: normal;
+      font-weight: 800;
+      font-size: 34px;
+      line-height: 46px;
+      display: flex;
+      align-items: center;
+      color: #000000;
+      margin-top: 50px;
+      margin-bottom: 10px !important;
+      @media (max-width: 1400px) {
+        margin-top: 20px;
+      }
+    }
+
+    .forget-password-sub-title {
+      font-style: normal;
+      font-weight: bold;
+      font-size: 20px;
+      line-height: 29px;
+      align-items: center;
+      color: #6353ea;
+      margin-bottom: 40px !important;
+    }
+
+    .input-title {
+      font-style: normal;
+      font-weight: bold;
+      font-size: 16px;
+      line-height: 22px;
+      margin-bottom: 20px;
+      align-items: center;
+      color: #000000;
+    }
+
+    .forget-password-btn {
+      margin-top: 40px;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 12px;
+      line-height: 16px;
+      color: #ffffff;
+      width: 100%;
+      @media (max-width: 1400px) {
+        margin-top: 30px;
+      }
+    }
+
+    .forget-password-not-registered {
+      font-style: normal;
+      font-weight: normal;
+      font-size: 14px;
+      line-height: 19px;
+      align-items: center;
+      color: #000000;
+      margin-top: 15px;
+    }
+
+    .forget-password-create-an-account {
+      font-style: normal;
+      font-weight: bold;
+      font-size: 14px;
+      line-height: 19px;
+      text-align: end;
+      color: #6353ea;
+      cursor: pointer;
+    }
+
+    .error-text {
+      font-style: normal;
+      font-size: 14px;
+      line-height: 19px;
+      text-align: center;
+      color: red;
+      margin-top: 5px;
+    }
+
+    .phone-input {
+      width: 100% !important;
+    }
+  }
+}
